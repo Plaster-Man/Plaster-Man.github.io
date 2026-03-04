@@ -1,4 +1,4 @@
-[CustomCards]
+﻿[CustomCards]
 	[
 		{
 			"name": "Blessed Eternity Yet Echoes",
@@ -7,7 +7,7 @@
 			"type": "Immanent Enchantment",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/2_Blessed Eternity Yet Echoes.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/2_Blessed Eternity Yet Echoes.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/15_You Are Always Welcome.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/15_You Are Always Welcome.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/9_Never Forget Your Loyalties.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/9_Never Forget Your Loyalties.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Immanent Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/3_A Chorus Before Our Thrones.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/3_A Chorus Before Our Thrones.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/5_Guided by Higher Hands.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/5_Guided by Higher Hands.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/4_Gaze of a False Sun.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/4_Gaze of a False Sun.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/7_Lose Yourself in Our Arms.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/7_Lose Yourself in Our Arms.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Immanent Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/11_Ours Is the Way Between.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/11_Ours Is the Way Between.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Immanent Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/8_A Near-Unseen Splendor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/8_A Near-Unseen Splendor.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/6_A Light Vast and Terrible.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/6_A Light Vast and Terrible.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Immanent Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/10_Normalcy Is Infinity's Policy.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/10_Normalcy Is Infinity's Policy.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Immanent Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/12_Pulse of the Tower's Heart.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/12_Pulse of the Tower's Heart.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/1_As It Is, Forever.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/1_As It Is, Forever.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/14_Wrath of the Shrouded King.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/14_Wrath of the Shrouded King.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Immanent Sorcery",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/13_Step Forth Into Forever.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/13_Step Forth Into Forever.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Human Doctor",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/33_Luminary Euthanist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/33_Luminary Euthanist.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Angel Demon Elf",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/26_First-Form Visionary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/26_First-Form Visionary.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Creature — Homunculus Cleric",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/31_Kolyost Pathlighter.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/31_Kolyost Pathlighter.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Creature — Vampire Soldier",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/37_North-Front Brigadier.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/37_North-Front Brigadier.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Human Elf Doctor",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/39_Overeager Chirurgeon.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/39_Overeager Chirurgeon.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Angel Cleric Scout",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/71_Exodite Provost.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/71_Exodite Provost.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/47_Solomonarya Revelator.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/47_Solomonarya Revelator.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/43_Remnant of Blizzards.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/43_Remnant of Blizzards.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature — Human Noble Warlock",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/27_Highborn Occultist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/27_Highborn Occultist.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/49_Swift Exultation.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/49_Swift Exultation.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Sorcery",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/53_Wander in Dream.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/53_Wander in Dream.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/18_Dose of Albichoi.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/18_Dose of Albichoi.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/16_Alkaline Reliquary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/16_Alkaline Reliquary.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/24_Face Hell.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/24_Face Hell.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Creature — Vampire Cleric Warrior",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/23_Exodite Zealot.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/23_Exodite Zealot.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Vampire Scientist Cleric",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/48_Solomonarya Ritebreeder.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/48_Solomonarya Ritebreeder.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Homunculus Soldier",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/28_Import Inspectors.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/28_Import Inspectors.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Angel Elf Egg",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/36_Newborn Albichon.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/36_Newborn Albichon.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/35_Merchant's Due.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/35_Merchant's Due.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/30_Journey's End.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/30_Journey's End.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/29_Into the Breach.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/29_Into the Breach.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Enchantment",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/42_Promised Syzygy.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/42_Promised Syzygy.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/25_Final Transfusion.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/25_Final Transfusion.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Legendary Creature — Vampire Cleric",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/19_Dyrshei, Dawning Seminarian.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/19_Dyrshei, Dawning Seminarian.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Demon Reflection",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/22_Eumorphosiac.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/22_Eumorphosiac.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Homunculus Harpy",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/45_Sentinel of Lost Empires.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/45_Sentinel of Lost Empires.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/38_Overdose.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/38_Overdose.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Legendary Creature — Angel Human Soldier",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/21_Eraion, Chair of Defense.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/21_Eraion, Chair of Defense.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Homunculus Cleric",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/61_Chemander Pilgrim.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/61_Chemander Pilgrim.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/69_Enraptured Ecologist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/69_Enraptured Ecologist.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature — Demon Vampire Wizard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/89_Solemn Phegorichon.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/89_Solemn Phegorichon.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/76_Luminary Defense Corps.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/76_Luminary Defense Corps.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Vampire Cleric",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/58_Bishop of Elder Blood.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/58_Bishop of Elder Blood.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Angel Soldier",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/78_Marathrine Skywatch.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/78_Marathrine Skywatch.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Homunculus Rogue",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/63_Covetous Scion.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/63_Covetous Scion.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/70_Essence Capture.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/70_Essence Capture.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Wall",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/72_Glacial Obelisk.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/72_Glacial Obelisk.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Creature — Vampire Soldier",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/75_Lidechian Ground Patrol.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/75_Lidechian Ground Patrol.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/87_Secure.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/87_Secure.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/81_Neuter Reliquary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/81_Neuter Reliquary.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/80_Narcoleptic Visions.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/80_Narcoleptic Visions.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Sorcery",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/57_Best Left Buried.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/57_Best Left Buried.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Human Scientist Soldier",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/68_Enlightened Operative.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/68_Enlightened Operative.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Angel Scientist Cleric",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/54_Archivist of True Faith.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/54_Archivist of True Faith.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Homunculus Shapeshifter",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/60_Chemander Messenger.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/60_Chemander Messenger.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/82_Notorious Hack.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/82_Notorious Hack.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/85_Remnant of Icesheets.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/85_Remnant of Icesheets.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/83_Nucleotithe.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/83_Nucleotithe.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/86_Rewelded Bathycapsule.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/86_Rewelded Bathycapsule.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Instant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/59_Carmine's Intervention.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/59_Carmine's Intervention.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Legendary Creature — Homunculus Rogue",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/73_Ida Prime, Superego.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/73_Ida Prime, Superego.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Human Scientist Advisor",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/62_Chief Financial Officer.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/62_Chief Financial Officer.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Enchantment",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/74_In Dim Kthyevai.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/74_In Dim Kthyevai.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/64_Denature.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/64_Denature.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/84_The Place Where It Was Torn.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/84_The Place Where It Was Torn.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Vampire Cleric",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/100_Exodite Doomsayer.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/100_Exodite Doomsayer.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Homunculus Warlock",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/94_Chemander Officiant.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/94_Chemander Officiant.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Demon Bird",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/110_Morphing Dove.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/110_Morphing Dove.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Vampire Citizen Warlock",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/112_New Cyrane Initiate.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/112_New Cyrane Initiate.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/116_Remnant of Middens.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/116_Remnant of Middens.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/118_Remnant of Thrones.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/118_Remnant of Thrones.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/97_Dose of Phegorichoi.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/97_Dose of Phegorichoi.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/124_Sublimation of Self.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/124_Sublimation of Self.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/103_Hexhauler's Carriage.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/103_Hexhauler's Carriage.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/115_Pollute.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/115_Pollute.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/111_Mortal Insignificance.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/111_Mortal Insignificance.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/120_Scan the Aftermath.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/120_Scan the Aftermath.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/107_Masochistic Addiction.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/107_Masochistic Addiction.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Demon Elf Shaman",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/121_Scorn-Brand Thrall.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/121_Scorn-Brand Thrall.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Homunculus Scientist",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/113_Obsessive Chemander.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/113_Obsessive Chemander.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/119_Revelation in Ash.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/119_Revelation in Ash.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Creature — Elf Vampire Soldier",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/92_Alkhin Pass Commando.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/92_Alkhin Pass Commando.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/117_Remnant of Sepulchers.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/117_Remnant of Sepulchers.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Enchantment",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/105_In Awe and in Horror.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/105_In Awe and in Horror.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Creature — Vampire Noble",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/104_Ichoiclast.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/104_Ichoiclast.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Creature — Vampire Performer",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/109_Misfortune Broker.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/109_Misfortune Broker.png"
 			}
 		},
 		{
@@ -916,8 +916,15 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Cleric",
 			"collector_number": "95",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/95_Congregation Elocutor_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/95_Congregation Elocutor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/95_Congregation Elocutor_front.png"
 			}
 		},
 		{
@@ -927,7 +934,7 @@
 			"type": "Enchantment",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/123_So Below.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/123_So Below.png"
 			}
 		},
 		{
@@ -937,7 +944,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/101_Fundament as One.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/101_Fundament as One.png"
 			}
 		},
 		{
@@ -947,7 +954,7 @@
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/122_Searing Sacrament.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/122_Searing Sacrament.png"
 			}
 		},
 		{
@@ -957,7 +964,7 @@
 			"type": "Legendary Creature — Demon Advisor",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/99_EG Armon, Industry Confidant.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/99_EG Armon, Industry Confidant.png"
 			}
 		},
 		{
@@ -967,7 +974,7 @@
 			"type": "Creature — Homunculus Plant",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/130_Apothecary's Nest.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/130_Apothecary's Nest.png"
 			}
 		},
 		{
@@ -977,7 +984,7 @@
 			"type": "Creature — Homunculus Wizard",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/167_Unsettling Cantor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/167_Unsettling Cantor.png"
 			}
 		},
 		{
@@ -987,7 +994,7 @@
 			"type": "Creature — Elf Angel Citizen",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/138_Flair Bartender.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/138_Flair Bartender.png"
 			}
 		},
 		{
@@ -997,7 +1004,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/160_Remnant of Tremors.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/160_Remnant of Tremors.png"
 			}
 		},
 		{
@@ -1007,7 +1014,7 @@
 			"type": "Creature — Demon Ooze",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/145_Insatiate Locus.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/145_Insatiate Locus.png"
 			}
 		},
 		{
@@ -1017,7 +1024,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/158_Remnant of Foundations.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/158_Remnant of Foundations.png"
 			}
 		},
 		{
@@ -1027,7 +1034,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/132_Blood-Bound Howl.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/132_Blood-Bound Howl.png"
 			}
 		},
 		{
@@ -1037,7 +1044,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/137_Expunge Evidence.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/137_Expunge Evidence.png"
 			}
 		},
 		{
@@ -1047,7 +1054,7 @@
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/151_Pancarnate Burst.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/151_Pancarnate Burst.png"
 			}
 		},
 		{
@@ -1057,7 +1064,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/134_Demand Answers REART.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/134_Demand Answers REART.png"
 			}
 		},
 		{
@@ -1067,7 +1074,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/149_No Mortal's Land.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/149_No Mortal's Land.png"
 			}
 		},
 		{
@@ -1077,7 +1084,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/136_Empath's Entreaty.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/136_Empath's Entreaty.png"
 			}
 		},
 		{
@@ -1087,7 +1094,7 @@
 			"type": "Creature — Human Rogue Doctor",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/166_Unlicensed Transfusionist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/166_Unlicensed Transfusionist.png"
 			}
 		},
 		{
@@ -1097,7 +1104,7 @@
 			"type": "Creature — Demon Lizard",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/143_Ichorflesh Pack.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/143_Ichorflesh Pack.png"
 			}
 		},
 		{
@@ -1107,7 +1114,7 @@
 			"type": "Creature — Demon Boar",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/139_Freeway Oilmaw.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/139_Freeway Oilmaw.png"
 			}
 		},
 		{
@@ -1117,7 +1124,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/152_Panichon's Promise.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/152_Panichon's Promise.png"
 			}
 		},
 		{
@@ -1127,7 +1134,7 @@
 			"type": "Creature — Homunculus Dog",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/142_Hunt-Hewn Retrievers.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/142_Hunt-Hewn Retrievers.png"
 			}
 		},
 		{
@@ -1137,7 +1144,7 @@
 			"type": "Creature — Angel Demon Vampire",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/141_Herald of the First Form.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/141_Herald of the First Form.png"
 			}
 		},
 		{
@@ -1147,7 +1154,7 @@
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/144_Inconceivable Vision.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/144_Inconceivable Vision.png"
 			}
 		},
 		{
@@ -1157,7 +1164,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/140_Glyphic Unearthing.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/140_Glyphic Unearthing.png"
 			}
 		},
 		{
@@ -1167,7 +1174,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/165_Tormented Tram.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/165_Tormented Tram.png"
 			}
 		},
 		{
@@ -1177,7 +1184,7 @@
 			"type": "Creature — Demon Human Scientist",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/153_Patent Orchestrator.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/153_Patent Orchestrator.png"
 			}
 		},
 		{
@@ -1187,7 +1194,7 @@
 			"type": "Sorcery",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/156_Realize the Gateway.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/156_Realize the Gateway.png"
 			}
 		},
 		{
@@ -1197,7 +1204,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/157_Remnant of Capitals.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/157_Remnant of Capitals.png"
 			}
 		},
 		{
@@ -1207,7 +1214,7 @@
 			"type": "Legendary Creature — Angel Demon Elf",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/146_Kyrion, Kolyost's Deliverance.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/146_Kyrion, Kolyost's Deliverance.png"
 			}
 		},
 		{
@@ -1217,7 +1224,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/159_Remnant of the Rift.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/159_Remnant of the Rift.png"
 			}
 		},
 		{
@@ -1227,7 +1234,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/170_Alchemist's Familiar.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/170_Alchemist's Familiar.png"
 			}
 		},
 		{
@@ -1237,7 +1244,7 @@
 			"type": "Creature — Homunculus Advisor",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/172_Chemander Proselyte.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/172_Chemander Proselyte.png"
 			}
 		},
 		{
@@ -1247,7 +1254,7 @@
 			"type": "Creature — Homunculus Plant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/189_Pristine Angiomorph.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/189_Pristine Angiomorph.png"
 			}
 		},
 		{
@@ -1257,7 +1264,7 @@
 			"type": "Creature — Angel Elk",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/178_Immaculate Quarry.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/178_Immaculate Quarry.png"
 			}
 		},
 		{
@@ -1267,7 +1274,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/203_Waif of Irdam Wood.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/203_Waif of Irdam Wood.png"
 			}
 		},
 		{
@@ -1277,7 +1284,7 @@
 			"type": "Creature — Demon Worm",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/175_Deep-Vein Latchjaw.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/175_Deep-Vein Latchjaw.png"
 			}
 		},
 		{
@@ -1287,7 +1294,7 @@
 			"type": "Artifact",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/195_Synthesis Station.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/195_Synthesis Station.png"
 			}
 		},
 		{
@@ -1297,7 +1304,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/182_Monitor Molder.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/182_Monitor Molder.png"
 			}
 		},
 		{
@@ -1307,7 +1314,7 @@
 			"type": "Sorcery",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/190_Probiotic Consecration.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/190_Probiotic Consecration.png"
 			}
 		},
 		{
@@ -1317,7 +1324,7 @@
 			"type": "Sorcery",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/174_Claim Audience.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/174_Claim Audience.png"
 			}
 		},
 		{
@@ -1327,7 +1334,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/168_Acidic Reliquary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/168_Acidic Reliquary.png"
 			}
 		},
 		{
@@ -1337,7 +1344,7 @@
 			"type": "Sorcery",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/171_Battle at the Institute.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/171_Battle at the Institute.png"
 			}
 		},
 		{
@@ -1347,7 +1354,7 @@
 			"type": "Creature — Vampire Druid",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/169_Acolyte of Evolution.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/169_Acolyte of Evolution.png"
 			}
 		},
 		{
@@ -1357,7 +1364,7 @@
 			"type": "Creature — Demon Human Noble",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/181_Marathrine Consummator.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/181_Marathrine Consummator.png"
 			}
 		},
 		{
@@ -1367,7 +1374,7 @@
 			"type": "Enchantment",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/188_Presence of the Unrealized.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/188_Presence of the Unrealized.png"
 			}
 		},
 		{
@@ -1377,7 +1384,7 @@
 			"type": "Sorcery",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/200_Unearthly Radiance.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/200_Unearthly Radiance.png"
 			}
 		},
 		{
@@ -1387,7 +1394,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/192_Remnant of Summits.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/192_Remnant of Summits.png"
 			}
 		},
 		{
@@ -1397,7 +1404,7 @@
 			"type": "Creature — Elf Warrior",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/202_Vitriolic Subversive.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/202_Vitriolic Subversive.png"
 			}
 		},
 		{
@@ -1407,7 +1414,7 @@
 			"type": "Artifact",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/173_Churning Ichoi-Still.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/173_Churning Ichoi-Still.png"
 			}
 		},
 		{
@@ -1417,7 +1424,7 @@
 			"type": "Creature — Angel Shapeshifter Beast",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/205_Wild Aspiration.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/205_Wild Aspiration.png"
 			}
 		},
 		{
@@ -1427,7 +1434,7 @@
 			"type": "Creature — Elder Homunculus Horror",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/191_Remnant of Annexes.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/191_Remnant of Annexes.png"
 			}
 		},
 		{
@@ -1437,7 +1444,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/186_Paths Undreamt.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/186_Paths Undreamt.png"
 			}
 		},
 		{
@@ -1447,7 +1454,7 @@
 			"type": "Enchantment",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/204_Wheel of Other and Self.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/204_Wheel of Other and Self.png"
 			}
 		},
 		{
@@ -1457,7 +1464,7 @@
 			"type": "Sorcery",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/199_Unbidden Voyage.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/199_Unbidden Voyage.png"
 			}
 		},
 		{
@@ -1467,7 +1474,7 @@
 			"type": "Creature — Elf Scientist Noble",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/239_Visiting Emeritus.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/239_Visiting Emeritus.png"
 			}
 		},
 		{
@@ -1477,7 +1484,7 @@
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/210_Curse-Chained Neonate.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/210_Curse-Chained Neonate.png"
 			}
 		},
 		{
@@ -1487,7 +1494,7 @@
 			"type": "Creature — Human Noble Scientist",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/222_Lucrezion Heiress.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/222_Lucrezion Heiress.png"
 			}
 		},
 		{
@@ -1497,7 +1504,7 @@
 			"type": "Creature — Vampire Shaman",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/224_Maiden of the Old Hunt.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/224_Maiden of the Old Hunt.png"
 			}
 		},
 		{
@@ -1507,7 +1514,7 @@
 			"type": "Creature — Elf Scientist Actor",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/229_Pop-Sci Spokesmodel.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/229_Pop-Sci Spokesmodel.png"
 			}
 		},
 		{
@@ -1517,7 +1524,7 @@
 			"type": "Creature — Bat Horror",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/213_Doorkeeper of Tenerka.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/213_Doorkeeper of Tenerka.png"
 			}
 		},
 		{
@@ -1527,7 +1534,7 @@
 			"type": "Creature — Nautilus Eye",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/206_Archaeopticon.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/206_Archaeopticon.png"
 			}
 		},
 		{
@@ -1537,7 +1544,7 @@
 			"type": "Creature — Homunculus Scout",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/231_Reclamation Chemander.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/231_Reclamation Chemander.png"
 			}
 		},
 		{
@@ -1547,7 +1554,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/209_Cleanup Officer.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/209_Cleanup Officer.png"
 			}
 		},
 		{
@@ -1557,7 +1564,7 @@
 			"type": "Creature — Human Peasant Shaman",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/221_Koymyin Interlocutor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/221_Koymyin Interlocutor.png"
 			}
 		},
 		{
@@ -1567,7 +1574,7 @@
 			"type": "Artifact",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/223_Luminary Laboratory.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/223_Luminary Laboratory.png"
 			}
 		},
 		{
@@ -1577,7 +1584,7 @@
 			"type": "Instant",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/212_Disassociate.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/212_Disassociate.png"
 			}
 		},
 		{
@@ -1587,7 +1594,7 @@
 			"type": "Sorcery",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/219_Induced Premonition.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/219_Induced Premonition.png"
 			}
 		},
 		{
@@ -1597,7 +1604,7 @@
 			"type": "Sorcery",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/238_Tracing the Gate.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/238_Tracing the Gate.png"
 			}
 		},
 		{
@@ -1607,7 +1614,7 @@
 			"type": "Enchantment",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/226_Mundane Sanctuary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/226_Mundane Sanctuary.png"
 			}
 		},
 		{
@@ -1617,7 +1624,7 @@
 			"type": "Sorcery",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/232_Reliquary Repossession.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/232_Reliquary Repossession.png"
 			}
 		},
 		{
@@ -1627,7 +1634,7 @@
 			"type": "Enchantment",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/235_Seed of the Ideal.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/235_Seed of the Ideal.png"
 			}
 		},
 		{
@@ -1637,7 +1644,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/237_Signals in the Murk.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/237_Signals in the Murk.png"
 			}
 		},
 		{
@@ -1647,7 +1654,7 @@
 			"type": "Sorcery",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/227_Parncarnate Embrace.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/227_Parncarnate Embrace.png"
 			}
 		},
 		{
@@ -1657,7 +1664,7 @@
 			"type": "Enchantment",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/220_Interminable Ways.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/220_Interminable Ways.png"
 			}
 		},
 		{
@@ -1667,7 +1674,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/246_New Cyrane Courier.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/246_New Cyrane Courier.png"
 			}
 		},
 		{
@@ -1677,7 +1684,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/250_Sigiled Gloves.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/250_Sigiled Gloves.png"
 			}
 		},
 		{
@@ -1687,7 +1694,7 @@
 			"type": "Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/248_Private Collection.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/248_Private Collection.png"
 			}
 		},
 		{
@@ -1697,7 +1704,7 @@
 			"type": "Artifact Creature — Scientist",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/244_Hemignosis Prototype.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/244_Hemignosis Prototype.png"
 			}
 		},
 		{
@@ -1707,7 +1714,7 @@
 			"type": "Artifact",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/245_Monolithic Decrees.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/245_Monolithic Decrees.png"
 			}
 		},
 		{
@@ -1717,7 +1724,7 @@
 			"type": "Artifact Creature — Octopus Drone",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/241_Baywatch Patrol.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/241_Baywatch Patrol.png"
 			}
 		},
 		{
@@ -1727,7 +1734,7 @@
 			"type": "Artifact",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/247_Perivitae Apparatus.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/247_Perivitae Apparatus.png"
 			}
 		},
 		{
@@ -1737,7 +1744,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/249_Shackles of Kthyevai.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/249_Shackles of Kthyevai.png"
 			}
 		},
 		{
@@ -1747,7 +1754,7 @@
 			"type": "Artifact",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/243_Equilibrine Font.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/243_Equilibrine Font.png"
 			}
 		},
 		{
@@ -1757,7 +1764,7 @@
 			"type": "Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/251_Backwoods Hideout.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/251_Backwoods Hideout.png"
 			}
 		},
 		{
@@ -1767,7 +1774,7 @@
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/262_Unstable Threshold.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/262_Unstable Threshold.png"
 			}
 		},
 		{
@@ -1777,7 +1784,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/50_To Lift One's Station.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/50_To Lift One's Station.png"
 			}
 		},
 		{
@@ -1787,7 +1794,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/51_To Temper Divinity.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/51_To Temper Divinity.png"
 			}
 		},
 		{
@@ -1797,7 +1804,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/91_To Nurture the Inner Eye.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/91_To Nurture the Inner Eye.png"
 			}
 		},
 		{
@@ -1807,7 +1814,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/90_To Impart Equilibrium.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/90_To Impart Equilibrium.png"
 			}
 		},
 		{
@@ -1817,7 +1824,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/127_To Scour One's Morals.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/127_To Scour One's Morals.png"
 			}
 		},
 		{
@@ -1827,7 +1834,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/126_To Dissolve Transgressions.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/126_To Dissolve Transgressions.png"
 			}
 		},
 		{
@@ -1837,7 +1844,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/128_To Speak Between.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/128_To Speak Between.png"
 			}
 		},
 		{
@@ -1847,7 +1854,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/163_To Commune the Broken.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/163_To Commune the Broken.png"
 			}
 		},
 		{
@@ -1857,7 +1864,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/162_To Carve One's Vengeance.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/162_To Carve One's Vengeance.png"
 			}
 		},
 		{
@@ -1867,7 +1874,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/164_To Invest in Infinity.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/164_To Invest in Infinity.png"
 			}
 		},
 		{
@@ -1877,7 +1884,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/197_To Grow to One's Ideal.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/197_To Grow to One's Ideal.png"
 			}
 		},
 		{
@@ -1887,7 +1894,7 @@
 			"type": "Enchantment — Formula",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/196_To Dissect All Past.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/196_To Dissect All Past.png"
 			}
 		},
 		{
@@ -1896,8 +1903,15 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/41_Plainclothes Agent_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/41_Plainclothes Agent.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/41_Plainclothes Agent_front.png"
 			}
 		},
 		{
@@ -1906,8 +1920,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Advisor",
 			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/40_Overseas Contact_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/40_Overseas Contact.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/40_Overseas Contact_front.png"
 			}
 		},
 		{
@@ -1916,8 +1937,15 @@
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Elf Warrior",
 			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/20_Equinox Justiciar_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/20_Equinox Justiciar.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/20_Equinox Justiciar_front.png"
 			}
 		},
 		{
@@ -1926,8 +1954,15 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Vampire Cleric",
 			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/46_Solomonarya Pastor_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/46_Solomonarya Pastor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/46_Solomonarya Pastor_front.png"
 			}
 		},
 		{
@@ -1936,8 +1971,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Noble Cleric",
 			"collector_number": "52",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/52_Unorthodox Convert_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/52_Unorthodox Convert.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/52_Unorthodox Convert_front.png"
 			}
 		},
 		{
@@ -1946,8 +1988,15 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Elf Soldier",
 			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/32_Lightbringer Agent_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/32_Lightbringer Agent.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/32_Lightbringer Agent_front.png"
 			}
 		},
 		{
@@ -1956,8 +2005,15 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Human Noble Scientist",
 			"collector_number": "17",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/17_Designer-Opus Mogul_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/17_Designer-Opus Mogul.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/17_Designer-Opus Mogul_front.png"
 			}
 		},
 		{
@@ -1966,8 +2022,15 @@
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
 			"collector_number": "44",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/44_Seeping Mask_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/44_Seeping Mask.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/44_Seeping Mask_front.png"
 			}
 		},
 		{
@@ -1976,8 +2039,15 @@
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "34",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/34_Luminary's Raveling_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/34_Luminary's Raveling.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/34_Luminary's Raveling_front.png"
 			}
 		},
 		{
@@ -1986,8 +2056,15 @@
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elf Citizen Warlock",
 			"collector_number": "88",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/88_Self-Taught Evokist_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/88_Self-Taught Evokist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/88_Self-Taught Evokist_front.png"
 			}
 		},
 		{
@@ -1996,8 +2073,15 @@
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "67",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/67_End of Innocence_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/67_End of Innocence.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/67_End of Innocence_front.png"
 			}
 		},
 		{
@@ -2006,8 +2090,15 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Noble Warlock",
 			"collector_number": "66",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/66_Eccentric Patriarch_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/66_Eccentric Patriarch.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/66_Eccentric Patriarch_front.png"
 			}
 		},
 		{
@@ -2016,8 +2107,15 @@
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Scientist Rogue",
 			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/65_Disheveled Professor_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/65_Disheveled Professor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/65_Disheveled Professor_front.png"
 			}
 		},
 		{
@@ -2026,8 +2124,15 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "56",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/56_Basement Covenant_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/56_Basement Covenant.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/56_Basement Covenant_front.png"
 			}
 		},
 		{
@@ -2036,8 +2141,15 @@
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "77",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/77_Magister Niccolo Marzeli_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/77_Magister Niccolo Marzeli.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/77_Magister Niccolo Marzeli_front.png"
 			}
 		},
 		{
@@ -2046,8 +2158,15 @@
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
 			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/55_At Reality's Borders_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/55_At Reality's Borders.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/55_At Reality's Borders_front.png"
 			}
 		},
 		{
@@ -2056,8 +2175,15 @@
 			"mana_cost": "{4}{U}",
 			"type": "Artifact",
 			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/79_Mortal Engine_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/79_Mortal Engine.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/79_Mortal Engine_front.png"
 			}
 		},
 		{
@@ -2066,8 +2192,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Scout",
 			"collector_number": "108",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/108_Mine-Site Surveyor_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/108_Mine-Site Surveyor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/108_Mine-Site Surveyor_front.png"
 			}
 		},
 		{
@@ -2076,8 +2209,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Performer",
 			"collector_number": "129",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/129_Underground Idol_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/129_Underground Idol.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/129_Underground Idol_front.png"
 			}
 		},
 		{
@@ -2086,8 +2226,15 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "125",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/125_Theatric Ritualist_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/125_Theatric Ritualist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/125_Theatric Ritualist_front.png"
 			}
 		},
 		{
@@ -2096,8 +2243,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Elf Assassin",
 			"collector_number": "102",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/102_Girder Rat_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/102_Girder Rat.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/102_Girder Rat_front.png"
 			}
 		},
 		{
@@ -2106,8 +2260,15 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "106",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/106_Kolyost Traditionalist_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/106_Kolyost Traditionalist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/106_Kolyost Traditionalist_front.png"
 			}
 		},
 		{
@@ -2117,7 +2278,7 @@
 			"type": "Creature — Human Soldier Rogue",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/96_Defected Agent.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/96_Defected Agent.png"
 			}
 		},
 		{
@@ -2126,8 +2287,15 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "93",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/93_Amoral Empath_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/93_Amoral Empath.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/93_Amoral Empath_front.png"
 			}
 		},
 		{
@@ -2136,8 +2304,15 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/150_Numb Indulgence_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/150_Numb Indulgence.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/150_Numb Indulgence_front.png"
 			}
 		},
 		{
@@ -2146,8 +2321,15 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Wall",
 			"collector_number": "161",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/161_Sessile Subject_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/161_Sessile Subject.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/161_Sessile Subject_front.png"
 			}
 		},
 		{
@@ -2156,8 +2338,15 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ooze Egg",
 			"collector_number": "154",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/154_Prised Embryo_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/154_Prised Embryo.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/154_Prised Embryo_front.png"
 			}
 		},
 		{
@@ -2166,8 +2355,15 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Merchant",
 			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/133_Curio Reappraiser_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/133_Curio Reappraiser.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/133_Curio Reappraiser_front.png"
 			}
 		},
 		{
@@ -2176,8 +2372,15 @@
 			"mana_cost": "{5}{R}",
 			"type": "Sorcery",
 			"collector_number": "155",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/155_Public Perception_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/155_Public Perception.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/155_Public Perception_front.png"
 			}
 		},
 		{
@@ -2186,8 +2389,15 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vampire Advisor",
 			"collector_number": "148",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/148_New Cyrane Contact_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/148_New Cyrane Contact.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/148_New Cyrane Contact_front.png"
 			}
 		},
 		{
@@ -2196,8 +2406,15 @@
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "135",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/135_Disquieting Thrum_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/135_Disquieting Thrum.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/135_Disquieting Thrum_front.png"
 			}
 		},
 		{
@@ -2206,8 +2423,15 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Vampire Citizen",
 			"collector_number": "147",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/147_Mute Witness_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/147_Mute Witness.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/147_Mute Witness_front.png"
 			}
 		},
 		{
@@ -2216,8 +2440,15 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Angel Elf Sorcerer",
 			"collector_number": "131",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/131_Auspex of Forms_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/131_Auspex of Forms.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/131_Auspex of Forms_front.png"
 			}
 		},
 		{
@@ -2226,8 +2457,15 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scientist",
 			"collector_number": "185",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/185_Passionate Prentice_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/185_Passionate Prentice.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/185_Passionate Prentice_front.png"
 			}
 		},
 		{
@@ -2236,8 +2474,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant",
 			"collector_number": "176",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/176_Estate Entangler_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/176_Estate Entangler.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/176_Estate Entangler_front.png"
 			}
 		},
 		{
@@ -2246,8 +2491,15 @@
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Elf Advisor",
 			"collector_number": "179",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/179_Keen Secretary_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/179_Keen Secretary.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/179_Keen Secretary_front.png"
 			}
 		},
 		{
@@ -2256,8 +2508,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "193",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/193_Shades of Disharmony_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/193_Shades of Disharmony.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/193_Shades of Disharmony_front.png"
 			}
 		},
 		{
@@ -2266,8 +2525,15 @@
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
 			"collector_number": "180",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/180_Limbic Helm_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/180_Limbic Helm.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/180_Limbic Helm_front.png"
 			}
 		},
 		{
@@ -2276,8 +2542,15 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Soldier Druid",
 			"collector_number": "177",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/177_Holy-Vein Conservator_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/177_Holy-Vein Conservator.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/177_Holy-Vein Conservator_front.png"
 			}
 		},
 		{
@@ -2286,8 +2559,15 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Noble Scientist",
 			"collector_number": "187",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/187_Pharmaceutical Heir_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/187_Pharmaceutical Heir.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/187_Pharmaceutical Heir_front.png"
 			}
 		},
 		{
@@ -2296,8 +2576,15 @@
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "198",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/198_Touch of the Ancient_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/198_Touch of the Ancient.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/198_Touch of the Ancient_front.png"
 			}
 		},
 		{
@@ -2306,8 +2593,15 @@
 			"mana_cost": "{1}{G}",
 			"type": "Artifact",
 			"collector_number": "184",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/184_Omnitor_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/184_Omnitor.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/184_Omnitor_front.png"
 			}
 		},
 		{
@@ -2316,8 +2610,15 @@
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Peasant Shaman",
 			"collector_number": "194",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/194_Steppe Shepherd_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/194_Steppe Shepherd.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/194_Steppe Shepherd_front.png"
 			}
 		},
 		{
@@ -2326,8 +2627,15 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/201_Vaunted Descent_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/201_Vaunted Descent.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/201_Vaunted Descent_front.png"
 			}
 		},
 		{
@@ -2336,8 +2644,15 @@
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Vampire Scientist",
 			"collector_number": "183",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/183_Netsyn, Scion of the First_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/183_Netsyn, Scion of the First.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/183_Netsyn, Scion of the First_front.png"
 			}
 		},
 		{
@@ -2346,8 +2661,15 @@
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Angel Noble",
 			"collector_number": "215",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/215_Dr. Isimir Barlowe_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/215_Dr. Isimir Barlowe.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/215_Dr. Isimir Barlowe_front.png"
 			}
 		},
 		{
@@ -2356,8 +2678,15 @@
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Vampire Scientist Cleric",
 			"collector_number": "218",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/218_High Doctor Augusta Amerel_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/218_High Doctor Augusta Amerel.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/218_High Doctor Augusta Amerel_front.png"
 			}
 		},
 		{
@@ -2366,8 +2695,15 @@
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Artist",
 			"collector_number": "207",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/207_Blind Photorealist_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/207_Blind Photorealist.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/207_Blind Photorealist_front.png"
 			}
 		},
 		{
@@ -2376,8 +2712,15 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/230_Postmodern Methods_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/230_Postmodern Methods.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/230_Postmodern Methods_front.png"
 			}
 		},
 		{
@@ -2386,8 +2729,15 @@
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/240_Wrench Open_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/240_Wrench Open.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/240_Wrench Open_front.png"
 			}
 		},
 		{
@@ -2396,8 +2746,15 @@
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/234_Sanity's Edge_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/234_Sanity's Edge.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/234_Sanity's Edge_front.png"
 			}
 		},
 		{
@@ -2406,8 +2763,15 @@
 			"mana_cost": "{G}{W}",
 			"type": "Artifact",
 			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/228_Philosopher's Sanctum_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/228_Philosopher's Sanctum.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/228_Philosopher's Sanctum_front.png"
 			}
 		},
 		{
@@ -2416,8 +2780,15 @@
 			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "236",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/236_Shattered Poise_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/236_Shattered Poise.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/236_Shattered Poise_front.png"
 			}
 		},
 		{
@@ -2426,8 +2797,15 @@
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Soldier Scientist",
 			"collector_number": "216",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/216_Enlightened Brigadier_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/216_Enlightened Brigadier.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/216_Enlightened Brigadier_front.png"
 			}
 		},
 		{
@@ -2436,8 +2814,15 @@
 			"mana_cost": "{2}{B}{G}",
 			"type": "Artifact — Equipment",
 			"collector_number": "217",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/217_Guidestone Blade_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/217_Guidestone Blade.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/217_Guidestone Blade_front.png"
 			}
 		},
 		{
@@ -2446,8 +2831,15 @@
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "225",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/225_Meritocratic Tenets_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/225_Meritocratic Tenets.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/225_Meritocratic Tenets_front.png"
 			}
 		},
 		{
@@ -2456,8 +2848,15 @@
 			"mana_cost": "{2}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/233_Rite of Between_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/233_Rite of Between.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/233_Rite of Between_front.png"
 			}
 		},
 		{
@@ -2466,8 +2865,15 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Reagent",
 			"collector_number": "242",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/242_Crucible of Wit_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/242_Crucible of Wit.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/242_Crucible of Wit_front.png"
 			}
 		},
 		{
@@ -2476,8 +2882,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "253",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/253_Dregs of Empire_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/253_Dregs of Empire.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/253_Dregs of Empire_front.png"
 			}
 		},
 		{
@@ -2486,8 +2899,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "258",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/258_Mouth-Torn Sepulcher_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/258_Mouth-Torn Sepulcher.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/258_Mouth-Torn Sepulcher_front.png"
 			}
 		},
 		{
@@ -2496,8 +2916,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "260",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/260_Stomach-Torn Monuments_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/260_Stomach-Torn Monuments.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/260_Stomach-Torn Monuments_front.png"
 			}
 		},
 		{
@@ -2506,8 +2933,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "255",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/255_Eye-Torn Orrery_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/255_Eye-Torn Orrery.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/255_Eye-Torn Orrery_front.png"
 			}
 		},
 		{
@@ -2516,8 +2950,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "252",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/252_Chest-Torn Spire_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/252_Chest-Torn Spire.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/252_Chest-Torn Spire_front.png"
 			}
 		},
 		{
@@ -2526,8 +2967,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "256",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/256_Finger-Torn Chapel_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/256_Finger-Torn Chapel.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/256_Finger-Torn Chapel_front.png"
 			}
 		},
 		{
@@ -2536,8 +2984,15 @@
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "257",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/257_Glimmering Manse_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/257_Glimmering Manse.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/257_Glimmering Manse_front.png"
 			}
 		},
 		{
@@ -2547,7 +3002,7 @@
 			"type": "Legendary Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/261_Tenerka, the Severed Heart.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/261_Tenerka, the Severed Heart.png"
 			}
 		},
 		{
@@ -2556,8 +3011,15 @@
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/254_Enlightenment Institute of NC_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/254_Enlightenment Institute of NC.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/254_Enlightenment Institute of NC_front.png"
 			}
 		},
 		{
@@ -2566,8 +3028,15 @@
 			"mana_cost": "",
 			"type": "Immanent Legendary Land",
 			"collector_number": "259",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Plaster-Man.github.io/sets/GSR-files/img/259_Sepulcher-City of Imago_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/259_Sepulcher-City of Imago.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/259_Sepulcher-City of Imago_front.png"
 			}
 		},
 		{
@@ -2577,7 +3046,7 @@
 			"type": "Legendary Planeswalker — Carmine",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/214_Dr. Carmine Yevinan.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/214_Dr. Carmine Yevinan.png"
 			}
 		},
 		{
@@ -2587,7 +3056,7 @@
 			"type": "Legendary Planeswalker — Dashiell",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/211_Dashiell Wicks, Hellraiser.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/211_Dashiell Wicks, Hellraiser.png"
 			}
 		},
 		{
@@ -2597,7 +3066,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/114_Panichosis.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/114_Panichosis.png"
 			}
 		},
 		{
@@ -2607,7 +3076,7 @@
 			"type": "Artifact Creature — Reagent Ooze",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/98_Dregs of Enlightenment.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/98_Dregs of Enlightenment.png"
 			}
 		},
 		{
@@ -2617,7 +3086,7 @@
 			"type": "Legendary Planeswalker — Chankata",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/208_Chankata, Chrysopoeian.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/208_Chankata, Chrysopoeian.png"
 			}
 		},
 		{
@@ -2627,7 +3096,7 @@
 			"type": "Token",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/2_Copy.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/2t_Copy.png"
 			}
 		},
 		{
@@ -2637,7 +3106,7 @@
 			"type": "Token Creature — Merchant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/6_Merchant.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/6t_Merchant.png"
 			}
 		},
 		{
@@ -2647,7 +3116,7 @@
 			"type": "Token Artifact — Reagent",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/14_Reagent.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/14t_Reagent.png"
 			}
 		},
 		{
@@ -2657,7 +3126,7 @@
 			"type": "Token Creature — Angel Demon",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/11_Angel Demon.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/11t_Angel Demon.png"
 			}
 		},
 		{
@@ -2667,7 +3136,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/12_Soldier.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/12t_Soldier.png"
 			}
 		},
 		{
@@ -2677,7 +3146,7 @@
 			"type": "Token Creature — Noble",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/8_Noble.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/8t_Noble.png"
 			}
 		},
 		{
@@ -2687,7 +3156,7 @@
 			"type": "Token Creature — Homunculus",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/3_Homunculus.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/3t_Homunculus.png"
 			}
 		},
 		{
@@ -2697,7 +3166,7 @@
 			"type": "Token Creature — Vampire",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/7_Vampire.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/7t_Vampire.png"
 			}
 		},
 		{
@@ -2707,7 +3176,7 @@
 			"type": "Token Creature — Homunculus",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/4_Homunculus.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/4t_Homunculus.png"
 			}
 		},
 		{
@@ -2717,7 +3186,7 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/1_Avatar.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/1t_Avatar.png"
 			}
 		},
 		{
@@ -2727,7 +3196,7 @@
 			"type": "Token Creature — Elk",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/13_Elk.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/13t_Elk.png"
 			}
 		},
 		{
@@ -2737,7 +3206,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/9_Zombie.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/9t_Zombie.png"
 			}
 		},
 		{
@@ -2747,7 +3216,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/10_Zombie.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/10t_Zombie.png"
 			}
 		},
 		{
@@ -2757,9 +3226,9 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/5_Insect.png"
+				"en": "https://Plaster-Man.github.io/sets/GSR-files/img/5t_Insect.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -2837,7 +3306,7 @@
 	1 Dashiell Wicks, Hellraiser
 	2 Panichosis
 	1 Chankata, Chrysopoeian
-[uncommon(4)]
+[uncommon(3)]
 	4 Lose Yourself in Our Arms
 	4 Ours Is the Way Between
 	4 A Light Vast and Terrible
@@ -2934,7 +3403,7 @@
 	4 Finger-Torn Chapel
 	4 Glimmering Manse
 	4 Dregs of Enlightenment
-[common(7)]
+[common(6)]
 	8 You Are Always Welcome
 	8 Never Forget Your Loyalties
 	8 Guided by Higher Hands
@@ -3027,7 +3496,363 @@
 	8 Shades of Disharmony
 	8 Crucible of Wit
 	8 Dregs of Empire
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 You Are Always Welcome
+	8 Never Forget Your Loyalties
+	8 Guided by Higher Hands
+	8 Gaze of a False Sun
+	8 A Near-Unseen Splendor
+	8 Step Forth Into Forever
+	8 Luminary Euthanist
+	8 First-Form Visionary
+	8 Kolyost Pathlighter
+	8 North-Front Brigadier
+	8 Overeager Chirurgeon
+	8 Solomonarya Revelator
+	8 Remnant of Blizzards
+	8 Highborn Occultist
+	8 Swift Exultation
+	8 Wander in Dream
+	8 Dose of Albichoi
+	8 Alkaline Reliquary
+	8 Face Hell
+	8 Exodite Zealot
+	8 Chemander Pilgrim
+	8 Enraptured Ecologist
+	8 Solemn Phegorichon
+	8 Luminary Defense Corps
+	8 Bishop of Elder Blood
+	8 Marathrine Skywatch
+	8 Covetous Scion
+	8 Essence Capture
+	8 Glacial Obelisk
+	8 Lidechian Ground Patrol
+	8 Secure
+	8 Neuter Reliquary
+	8 Narcoleptic Visions
+	8 Best Left Buried
+	8 Exodite Doomsayer
+	8 Chemander Officiant
+	8 Morphing Dove
+	8 New Cyrane Initiate
+	8 Remnant of Middens
+	8 Dose of Phegorichoi
+	8 Hexhauler's Carriage
+	8 Pollute
+	8 Mortal Insignificance
+	8 Scan the Aftermath
+	8 Masochistic Addiction
+	8 Misfortune Broker
+	8 Apothecary's Nest
+	8 Unsettling Cantor
+	8 Insatiate Locus
+	8 Remnant of Foundations
+	8 Blood-Bound Howl
+	8 Expunge Evidence
+	8 Pancarnate Burst
+	8 Demand Answers REART
+	8 No Mortal's Land
+	8 Empath's Entreaty
+	8 Unlicensed Transfusionist
+	8 Freeway Oilmaw
+	8 Alchemist's Familiar
+	8 Chemander Proselyte
+	8 Pristine Angiomorph
+	8 Immaculate Quarry
+	8 Waif of Irdam Wood
+	8 Deep-Vein Latchjaw
+	8 Synthesis Station
+	8 Monitor Molder
+	8 Probiotic Consecration
+	8 Claim Audience
+	8 Acidic Reliquary
+	8 Battle at the Institute
+	8 New Cyrane Courier
+	8 Sigiled Gloves
+	8 Private Collection
+	8 Backwoods Hideout
+	8 Plainclothes Agent
+	8 Overseas Contact
+	8 Self-Taught Evokist
+	8 End of Innocence
+	8 Mine-Site Surveyor
+	8 Underground Idol
+	8 Theatric Ritualist
+	8 Defected Agent
+	8 Numb Indulgence
+	8 Sessile Subject
+	8 Curio Reappraiser
+	8 Public Perception
+	8 Passionate Prentice
+	8 Estate Entangler
+	8 Keen Secretary
+	8 Shades of Disharmony
+	8 Crucible of Wit
+	8 Dregs of Empire
+[foil(1)]
+	2 Blessed Eternity Yet Echoes
+	12 You Are Always Welcome
+	12 Never Forget Your Loyalties
+	1 A Chorus Before Our Thrones
+	12 Guided by Higher Hands
+	12 Gaze of a False Sun
+	6 Lose Yourself in Our Arms
+	6 Ours Is the Way Between
+	12 A Near-Unseen Splendor
+	6 A Light Vast and Terrible
+	6 Normalcy Is Infinity's Policy
+	6 Pulse of the Tower's Heart
+	1 As It Is, Forever
+	2 Wrath of the Shrouded King
+	12 Step Forth Into Forever
+	12 Luminary Euthanist
+	12 First-Form Visionary
+	12 Kolyost Pathlighter
+	12 North-Front Brigadier
+	12 Overeager Chirurgeon
+	2 Exodite Provost
+	12 Solomonarya Revelator
+	12 Remnant of Blizzards
+	12 Highborn Occultist
+	12 Swift Exultation
+	12 Wander in Dream
+	12 Dose of Albichoi
+	12 Alkaline Reliquary
+	12 Face Hell
+	12 Exodite Zealot
+	6 Solomonarya Ritebreeder
+	6 Import Inspectors
+	6 Newborn Albichon
+	6 Merchant's Due
+	6 Journey's End
+	6 Into the Breach
+	6 Promised Syzygy
+	6 Final Transfusion
+	2 Dyrshei, Dawning Seminarian
+	2 Eumorphosiac
+	2 Sentinel of Lost Empires
+	2 Overdose
+	1 Eraion, Chair of Defense
+	12 Chemander Pilgrim
+	12 Enraptured Ecologist
+	12 Solemn Phegorichon
+	12 Luminary Defense Corps
+	12 Bishop of Elder Blood
+	12 Marathrine Skywatch
+	12 Covetous Scion
+	12 Essence Capture
+	12 Glacial Obelisk
+	12 Lidechian Ground Patrol
+	12 Secure
+	12 Neuter Reliquary
+	12 Narcoleptic Visions
+	12 Best Left Buried
+	6 Enlightened Operative
+	6 Archivist of True Faith
+	6 Chemander Messenger
+	6 Notorious Hack
+	6 Remnant of Icesheets
+	6 Nucleotithe
+	6 Rewelded Bathycapsule
+	6 Carmine's Intervention
+	2 Ida Prime, Superego
+	2 Chief Financial Officer
+	2 In Dim Kthyevai
+	2 Denature
+	1 The Place Where It Was Torn
+	12 Exodite Doomsayer
+	12 Chemander Officiant
+	12 Morphing Dove
+	12 New Cyrane Initiate
+	12 Remnant of Middens
+	2 Remnant of Thrones
+	12 Dose of Phegorichoi
+	6 Sublimation of Self
+	12 Hexhauler's Carriage
+	12 Pollute
+	12 Mortal Insignificance
+	12 Scan the Aftermath
+	12 Masochistic Addiction
+	6 Scorn-Brand Thrall
+	6 Obsessive Chemander
+	6 Revelation in Ash
+	6 Alkhin Pass Commando
+	6 Remnant of Sepulchers
+	6 In Awe and in Horror
+	2 Ichoiclast
+	12 Misfortune Broker
+	2 Congregation Elocutor
+	2 So Below
+	2 Fundament as One
+	6 Searing Sacrament
+	1 EG Armon, Industry Confidant
+	12 Apothecary's Nest
+	12 Unsettling Cantor
+	6 Flair Bartender
+	6 Remnant of Tremors
+	12 Insatiate Locus
+	12 Remnant of Foundations
+	12 Blood-Bound Howl
+	12 Expunge Evidence
+	12 Pancarnate Burst
+	12 Demand Answers REART
+	12 No Mortal's Land
+	12 Empath's Entreaty
+	12 Unlicensed Transfusionist
+	6 Ichorflesh Pack
+	12 Freeway Oilmaw
+	6 Panichon's Promise
+	6 Hunt-Hewn Retrievers
+	6 Herald of the First Form
+	6 Inconceivable Vision
+	6 Glyphic Unearthing
+	2 Tormented Tram
+	2 Patent Orchestrator
+	2 Realize the Gateway
+	2 Remnant of Capitals
+	2 Kyrion, Kolyost's Deliverance
+	1 Remnant of the Rift
+	12 Alchemist's Familiar
+	12 Chemander Proselyte
+	12 Pristine Angiomorph
+	12 Immaculate Quarry
+	12 Waif of Irdam Wood
+	12 Deep-Vein Latchjaw
+	12 Synthesis Station
+	12 Monitor Molder
+	12 Probiotic Consecration
+	12 Claim Audience
+	12 Acidic Reliquary
+	12 Battle at the Institute
+	6 Acolyte of Evolution
+	6 Marathrine Consummator
+	6 Presence of the Unrealized
+	6 Unearthly Radiance
+	6 Remnant of Summits
+	6 Vitriolic Subversive
+	6 Churning Ichoi-Still
+	2 Wild Aspiration
+	2 Remnant of Annexes
+	2 Paths Undreamt
+	2 Wheel of Other and Self
+	1 Unbidden Voyage
+	6 Visiting Emeritus
+	6 Curse-Chained Neonate
+	6 Lucrezion Heiress
+	6 Maiden of the Old Hunt
+	6 Pop-Sci Spokesmodel
+	6 Doorkeeper of Tenerka
+	6 Archaeopticon
+	6 Reclamation Chemander
+	6 Cleanup Officer
+	6 Koymyin Interlocutor
+	6 Luminary Laboratory
+	6 Disassociate
+	6 Induced Premonition
+	6 Tracing the Gate
+	6 Mundane Sanctuary
+	6 Reliquary Repossession
+	6 Seed of the Ideal
+	6 Signals in the Murk
+	6 Parncarnate Embrace
+	6 Interminable Ways
+	12 New Cyrane Courier
+	12 Sigiled Gloves
+	12 Private Collection
+	6 Hemignosis Prototype
+	6 Monolithic Decrees
+	6 Baywatch Patrol
+	6 Perivitae Apparatus
+	2 Shackles of Kthyevai
+	2 Equilibrine Font
+	12 Backwoods Hideout
+	6 Unstable Threshold
+	6 To Lift One's Station
+	2 To Temper Divinity
+	6 To Nurture the Inner Eye
+	2 To Impart Equilibrium
+	6 To Scour One's Morals
+	2 To Dissolve Transgressions
+	1 To Speak Between
+	6 To Commune the Broken
+	2 To Carve One's Vengeance
+	1 To Invest in Infinity
+	6 To Grow to One's Ideal
+	2 To Dissect All Past
+	12 Plainclothes Agent
+	12 Overseas Contact
+	6 Equinox Justiciar
+	6 Solomonarya Pastor
+	6 Unorthodox Convert
+	2 Lightbringer Agent
+	2 Designer-Opus Mogul
+	2 Seeping Mask
+	1 Luminary's Raveling
+	12 Self-Taught Evokist
+	12 End of Innocence
+	6 Eccentric Patriarch
+	6 Disheveled Professor
+	6 Basement Covenant
+	2 Magister Niccolo Marzeli
+	2 At Reality's Borders
+	1 Mortal Engine
+	12 Mine-Site Surveyor
+	12 Underground Idol
+	12 Theatric Ritualist
+	6 Girder Rat
+	6 Kolyost Traditionalist
+	12 Defected Agent
+	2 Amoral Empath
+	12 Numb Indulgence
+	12 Sessile Subject
+	6 Prised Embryo
+	12 Curio Reappraiser
+	12 Public Perception
+	6 New Cyrane Contact
+	6 Disquieting Thrum
+	2 Mute Witness
+	2 Auspex of Forms
+	12 Passionate Prentice
+	12 Estate Entangler
+	12 Keen Secretary
+	12 Shades of Disharmony
+	6 Limbic Helm
+	6 Holy-Vein Conservator
+	2 Pharmaceutical Heir
+	2 Touch of the Ancient
+	2 Omnitor
+	6 Steppe Shepherd
+	6 Vaunted Descent
+	1 Netsyn, Scion of the First
+	1 Dr. Isimir Barlowe
+	1 High Doctor Augusta Amerel
+	2 Blind Photorealist
+	2 Postmodern Methods
+	2 Wrench Open
+	2 Sanity's Edge
+	2 Philosopher's Sanctum
+	2 Shattered Poise
+	2 Enlightened Brigadier
+	2 Guidestone Blade
+	2 Meritocratic Tenets
+	2 Rite of Between
+	12 Crucible of Wit
+	12 Dregs of Empire
+	6 Mouth-Torn Sepulcher
+	6 Stomach-Torn Monuments
+	6 Eye-Torn Orrery
+	6 Chest-Torn Spire
+	6 Finger-Torn Chapel
+	6 Glimmering Manse
+	2 Tenerka, the Severed Heart
+	2 Enlightenment Institute of NC
+	1 Sepulcher-City of Imago
+	1 Dr. Carmine Yevinan
+	1 Dashiell Wicks, Hellraiser
+	2 Panichosis
+	6 Dregs of Enlightenment
+	1 Chankata, Chrysopoeian
+[wildcard(1)]
 	7 Blessed Eternity Yet Echoes
 	6 You Are Always Welcome
 	6 Never Forget Your Loyalties
