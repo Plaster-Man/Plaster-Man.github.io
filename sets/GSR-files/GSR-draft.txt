@@ -1,0 +1,3292 @@
+[CustomCards]
+	[
+		{
+			"name": "Blessed Eternity Yet Echoes",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Immanent Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/2_Blessed Eternity Yet Echoes.png"
+			}
+		},
+		{
+			"name": "You Are Always Welcome",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Immanent Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/15_You Are Always Welcome.png"
+			}
+		},
+		{
+			"name": "Never Forget Your Loyalties",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Immanent Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/9_Never Forget Your Loyalties.png"
+			}
+		},
+		{
+			"name": "A Chorus Before Our Thrones",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Immanent Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/3_A Chorus Before Our Thrones.png"
+			}
+		},
+		{
+			"name": "Guided by Higher Hands",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Immanent Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/5_Guided by Higher Hands.png"
+			}
+		},
+		{
+			"name": "Gaze of a False Sun",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Immanent Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/4_Gaze of a False Sun.png"
+			}
+		},
+		{
+			"name": "Lose Yourself in Our Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Immanent Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/7_Lose Yourself in Our Arms.png"
+			}
+		},
+		{
+			"name": "Ours Is the Way Between",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Immanent Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/11_Ours Is the Way Between.png"
+			}
+		},
+		{
+			"name": "A Near-Unseen Splendor",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Immanent Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/8_A Near-Unseen Splendor.png"
+			}
+		},
+		{
+			"name": "A Light Vast and Terrible",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Immanent Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/6_A Light Vast and Terrible.png"
+			}
+		},
+		{
+			"name": "Normalcy Is Infinity's Policy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Immanent Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/10_Normalcy Is Infinity's Policy.png"
+			}
+		},
+		{
+			"name": "Pulse of the Tower's Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Immanent Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/12_Pulse of the Tower's Heart.png"
+			}
+		},
+		{
+			"name": "As It Is, Forever",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Immanent Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/1_As It Is, Forever.png"
+			}
+		},
+		{
+			"name": "Wrath of the Shrouded King",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Immanent Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/14_Wrath of the Shrouded King.png"
+			}
+		},
+		{
+			"name": "Step Forth Into Forever",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Immanent Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/13_Step Forth Into Forever.png"
+			}
+		},
+		{
+			"name": "Luminary Euthanist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/33_Luminary Euthanist.png"
+			}
+		},
+		{
+			"name": "First-Form Visionary",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel Demon Elf",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/26_First-Form Visionary.png"
+			}
+		},
+		{
+			"name": "Kolyost Pathlighter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Homunculus Cleric",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/31_Kolyost Pathlighter.png"
+			}
+		},
+		{
+			"name": "North-Front Brigadier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/37_North-Front Brigadier.png"
+			}
+		},
+		{
+			"name": "Overeager Chirurgeon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Elf Doctor",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/39_Overeager Chirurgeon.png"
+			}
+		},
+		{
+			"name": "Exodite Provost",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Angel Cleric Scout",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/71_Exodite Provost.png"
+			}
+		},
+		{
+			"name": "Solomonarya Revelator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/47_Solomonarya Revelator.png"
+			}
+		},
+		{
+			"name": "Remnant of Blizzards",
+			"rarity": "common",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/43_Remnant of Blizzards.png"
+			}
+		},
+		{
+			"name": "Highborn Occultist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Noble Warlock",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/27_Highborn Occultist.png"
+			}
+		},
+		{
+			"name": "Swift Exultation",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/49_Swift Exultation.png"
+			}
+		},
+		{
+			"name": "Wander in Dream",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/53_Wander in Dream.png"
+			}
+		},
+		{
+			"name": "Dose of Albichoi",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/18_Dose of Albichoi.png"
+			}
+		},
+		{
+			"name": "Alkaline Reliquary",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/16_Alkaline Reliquary.png"
+			}
+		},
+		{
+			"name": "Face Hell",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/24_Face Hell.png"
+			}
+		},
+		{
+			"name": "Exodite Zealot",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Cleric Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/23_Exodite Zealot.png"
+			}
+		},
+		{
+			"name": "Solomonarya Ritebreeder",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Vampire Scientist Cleric",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/48_Solomonarya Ritebreeder.png"
+			}
+		},
+		{
+			"name": "Import Inspectors",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Homunculus Soldier",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/28_Import Inspectors.png"
+			}
+		},
+		{
+			"name": "Newborn Albichon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel Elf Egg",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/36_Newborn Albichon.png"
+			}
+		},
+		{
+			"name": "Merchant's Due",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/35_Merchant's Due.png"
+			}
+		},
+		{
+			"name": "Journey's End",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/30_Journey's End.png"
+			}
+		},
+		{
+			"name": "Into the Breach",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/29_Into the Breach.png"
+			}
+		},
+		{
+			"name": "Promised Syzygy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/42_Promised Syzygy.png"
+			}
+		},
+		{
+			"name": "Final Transfusion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/25_Final Transfusion.png"
+			}
+		},
+		{
+			"name": "Dyrshei, Dawning Seminarian",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Vampire Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/19_Dyrshei, Dawning Seminarian.png"
+			}
+		},
+		{
+			"name": "Eumorphosiac",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Demon Reflection",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/22_Eumorphosiac.png"
+			}
+		},
+		{
+			"name": "Sentinel of Lost Empires",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Homunculus Harpy",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/45_Sentinel of Lost Empires.png"
+			}
+		},
+		{
+			"name": "Overdose",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/38_Overdose.png"
+			}
+		},
+		{
+			"name": "Eraion, Chair of Defense",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Creature — Angel Human Soldier",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/21_Eraion, Chair of Defense.png"
+			}
+		},
+		{
+			"name": "Chemander Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Homunculus Cleric",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/61_Chemander Pilgrim.png"
+			}
+		},
+		{
+			"name": "Enraptured Ecologist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Druid",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/69_Enraptured Ecologist.png"
+			}
+		},
+		{
+			"name": "Solemn Phegorichon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Demon Vampire Wizard",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/89_Solemn Phegorichon.png"
+			}
+		},
+		{
+			"name": "Luminary Defense Corps",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/76_Luminary Defense Corps.png"
+			}
+		},
+		{
+			"name": "Bishop of Elder Blood",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/58_Bishop of Elder Blood.png"
+			}
+		},
+		{
+			"name": "Marathrine Skywatch",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/78_Marathrine Skywatch.png"
+			}
+		},
+		{
+			"name": "Covetous Scion",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Homunculus Rogue",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/63_Covetous Scion.png"
+			}
+		},
+		{
+			"name": "Essence Capture",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/70_Essence Capture.png"
+			}
+		},
+		{
+			"name": "Glacial Obelisk",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/72_Glacial Obelisk.png"
+			}
+		},
+		{
+			"name": "Lidechian Ground Patrol",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Vampire Soldier",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/75_Lidechian Ground Patrol.png"
+			}
+		},
+		{
+			"name": "Secure",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/87_Secure.png"
+			}
+		},
+		{
+			"name": "Neuter Reliquary",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/81_Neuter Reliquary.png"
+			}
+		},
+		{
+			"name": "Narcoleptic Visions",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/80_Narcoleptic Visions.png"
+			}
+		},
+		{
+			"name": "Best Left Buried",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/57_Best Left Buried.png"
+			}
+		},
+		{
+			"name": "Enlightened Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Scientist Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/68_Enlightened Operative.png"
+			}
+		},
+		{
+			"name": "Archivist of True Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Angel Scientist Cleric",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/54_Archivist of True Faith.png"
+			}
+		},
+		{
+			"name": "Chemander Messenger",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Homunculus Shapeshifter",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/60_Chemander Messenger.png"
+			}
+		},
+		{
+			"name": "Notorious Hack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/82_Notorious Hack.png"
+			}
+		},
+		{
+			"name": "Remnant of Icesheets",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/85_Remnant of Icesheets.png"
+			}
+		},
+		{
+			"name": "Nucleotithe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/83_Nucleotithe.png"
+			}
+		},
+		{
+			"name": "Rewelded Bathycapsule",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/86_Rewelded Bathycapsule.png"
+			}
+		},
+		{
+			"name": "Carmine's Intervention",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/59_Carmine's Intervention.png"
+			}
+		},
+		{
+			"name": "Ida Prime, Superego",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Homunculus Rogue",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/73_Ida Prime, Superego.png"
+			}
+		},
+		{
+			"name": "Chief Financial Officer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scientist Advisor",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/62_Chief Financial Officer.png"
+			}
+		},
+		{
+			"name": "In Dim Kthyevai",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/74_In Dim Kthyevai.png"
+			}
+		},
+		{
+			"name": "Denature",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/64_Denature.png"
+			}
+		},
+		{
+			"name": "The Place Where It Was Torn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/84_The Place Where It Was Torn.png"
+			}
+		},
+		{
+			"name": "Exodite Doomsayer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/100_Exodite Doomsayer.png"
+			}
+		},
+		{
+			"name": "Chemander Officiant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Homunculus Warlock",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/94_Chemander Officiant.png"
+			}
+		},
+		{
+			"name": "Morphing Dove",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Bird",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/110_Morphing Dove.png"
+			}
+		},
+		{
+			"name": "New Cyrane Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Citizen Warlock",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/112_New Cyrane Initiate.png"
+			}
+		},
+		{
+			"name": "Remnant of Middens",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/116_Remnant of Middens.png"
+			}
+		},
+		{
+			"name": "Remnant of Thrones",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/118_Remnant of Thrones.png"
+			}
+		},
+		{
+			"name": "Dose of Phegorichoi",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/97_Dose of Phegorichoi.png"
+			}
+		},
+		{
+			"name": "Sublimation of Self",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/124_Sublimation of Self.png"
+			}
+		},
+		{
+			"name": "Hexhauler's Carriage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/103_Hexhauler's Carriage.png"
+			}
+		},
+		{
+			"name": "Pollute",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/115_Pollute.png"
+			}
+		},
+		{
+			"name": "Mortal Insignificance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/111_Mortal Insignificance.png"
+			}
+		},
+		{
+			"name": "Scan the Aftermath",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/120_Scan the Aftermath.png"
+			}
+		},
+		{
+			"name": "Masochistic Addiction",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/107_Masochistic Addiction.png"
+			}
+		},
+		{
+			"name": "Scorn-Brand Thrall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Elf Shaman",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/121_Scorn-Brand Thrall.png"
+			}
+		},
+		{
+			"name": "Obsessive Chemander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Homunculus Scientist",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/113_Obsessive Chemander.png"
+			}
+		},
+		{
+			"name": "Revelation in Ash",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/119_Revelation in Ash.png"
+			}
+		},
+		{
+			"name": "Alkhin Pass Commando",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Vampire Soldier",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/92_Alkhin Pass Commando.png"
+			}
+		},
+		{
+			"name": "Remnant of Sepulchers",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/117_Remnant of Sepulchers.png"
+			}
+		},
+		{
+			"name": "In Awe and in Horror",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/105_In Awe and in Horror.png"
+			}
+		},
+		{
+			"name": "Ichoiclast",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/104_Ichoiclast.png"
+			}
+		},
+		{
+			"name": "Misfortune Broker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Performer",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/109_Misfortune Broker.png"
+			}
+		},
+		{
+			"name": "Congregation Elocutor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/95_Congregation Elocutor.png"
+			}
+		},
+		{
+			"name": "So Below",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/123_So Below.png"
+			}
+		},
+		{
+			"name": "Fundament as One",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/101_Fundament as One.png"
+			}
+		},
+		{
+			"name": "Searing Sacrament",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/122_Searing Sacrament.png"
+			}
+		},
+		{
+			"name": "EG Armon, Industry Confidant",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Demon Advisor",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/99_EG Armon, Industry Confidant.png"
+			}
+		},
+		{
+			"name": "Apothecary's Nest",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Homunculus Plant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/130_Apothecary's Nest.png"
+			}
+		},
+		{
+			"name": "Unsettling Cantor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Homunculus Wizard",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/167_Unsettling Cantor.png"
+			}
+		},
+		{
+			"name": "Flair Bartender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Angel Citizen",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/138_Flair Bartender.png"
+			}
+		},
+		{
+			"name": "Remnant of Tremors",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/160_Remnant of Tremors.png"
+			}
+		},
+		{
+			"name": "Insatiate Locus",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon Ooze",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/145_Insatiate Locus.png"
+			}
+		},
+		{
+			"name": "Remnant of Foundations",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/158_Remnant of Foundations.png"
+			}
+		},
+		{
+			"name": "Blood-Bound Howl",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/132_Blood-Bound Howl.png"
+			}
+		},
+		{
+			"name": "Expunge Evidence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/137_Expunge Evidence.png"
+			}
+		},
+		{
+			"name": "Pancarnate Burst",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/151_Pancarnate Burst.png"
+			}
+		},
+		{
+			"name": "Demand Answers REART",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/134_Demand Answers REART.png"
+			}
+		},
+		{
+			"name": "No Mortal's Land",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/149_No Mortal's Land.png"
+			}
+		},
+		{
+			"name": "Empath's Entreaty",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/136_Empath's Entreaty.png"
+			}
+		},
+		{
+			"name": "Unlicensed Transfusionist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue Doctor",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/166_Unlicensed Transfusionist.png"
+			}
+		},
+		{
+			"name": "Ichorflesh Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Lizard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/143_Ichorflesh Pack.png"
+			}
+		},
+		{
+			"name": "Freeway Oilmaw",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Boar",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/139_Freeway Oilmaw.png"
+			}
+		},
+		{
+			"name": "Panichon's Promise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/152_Panichon's Promise.png"
+			}
+		},
+		{
+			"name": "Hunt-Hewn Retrievers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Homunculus Dog",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/142_Hunt-Hewn Retrievers.png"
+			}
+		},
+		{
+			"name": "Herald of the First Form",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Angel Demon Vampire",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/141_Herald of the First Form.png"
+			}
+		},
+		{
+			"name": "Inconceivable Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/144_Inconceivable Vision.png"
+			}
+		},
+		{
+			"name": "Glyphic Unearthing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/140_Glyphic Unearthing.png"
+			}
+		},
+		{
+			"name": "Tormented Tram",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/165_Tormented Tram.png"
+			}
+		},
+		{
+			"name": "Patent Orchestrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Human Scientist",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/153_Patent Orchestrator.png"
+			}
+		},
+		{
+			"name": "Realize the Gateway",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/156_Realize the Gateway.png"
+			}
+		},
+		{
+			"name": "Remnant of Capitals",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/157_Remnant of Capitals.png"
+			}
+		},
+		{
+			"name": "Kyrion, Kolyost's Deliverance",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Angel Demon Elf",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/146_Kyrion, Kolyost's Deliverance.png"
+			}
+		},
+		{
+			"name": "Remnant of the Rift",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{R}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/159_Remnant of the Rift.png"
+			}
+		},
+		{
+			"name": "Alchemist's Familiar",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/170_Alchemist's Familiar.png"
+			}
+		},
+		{
+			"name": "Chemander Proselyte",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Homunculus Advisor",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/172_Chemander Proselyte.png"
+			}
+		},
+		{
+			"name": "Pristine Angiomorph",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Homunculus Plant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/189_Pristine Angiomorph.png"
+			}
+		},
+		{
+			"name": "Immaculate Quarry",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Angel Elk",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/178_Immaculate Quarry.png"
+			}
+		},
+		{
+			"name": "Waif of Irdam Wood",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/203_Waif of Irdam Wood.png"
+			}
+		},
+		{
+			"name": "Deep-Vein Latchjaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Demon Worm",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/175_Deep-Vein Latchjaw.png"
+			}
+		},
+		{
+			"name": "Synthesis Station",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/195_Synthesis Station.png"
+			}
+		},
+		{
+			"name": "Monitor Molder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/182_Monitor Molder.png"
+			}
+		},
+		{
+			"name": "Probiotic Consecration",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/190_Probiotic Consecration.png"
+			}
+		},
+		{
+			"name": "Claim Audience",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/174_Claim Audience.png"
+			}
+		},
+		{
+			"name": "Acidic Reliquary",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/168_Acidic Reliquary.png"
+			}
+		},
+		{
+			"name": "Battle at the Institute",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/171_Battle at the Institute.png"
+			}
+		},
+		{
+			"name": "Acolyte of Evolution",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Vampire Druid",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/169_Acolyte of Evolution.png"
+			}
+		},
+		{
+			"name": "Marathrine Consummator",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Demon Human Noble",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/181_Marathrine Consummator.png"
+			}
+		},
+		{
+			"name": "Presence of the Unrealized",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/188_Presence of the Unrealized.png"
+			}
+		},
+		{
+			"name": "Unearthly Radiance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/200_Unearthly Radiance.png"
+			}
+		},
+		{
+			"name": "Remnant of Summits",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/192_Remnant of Summits.png"
+			}
+		},
+		{
+			"name": "Vitriolic Subversive",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/202_Vitriolic Subversive.png"
+			}
+		},
+		{
+			"name": "Churning Ichoi-Still",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/173_Churning Ichoi-Still.png"
+			}
+		},
+		{
+			"name": "Wild Aspiration",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Angel Shapeshifter Beast",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/205_Wild Aspiration.png"
+			}
+		},
+		{
+			"name": "Remnant of Annexes",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elder Homunculus Horror",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/191_Remnant of Annexes.png"
+			}
+		},
+		{
+			"name": "Paths Undreamt",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/186_Paths Undreamt.png"
+			}
+		},
+		{
+			"name": "Wheel of Other and Self",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/204_Wheel of Other and Self.png"
+			}
+		},
+		{
+			"name": "Unbidden Voyage",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/199_Unbidden Voyage.png"
+			}
+		},
+		{
+			"name": "Visiting Emeritus",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elf Scientist Noble",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/239_Visiting Emeritus.png"
+			}
+		},
+		{
+			"name": "Curse-Chained Neonate",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Vampire Warlock",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/210_Curse-Chained Neonate.png"
+			}
+		},
+		{
+			"name": "Lucrezion Heiress",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Noble Scientist",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/222_Lucrezion Heiress.png"
+			}
+		},
+		{
+			"name": "Maiden of the Old Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Vampire Shaman",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/224_Maiden of the Old Hunt.png"
+			}
+		},
+		{
+			"name": "Pop-Sci Spokesmodel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Scientist Actor",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/229_Pop-Sci Spokesmodel.png"
+			}
+		},
+		{
+			"name": "Doorkeeper of Tenerka",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Bat Horror",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/213_Doorkeeper of Tenerka.png"
+			}
+		},
+		{
+			"name": "Archaeopticon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Nautilus Eye",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/206_Archaeopticon.png"
+			}
+		},
+		{
+			"name": "Reclamation Chemander",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Homunculus Scout",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/231_Reclamation Chemander.png"
+			}
+		},
+		{
+			"name": "Cleanup Officer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/209_Cleanup Officer.png"
+			}
+		},
+		{
+			"name": "Koymyin Interlocutor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Peasant Shaman",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/221_Koymyin Interlocutor.png"
+			}
+		},
+		{
+			"name": "Luminary Laboratory",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/223_Luminary Laboratory.png"
+			}
+		},
+		{
+			"name": "Disassociate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/212_Disassociate.png"
+			}
+		},
+		{
+			"name": "Induced Premonition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/219_Induced Premonition.png"
+			}
+		},
+		{
+			"name": "Tracing the Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/238_Tracing the Gate.png"
+			}
+		},
+		{
+			"name": "Mundane Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/226_Mundane Sanctuary.png"
+			}
+		},
+		{
+			"name": "Reliquary Repossession",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/232_Reliquary Repossession.png"
+			}
+		},
+		{
+			"name": "Seed of the Ideal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/235_Seed of the Ideal.png"
+			}
+		},
+		{
+			"name": "Signals in the Murk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/237_Signals in the Murk.png"
+			}
+		},
+		{
+			"name": "Parncarnate Embrace",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/227_Parncarnate Embrace.png"
+			}
+		},
+		{
+			"name": "Interminable Ways",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/220_Interminable Ways.png"
+			}
+		},
+		{
+			"name": "New Cyrane Courier",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/246_New Cyrane Courier.png"
+			}
+		},
+		{
+			"name": "Sigiled Gloves",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/250_Sigiled Gloves.png"
+			}
+		},
+		{
+			"name": "Private Collection",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/248_Private Collection.png"
+			}
+		},
+		{
+			"name": "Hemignosis Prototype",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scientist",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/244_Hemignosis Prototype.png"
+			}
+		},
+		{
+			"name": "Monolithic Decrees",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/245_Monolithic Decrees.png"
+			}
+		},
+		{
+			"name": "Baywatch Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Octopus Drone",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/241_Baywatch Patrol.png"
+			}
+		},
+		{
+			"name": "Perivitae Apparatus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/247_Perivitae Apparatus.png"
+			}
+		},
+		{
+			"name": "Shackles of Kthyevai",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/249_Shackles of Kthyevai.png"
+			}
+		},
+		{
+			"name": "Equilibrine Font",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/243_Equilibrine Font.png"
+			}
+		},
+		{
+			"name": "Backwoods Hideout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/251_Backwoods Hideout.png"
+			}
+		},
+		{
+			"name": "Unstable Threshold",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/262_Unstable Threshold.png"
+			}
+		},
+		{
+			"name": "To Lift One's Station",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Formula",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/50_To Lift One's Station.png"
+			}
+		},
+		{
+			"name": "To Temper Divinity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Formula",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/51_To Temper Divinity.png"
+			}
+		},
+		{
+			"name": "To Nurture the Inner Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Formula",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/91_To Nurture the Inner Eye.png"
+			}
+		},
+		{
+			"name": "To Impart Equilibrium",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Formula",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/90_To Impart Equilibrium.png"
+			}
+		},
+		{
+			"name": "To Scour One's Morals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Formula",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/127_To Scour One's Morals.png"
+			}
+		},
+		{
+			"name": "To Dissolve Transgressions",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Formula",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/126_To Dissolve Transgressions.png"
+			}
+		},
+		{
+			"name": "To Speak Between",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Formula",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/128_To Speak Between.png"
+			}
+		},
+		{
+			"name": "To Commune the Broken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Formula",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/163_To Commune the Broken.png"
+			}
+		},
+		{
+			"name": "To Carve One's Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Formula",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/162_To Carve One's Vengeance.png"
+			}
+		},
+		{
+			"name": "To Invest in Infinity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Formula",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/164_To Invest in Infinity.png"
+			}
+		},
+		{
+			"name": "To Grow to One's Ideal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Formula",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/197_To Grow to One's Ideal.png"
+			}
+		},
+		{
+			"name": "To Dissect All Past",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Formula",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/196_To Dissect All Past.png"
+			}
+		},
+		{
+			"name": "Plainclothes Agent",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/41_Plainclothes Agent.png"
+			}
+		},
+		{
+			"name": "Overseas Contact",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/40_Overseas Contact.png"
+			}
+		},
+		{
+			"name": "Equinox Justiciar",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/20_Equinox Justiciar.png"
+			}
+		},
+		{
+			"name": "Solomonarya Pastor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Vampire Cleric",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/46_Solomonarya Pastor.png"
+			}
+		},
+		{
+			"name": "Unorthodox Convert",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Noble Cleric",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/52_Unorthodox Convert.png"
+			}
+		},
+		{
+			"name": "Lightbringer Agent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Elf Soldier",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/32_Lightbringer Agent.png"
+			}
+		},
+		{
+			"name": "Designer-Opus Mogul",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Noble Scientist",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/17_Designer-Opus Mogul.png"
+			}
+		},
+		{
+			"name": "Seeping Mask",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/44_Seeping Mask.png"
+			}
+		},
+		{
+			"name": "Luminary's Raveling",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/34_Luminary's Raveling.png"
+			}
+		},
+		{
+			"name": "Self-Taught Evokist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Citizen Warlock",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/88_Self-Taught Evokist.png"
+			}
+		},
+		{
+			"name": "End of Innocence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/67_End of Innocence.png"
+			}
+		},
+		{
+			"name": "Eccentric Patriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Noble Warlock",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/66_Eccentric Patriarch.png"
+			}
+		},
+		{
+			"name": "Disheveled Professor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Scientist Rogue",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/65_Disheveled Professor.png"
+			}
+		},
+		{
+			"name": "Basement Covenant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/56_Basement Covenant.png"
+			}
+		},
+		{
+			"name": "Magister Niccolo Marzeli",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/77_Magister Niccolo Marzeli.png"
+			}
+		},
+		{
+			"name": "At Reality's Borders",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/55_At Reality's Borders.png"
+			}
+		},
+		{
+			"name": "Mortal Engine",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/79_Mortal Engine.png"
+			}
+		},
+		{
+			"name": "Mine-Site Surveyor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Scout",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/108_Mine-Site Surveyor.png"
+			}
+		},
+		{
+			"name": "Underground Idol",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Performer",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/129_Underground Idol.png"
+			}
+		},
+		{
+			"name": "Theatric Ritualist",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/125_Theatric Ritualist.png"
+			}
+		},
+		{
+			"name": "Girder Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Elf Assassin",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/102_Girder Rat.png"
+			}
+		},
+		{
+			"name": "Kolyost Traditionalist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/106_Kolyost Traditionalist.png"
+			}
+		},
+		{
+			"name": "Defected Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier Rogue",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/96_Defected Agent.png"
+			}
+		},
+		{
+			"name": "Amoral Empath",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/93_Amoral Empath.png"
+			}
+		},
+		{
+			"name": "Numb Indulgence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/150_Numb Indulgence.png"
+			}
+		},
+		{
+			"name": "Sessile Subject",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Wall",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/161_Sessile Subject.png"
+			}
+		},
+		{
+			"name": "Prised Embryo",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ooze Egg",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/154_Prised Embryo.png"
+			}
+		},
+		{
+			"name": "Curio Reappraiser",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/133_Curio Reappraiser.png"
+			}
+		},
+		{
+			"name": "Public Perception",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/155_Public Perception.png"
+			}
+		},
+		{
+			"name": "New Cyrane Contact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Vampire Advisor",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/148_New Cyrane Contact.png"
+			}
+		},
+		{
+			"name": "Disquieting Thrum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/135_Disquieting Thrum.png"
+			}
+		},
+		{
+			"name": "Mute Witness",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/147_Mute Witness.png"
+			}
+		},
+		{
+			"name": "Auspex of Forms",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Angel Elf Sorcerer",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/131_Auspex of Forms.png"
+			}
+		},
+		{
+			"name": "Passionate Prentice",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/185_Passionate Prentice.png"
+			}
+		},
+		{
+			"name": "Estate Entangler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/176_Estate Entangler.png"
+			}
+		},
+		{
+			"name": "Keen Secretary",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Elf Advisor",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/179_Keen Secretary.png"
+			}
+		},
+		{
+			"name": "Shades of Disharmony",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/193_Shades of Disharmony.png"
+			}
+		},
+		{
+			"name": "Limbic Helm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/180_Limbic Helm.png"
+			}
+		},
+		{
+			"name": "Holy-Vein Conservator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Soldier Druid",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/177_Holy-Vein Conservator.png"
+			}
+		},
+		{
+			"name": "Pharmaceutical Heir",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Noble Scientist",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/187_Pharmaceutical Heir.png"
+			}
+		},
+		{
+			"name": "Touch of the Ancient",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/198_Touch of the Ancient.png"
+			}
+		},
+		{
+			"name": "Omnitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/184_Omnitor.png"
+			}
+		},
+		{
+			"name": "Steppe Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Peasant Shaman",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/194_Steppe Shepherd.png"
+			}
+		},
+		{
+			"name": "Vaunted Descent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/201_Vaunted Descent.png"
+			}
+		},
+		{
+			"name": "Netsyn, Scion of the First",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Vampire Scientist",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/183_Netsyn, Scion of the First.png"
+			}
+		},
+		{
+			"name": "Dr. Isimir Barlowe",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Angel Noble",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/215_Dr. Isimir Barlowe.png"
+			}
+		},
+		{
+			"name": "High Doctor Augusta Amerel",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Vampire Scientist Cleric",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/218_High Doctor Augusta Amerel.png"
+			}
+		},
+		{
+			"name": "Blind Photorealist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Artist",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/207_Blind Photorealist.png"
+			}
+		},
+		{
+			"name": "Postmodern Methods",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/230_Postmodern Methods.png"
+			}
+		},
+		{
+			"name": "Wrench Open",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/240_Wrench Open.png"
+			}
+		},
+		{
+			"name": "Sanity's Edge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/234_Sanity's Edge.png"
+			}
+		},
+		{
+			"name": "Philosopher's Sanctum",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/228_Philosopher's Sanctum.png"
+			}
+		},
+		{
+			"name": "Shattered Poise",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/236_Shattered Poise.png"
+			}
+		},
+		{
+			"name": "Enlightened Brigadier",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Soldier Scientist",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/216_Enlightened Brigadier.png"
+			}
+		},
+		{
+			"name": "Guidestone Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/217_Guidestone Blade.png"
+			}
+		},
+		{
+			"name": "Meritocratic Tenets",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/225_Meritocratic Tenets.png"
+			}
+		},
+		{
+			"name": "Rite of Between",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/233_Rite of Between.png"
+			}
+		},
+		{
+			"name": "Crucible of Wit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Reagent",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/242_Crucible of Wit.png"
+			}
+		},
+		{
+			"name": "Dregs of Empire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/253_Dregs of Empire.png"
+			}
+		},
+		{
+			"name": "Mouth-Torn Sepulcher",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/258_Mouth-Torn Sepulcher.png"
+			}
+		},
+		{
+			"name": "Stomach-Torn Monuments",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/260_Stomach-Torn Monuments.png"
+			}
+		},
+		{
+			"name": "Eye-Torn Orrery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/255_Eye-Torn Orrery.png"
+			}
+		},
+		{
+			"name": "Chest-Torn Spire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/252_Chest-Torn Spire.png"
+			}
+		},
+		{
+			"name": "Finger-Torn Chapel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/256_Finger-Torn Chapel.png"
+			}
+		},
+		{
+			"name": "Glimmering Manse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/257_Glimmering Manse.png"
+			}
+		},
+		{
+			"name": "Tenerka, the Severed Heart",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/261_Tenerka, the Severed Heart.png"
+			}
+		},
+		{
+			"name": "Enlightenment Institute of NC",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/254_Enlightenment Institute of NC.png"
+			}
+		},
+		{
+			"name": "Sepulcher-City of Imago",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Immanent Legendary Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/259_Sepulcher-City of Imago.png"
+			}
+		},
+		{
+			"name": "Dr. Carmine Yevinan",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Planeswalker — Carmine",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/214_Dr. Carmine Yevinan.png"
+			}
+		},
+		{
+			"name": "Dashiell Wicks, Hellraiser",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Dashiell",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/211_Dashiell Wicks, Hellraiser.png"
+			}
+		},
+		{
+			"name": "Panichosis",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/114_Panichosis.png"
+			}
+		},
+		{
+			"name": "Dregs of Enlightenment",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Artifact Creature — Reagent Ooze",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/98_Dregs of Enlightenment.png"
+			}
+		},
+		{
+			"name": "Chankata, Chrysopoeian",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Chankata",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/208_Chankata, Chrysopoeian.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/2_Copy.png"
+			}
+		},
+		{
+			"name": "Merchant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Merchant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/6_Merchant.png"
+			}
+		},
+		{
+			"name": "Reagent",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Reagent",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/14_Reagent.png"
+			}
+		},
+		{
+			"name": "Angel Demon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Angel Demon",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/11_Angel Demon.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/12_Soldier.png"
+			}
+		},
+		{
+			"name": "Noble",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Noble",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/8_Noble.png"
+			}
+		},
+		{
+			"name": "Homunculus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Homunculus",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/3_Homunculus.png"
+			}
+		},
+		{
+			"name": "Vampire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/7_Vampire.png"
+			}
+		},
+		{
+			"name": "Homunculus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Homunculus",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/4_Homunculus.png"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/1_Avatar.png"
+			}
+		},
+		{
+			"name": "Elk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elk",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/13_Elk.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/9_Zombie.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/10_Zombie.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Plaster-Man.github.io/sets/ATR-files/img/5_Insect.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Blessed Eternity Yet Echoes
+	1 A Chorus Before Our Thrones
+	1 As It Is, Forever
+	2 Wrath of the Shrouded King
+	2 Exodite Provost
+	2 Dyrshei, Dawning Seminarian
+	2 Eumorphosiac
+	2 Sentinel of Lost Empires
+	2 Overdose
+	1 Eraion, Chair of Defense
+	2 Ida Prime, Superego
+	2 Chief Financial Officer
+	2 In Dim Kthyevai
+	2 Denature
+	1 The Place Where It Was Torn
+	2 Remnant of Thrones
+	2 Ichoiclast
+	2 Congregation Elocutor
+	2 So Below
+	2 Fundament as One
+	1 EG Armon, Industry Confidant
+	2 Tormented Tram
+	2 Patent Orchestrator
+	2 Realize the Gateway
+	2 Remnant of Capitals
+	2 Kyrion, Kolyost's Deliverance
+	1 Remnant of the Rift
+	2 Wild Aspiration
+	2 Remnant of Annexes
+	2 Paths Undreamt
+	2 Wheel of Other and Self
+	1 Unbidden Voyage
+	2 Shackles of Kthyevai
+	2 Equilibrine Font
+	2 To Temper Divinity
+	2 To Impart Equilibrium
+	2 To Dissolve Transgressions
+	1 To Speak Between
+	2 To Carve One's Vengeance
+	1 To Invest in Infinity
+	2 To Dissect All Past
+	2 Lightbringer Agent
+	2 Designer-Opus Mogul
+	2 Seeping Mask
+	1 Luminary's Raveling
+	2 Magister Niccolo Marzeli
+	2 At Reality's Borders
+	1 Mortal Engine
+	2 Amoral Empath
+	2 Mute Witness
+	2 Auspex of Forms
+	2 Pharmaceutical Heir
+	2 Touch of the Ancient
+	2 Omnitor
+	1 Netsyn, Scion of the First
+	1 Dr. Isimir Barlowe
+	1 High Doctor Augusta Amerel
+	2 Blind Photorealist
+	2 Postmodern Methods
+	2 Wrench Open
+	2 Sanity's Edge
+	2 Philosopher's Sanctum
+	2 Shattered Poise
+	2 Enlightened Brigadier
+	2 Guidestone Blade
+	2 Meritocratic Tenets
+	2 Rite of Between
+	2 Tenerka, the Severed Heart
+	2 Enlightenment Institute of NC
+	1 Sepulcher-City of Imago
+	1 Dr. Carmine Yevinan
+	1 Dashiell Wicks, Hellraiser
+	2 Panichosis
+	1 Chankata, Chrysopoeian
+[uncommon(4)]
+	4 Lose Yourself in Our Arms
+	4 Ours Is the Way Between
+	4 A Light Vast and Terrible
+	4 Normalcy Is Infinity's Policy
+	4 Pulse of the Tower's Heart
+	4 Solomonarya Ritebreeder
+	4 Import Inspectors
+	4 Newborn Albichon
+	4 Merchant's Due
+	4 Journey's End
+	4 Into the Breach
+	4 Promised Syzygy
+	4 Final Transfusion
+	4 Enlightened Operative
+	4 Archivist of True Faith
+	4 Chemander Messenger
+	4 Notorious Hack
+	4 Remnant of Icesheets
+	4 Nucleotithe
+	4 Rewelded Bathycapsule
+	4 Carmine's Intervention
+	4 Sublimation of Self
+	4 Scorn-Brand Thrall
+	4 Obsessive Chemander
+	4 Revelation in Ash
+	4 Alkhin Pass Commando
+	4 Remnant of Sepulchers
+	4 In Awe and in Horror
+	4 Searing Sacrament
+	4 Flair Bartender
+	4 Remnant of Tremors
+	4 Ichorflesh Pack
+	4 Panichon's Promise
+	4 Hunt-Hewn Retrievers
+	4 Herald of the First Form
+	4 Inconceivable Vision
+	4 Glyphic Unearthing
+	4 Acolyte of Evolution
+	4 Marathrine Consummator
+	4 Presence of the Unrealized
+	4 Unearthly Radiance
+	4 Remnant of Summits
+	4 Vitriolic Subversive
+	4 Churning Ichoi-Still
+	4 Visiting Emeritus
+	4 Curse-Chained Neonate
+	4 Lucrezion Heiress
+	4 Maiden of the Old Hunt
+	4 Pop-Sci Spokesmodel
+	4 Doorkeeper of Tenerka
+	4 Archaeopticon
+	4 Reclamation Chemander
+	4 Cleanup Officer
+	4 Koymyin Interlocutor
+	4 Luminary Laboratory
+	4 Disassociate
+	4 Induced Premonition
+	4 Tracing the Gate
+	4 Mundane Sanctuary
+	4 Reliquary Repossession
+	4 Seed of the Ideal
+	4 Signals in the Murk
+	4 Parncarnate Embrace
+	4 Interminable Ways
+	4 Hemignosis Prototype
+	4 Monolithic Decrees
+	4 Baywatch Patrol
+	4 Perivitae Apparatus
+	4 Unstable Threshold
+	4 To Lift One's Station
+	4 To Nurture the Inner Eye
+	4 To Scour One's Morals
+	4 To Commune the Broken
+	4 To Grow to One's Ideal
+	4 Equinox Justiciar
+	4 Solomonarya Pastor
+	4 Unorthodox Convert
+	4 Eccentric Patriarch
+	4 Disheveled Professor
+	4 Basement Covenant
+	4 Girder Rat
+	4 Kolyost Traditionalist
+	4 Prised Embryo
+	4 New Cyrane Contact
+	4 Disquieting Thrum
+	4 Limbic Helm
+	4 Holy-Vein Conservator
+	4 Steppe Shepherd
+	4 Vaunted Descent
+	4 Mouth-Torn Sepulcher
+	4 Stomach-Torn Monuments
+	4 Eye-Torn Orrery
+	4 Chest-Torn Spire
+	4 Finger-Torn Chapel
+	4 Glimmering Manse
+	4 Dregs of Enlightenment
+[common(7)]
+	8 You Are Always Welcome
+	8 Never Forget Your Loyalties
+	8 Guided by Higher Hands
+	8 Gaze of a False Sun
+	8 A Near-Unseen Splendor
+	8 Step Forth Into Forever
+	8 Luminary Euthanist
+	8 First-Form Visionary
+	8 Kolyost Pathlighter
+	8 North-Front Brigadier
+	8 Overeager Chirurgeon
+	8 Solomonarya Revelator
+	8 Remnant of Blizzards
+	8 Highborn Occultist
+	8 Swift Exultation
+	8 Wander in Dream
+	8 Dose of Albichoi
+	8 Alkaline Reliquary
+	8 Face Hell
+	8 Exodite Zealot
+	8 Chemander Pilgrim
+	8 Enraptured Ecologist
+	8 Solemn Phegorichon
+	8 Luminary Defense Corps
+	8 Bishop of Elder Blood
+	8 Marathrine Skywatch
+	8 Covetous Scion
+	8 Essence Capture
+	8 Glacial Obelisk
+	8 Lidechian Ground Patrol
+	8 Secure
+	8 Neuter Reliquary
+	8 Narcoleptic Visions
+	8 Best Left Buried
+	8 Exodite Doomsayer
+	8 Chemander Officiant
+	8 Morphing Dove
+	8 New Cyrane Initiate
+	8 Remnant of Middens
+	8 Dose of Phegorichoi
+	8 Hexhauler's Carriage
+	8 Pollute
+	8 Mortal Insignificance
+	8 Scan the Aftermath
+	8 Masochistic Addiction
+	8 Misfortune Broker
+	8 Apothecary's Nest
+	8 Unsettling Cantor
+	8 Insatiate Locus
+	8 Remnant of Foundations
+	8 Blood-Bound Howl
+	8 Expunge Evidence
+	8 Pancarnate Burst
+	8 Demand Answers REART
+	8 No Mortal's Land
+	8 Empath's Entreaty
+	8 Unlicensed Transfusionist
+	8 Freeway Oilmaw
+	8 Alchemist's Familiar
+	8 Chemander Proselyte
+	8 Pristine Angiomorph
+	8 Immaculate Quarry
+	8 Waif of Irdam Wood
+	8 Deep-Vein Latchjaw
+	8 Synthesis Station
+	8 Monitor Molder
+	8 Probiotic Consecration
+	8 Claim Audience
+	8 Acidic Reliquary
+	8 Battle at the Institute
+	8 New Cyrane Courier
+	8 Sigiled Gloves
+	8 Private Collection
+	8 Backwoods Hideout
+	8 Plainclothes Agent
+	8 Overseas Contact
+	8 Self-Taught Evokist
+	8 End of Innocence
+	8 Mine-Site Surveyor
+	8 Underground Idol
+	8 Theatric Ritualist
+	8 Defected Agent
+	8 Numb Indulgence
+	8 Sessile Subject
+	8 Curio Reappraiser
+	8 Public Perception
+	8 Passionate Prentice
+	8 Estate Entangler
+	8 Keen Secretary
+	8 Shades of Disharmony
+	8 Crucible of Wit
+	8 Dregs of Empire
+[wildcard(2)]
+	7 Blessed Eternity Yet Echoes
+	6 You Are Always Welcome
+	6 Never Forget Your Loyalties
+	4 A Chorus Before Our Thrones
+	6 Guided by Higher Hands
+	6 Gaze of a False Sun
+	15 Lose Yourself in Our Arms
+	15 Ours Is the Way Between
+	6 A Near-Unseen Splendor
+	15 A Light Vast and Terrible
+	15 Normalcy Is Infinity's Policy
+	15 Pulse of the Tower's Heart
+	4 As It Is, Forever
+	7 Wrath of the Shrouded King
+	6 Step Forth Into Forever
+	6 Luminary Euthanist
+	6 First-Form Visionary
+	6 Kolyost Pathlighter
+	6 North-Front Brigadier
+	6 Overeager Chirurgeon
+	7 Exodite Provost
+	6 Solomonarya Revelator
+	6 Remnant of Blizzards
+	6 Highborn Occultist
+	6 Swift Exultation
+	6 Wander in Dream
+	6 Dose of Albichoi
+	6 Alkaline Reliquary
+	6 Face Hell
+	6 Exodite Zealot
+	15 Solomonarya Ritebreeder
+	15 Import Inspectors
+	15 Newborn Albichon
+	15 Merchant's Due
+	15 Journey's End
+	15 Into the Breach
+	15 Promised Syzygy
+	15 Final Transfusion
+	7 Dyrshei, Dawning Seminarian
+	7 Eumorphosiac
+	7 Sentinel of Lost Empires
+	7 Overdose
+	4 Eraion, Chair of Defense
+	6 Chemander Pilgrim
+	6 Enraptured Ecologist
+	6 Solemn Phegorichon
+	6 Luminary Defense Corps
+	6 Bishop of Elder Blood
+	6 Marathrine Skywatch
+	6 Covetous Scion
+	6 Essence Capture
+	6 Glacial Obelisk
+	6 Lidechian Ground Patrol
+	6 Secure
+	6 Neuter Reliquary
+	6 Narcoleptic Visions
+	6 Best Left Buried
+	15 Enlightened Operative
+	15 Archivist of True Faith
+	15 Chemander Messenger
+	15 Notorious Hack
+	15 Remnant of Icesheets
+	15 Nucleotithe
+	15 Rewelded Bathycapsule
+	15 Carmine's Intervention
+	7 Ida Prime, Superego
+	7 Chief Financial Officer
+	7 In Dim Kthyevai
+	7 Denature
+	4 The Place Where It Was Torn
+	6 Exodite Doomsayer
+	6 Chemander Officiant
+	6 Morphing Dove
+	6 New Cyrane Initiate
+	6 Remnant of Middens
+	7 Remnant of Thrones
+	6 Dose of Phegorichoi
+	15 Sublimation of Self
+	6 Hexhauler's Carriage
+	6 Pollute
+	6 Mortal Insignificance
+	6 Scan the Aftermath
+	6 Masochistic Addiction
+	15 Scorn-Brand Thrall
+	15 Obsessive Chemander
+	15 Revelation in Ash
+	15 Alkhin Pass Commando
+	15 Remnant of Sepulchers
+	15 In Awe and in Horror
+	7 Ichoiclast
+	6 Misfortune Broker
+	7 Congregation Elocutor
+	7 So Below
+	7 Fundament as One
+	15 Searing Sacrament
+	4 EG Armon, Industry Confidant
+	6 Apothecary's Nest
+	6 Unsettling Cantor
+	15 Flair Bartender
+	15 Remnant of Tremors
+	6 Insatiate Locus
+	6 Remnant of Foundations
+	6 Blood-Bound Howl
+	6 Expunge Evidence
+	6 Pancarnate Burst
+	6 Demand Answers REART
+	6 No Mortal's Land
+	6 Empath's Entreaty
+	6 Unlicensed Transfusionist
+	15 Ichorflesh Pack
+	6 Freeway Oilmaw
+	15 Panichon's Promise
+	15 Hunt-Hewn Retrievers
+	15 Herald of the First Form
+	15 Inconceivable Vision
+	15 Glyphic Unearthing
+	7 Tormented Tram
+	7 Patent Orchestrator
+	7 Realize the Gateway
+	7 Remnant of Capitals
+	7 Kyrion, Kolyost's Deliverance
+	4 Remnant of the Rift
+	6 Alchemist's Familiar
+	6 Chemander Proselyte
+	6 Pristine Angiomorph
+	6 Immaculate Quarry
+	6 Waif of Irdam Wood
+	6 Deep-Vein Latchjaw
+	6 Synthesis Station
+	6 Monitor Molder
+	6 Probiotic Consecration
+	6 Claim Audience
+	6 Acidic Reliquary
+	6 Battle at the Institute
+	15 Acolyte of Evolution
+	15 Marathrine Consummator
+	15 Presence of the Unrealized
+	15 Unearthly Radiance
+	15 Remnant of Summits
+	15 Vitriolic Subversive
+	15 Churning Ichoi-Still
+	7 Wild Aspiration
+	7 Remnant of Annexes
+	7 Paths Undreamt
+	7 Wheel of Other and Self
+	4 Unbidden Voyage
+	15 Visiting Emeritus
+	15 Curse-Chained Neonate
+	15 Lucrezion Heiress
+	15 Maiden of the Old Hunt
+	15 Pop-Sci Spokesmodel
+	15 Doorkeeper of Tenerka
+	15 Archaeopticon
+	15 Reclamation Chemander
+	15 Cleanup Officer
+	15 Koymyin Interlocutor
+	15 Luminary Laboratory
+	15 Disassociate
+	15 Induced Premonition
+	15 Tracing the Gate
+	15 Mundane Sanctuary
+	15 Reliquary Repossession
+	15 Seed of the Ideal
+	15 Signals in the Murk
+	15 Parncarnate Embrace
+	15 Interminable Ways
+	6 New Cyrane Courier
+	6 Sigiled Gloves
+	6 Private Collection
+	15 Hemignosis Prototype
+	15 Monolithic Decrees
+	15 Baywatch Patrol
+	15 Perivitae Apparatus
+	7 Shackles of Kthyevai
+	7 Equilibrine Font
+	6 Backwoods Hideout
+	15 Unstable Threshold
+	15 To Lift One's Station
+	7 To Temper Divinity
+	15 To Nurture the Inner Eye
+	7 To Impart Equilibrium
+	15 To Scour One's Morals
+	7 To Dissolve Transgressions
+	4 To Speak Between
+	15 To Commune the Broken
+	7 To Carve One's Vengeance
+	4 To Invest in Infinity
+	15 To Grow to One's Ideal
+	7 To Dissect All Past
+	6 Plainclothes Agent
+	6 Overseas Contact
+	15 Equinox Justiciar
+	15 Solomonarya Pastor
+	15 Unorthodox Convert
+	7 Lightbringer Agent
+	7 Designer-Opus Mogul
+	7 Seeping Mask
+	4 Luminary's Raveling
+	6 Self-Taught Evokist
+	6 End of Innocence
+	15 Eccentric Patriarch
+	15 Disheveled Professor
+	15 Basement Covenant
+	7 Magister Niccolo Marzeli
+	7 At Reality's Borders
+	4 Mortal Engine
+	6 Mine-Site Surveyor
+	6 Underground Idol
+	6 Theatric Ritualist
+	15 Girder Rat
+	15 Kolyost Traditionalist
+	6 Defected Agent
+	7 Amoral Empath
+	6 Numb Indulgence
+	6 Sessile Subject
+	15 Prised Embryo
+	6 Curio Reappraiser
+	6 Public Perception
+	15 New Cyrane Contact
+	15 Disquieting Thrum
+	7 Mute Witness
+	7 Auspex of Forms
+	6 Passionate Prentice
+	6 Estate Entangler
+	6 Keen Secretary
+	6 Shades of Disharmony
+	15 Limbic Helm
+	15 Holy-Vein Conservator
+	7 Pharmaceutical Heir
+	7 Touch of the Ancient
+	7 Omnitor
+	15 Steppe Shepherd
+	15 Vaunted Descent
+	4 Netsyn, Scion of the First
+	4 Dr. Isimir Barlowe
+	4 High Doctor Augusta Amerel
+	7 Blind Photorealist
+	7 Postmodern Methods
+	7 Wrench Open
+	7 Sanity's Edge
+	7 Philosopher's Sanctum
+	7 Shattered Poise
+	7 Enlightened Brigadier
+	7 Guidestone Blade
+	7 Meritocratic Tenets
+	7 Rite of Between
+	6 Crucible of Wit
+	6 Dregs of Empire
+	15 Mouth-Torn Sepulcher
+	15 Stomach-Torn Monuments
+	15 Eye-Torn Orrery
+	15 Chest-Torn Spire
+	15 Finger-Torn Chapel
+	15 Glimmering Manse
+	7 Tenerka, the Severed Heart
+	7 Enlightenment Institute of NC
+	4 Sepulcher-City of Imago
+	4 Dr. Carmine Yevinan
+	4 Dashiell Wicks, Hellraiser
+	7 Panichosis
+	15 Dregs of Enlightenment
+	4 Chankata, Chrysopoeian

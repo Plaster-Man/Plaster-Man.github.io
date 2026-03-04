@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/GSR-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>GSR visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/GSR-files/logo.png" />
+	<img class="preload-hidden" src="/sets/GSR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PRK-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="GSR"><img src="/sets/GSR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PRK"><img src="/sets/PRK-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/GSR-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets/GSR-files/img/21_Eraion, Chair of Defense.png" id="21_Eraion, Chair of Defense" data-flag="@X" onclick="openSidebar('21_Eraion, Chair of Defense',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/79_Mortal Engine_back.png" alt="/sets/GSR-files/img/79_Mortal Engine_front.png" id="79_Mortal Engine" data-flag="@XD" onclick="openSidebar('79_Mortal Engine',false)"><button class="flip-btn" onclick="imgFlip('79_Mortal Engine')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/99_EG Armon, Industry Confidant.png" id="99_EG Armon, Industry Confidant" data-flag="@X" onclick="openSidebar('99_EG Armon, Industry Confidant',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/159_Remnant of the Rift.png" id="159_Remnant of the Rift" data-flag="@X" onclick="openSidebar('159_Remnant of the Rift',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/183_Netsyn, Scion of the First_back.png" alt="/sets/GSR-files/img/183_Netsyn, Scion of the First_front.png" id="183_Netsyn, Scion of the First" data-flag="@XD" onclick="openSidebar('183_Netsyn, Scion of the First',false)"><button class="flip-btn" onclick="imgFlip('183_Netsyn, Scion of the First')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/34_Luminary's Raveling_back.png" alt="/sets/GSR-files/img/34_Luminary's Raveling_front.png" id="34_Luminarys Raveling" data-flag="@XD" onclick="openSidebar('34_Luminarys Raveling',false)"><button class="flip-btn" onclick="imgFlip('34_Luminarys Raveling')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/84_The Place Where It Was Torn.png" id="84_The Place Where It Was Torn" data-flag="@X" onclick="openSidebar('84_The Place Where It Was Torn',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/128_To Speak Between.png" id="128_To Speak Between" data-flag="@X" onclick="openSidebar('128_To Speak Between',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/164_To Invest in Infinity.png" id="164_To Invest in Infinity" data-flag="@X" onclick="openSidebar('164_To Invest in Infinity',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/199_Unbidden Voyage.png" id="199_Unbidden Voyage" data-flag="@X" onclick="openSidebar('199_Unbidden Voyage',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/17_Designer-Opus Mogul_back.png" alt="/sets/GSR-files/img/17_Designer-Opus Mogul_front.png" id="17_Designer-Opus Mogul" data-flag="@XD" onclick="openSidebar('17_Designer-Opus Mogul',false)"><button class="flip-btn" onclick="imgFlip('17_Designer-Opus Mogul')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/55_At Reality's Borders_back.png" alt="/sets/GSR-files/img/55_At Reality's Borders_front.png" id="55_At Realitys Borders" data-flag="@XD" onclick="openSidebar('55_At Realitys Borders',false)"><button class="flip-btn" onclick="imgFlip('55_At Realitys Borders')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/93_Amoral Empath_back.png" alt="/sets/GSR-files/img/93_Amoral Empath_front.png" id="93_Amoral Empath" data-flag="@XD" onclick="openSidebar('93_Amoral Empath',false)"><button class="flip-btn" onclick="imgFlip('93_Amoral Empath')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/131_Auspex of Forms_back.png" alt="/sets/GSR-files/img/131_Auspex of Forms_front.png" id="131_Auspex of Forms" data-flag="@XD" onclick="openSidebar('131_Auspex of Forms',false)"><button class="flip-btn" onclick="imgFlip('131_Auspex of Forms')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/184_Omnitor_back.png" alt="/sets/GSR-files/img/184_Omnitor_front.png" id="184_Omnitor" data-flag="@XD" onclick="openSidebar('184_Omnitor',false)"><button class="flip-btn" onclick="imgFlip('184_Omnitor')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/19_Dyrshei, Dawning Seminarian.png" id="19_Dyrshei, Dawning Seminarian" data-flag="@X" onclick="openSidebar('19_Dyrshei, Dawning Seminarian',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/62_Chief Financial Officer.png" id="62_Chief Financial Officer" data-flag="@X" onclick="openSidebar('62_Chief Financial Officer',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/95_Congregation Elocutor_back.png" alt="/sets/GSR-files/img/95_Congregation Elocutor_front.png" id="95_Congregation Elocutor" data-flag="@XD" onclick="openSidebar('95_Congregation Elocutor',false)"><button class="flip-btn" onclick="imgFlip('95_Congregation Elocutor')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/146_Kyrion, Kolyost's Deliverance.png" id="146_Kyrion, Kolyosts Deliverance" data-flag="@X" onclick="openSidebar('146_Kyrion, Kolyosts Deliverance',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/186_Paths Undreamt.png" id="186_Paths Undreamt" data-flag="@X" onclick="openSidebar('186_Paths Undreamt',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/22_Eumorphosiac.png" id="22_Eumorphosiac" data-flag="@X" onclick="openSidebar('22_Eumorphosiac',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/64_Denature.png" id="64_Denature" data-flag="@X" onclick="openSidebar('64_Denature',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/101_Fundament as One.png" id="101_Fundament as One" data-flag="@X" onclick="openSidebar('101_Fundament as One',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/147_Mute Witness_back.png" alt="/sets/GSR-files/img/147_Mute Witness_front.png" id="147_Mute Witness" data-flag="@XD" onclick="openSidebar('147_Mute Witness',false)"><button class="flip-btn" onclick="imgFlip('147_Mute Witness')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/187_Pharmaceutical Heir_back.png" alt="/sets/GSR-files/img/187_Pharmaceutical Heir_front.png" id="187_Pharmaceutical Heir" data-flag="@XD" onclick="openSidebar('187_Pharmaceutical Heir',false)"><button class="flip-btn" onclick="imgFlip('187_Pharmaceutical Heir')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/32_Lightbringer Agent_back.png" alt="/sets/GSR-files/img/32_Lightbringer Agent_front.png" id="32_Lightbringer Agent" data-flag="@XD" onclick="openSidebar('32_Lightbringer Agent',false)"><button class="flip-btn" onclick="imgFlip('32_Lightbringer Agent')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/71_Exodite Provost.png" id="71_Exodite Provost" data-flag="@X" onclick="openSidebar('71_Exodite Provost',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/104_Ichoiclast.png" id="104_Ichoiclast" data-flag="@X" onclick="openSidebar('104_Ichoiclast',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/153_Patent Orchestrator.png" id="153_Patent Orchestrator" data-flag="@X" onclick="openSidebar('153_Patent Orchestrator',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/191_Remnant of Annexes.png" id="191_Remnant of Annexes" data-flag="@X" onclick="openSidebar('191_Remnant of Annexes',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/38_Overdose.png" id="38_Overdose" data-flag="@X" onclick="openSidebar('38_Overdose',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/73_Ida Prime, Superego.png" id="73_Ida Prime, Superego" data-flag="@X" onclick="openSidebar('73_Ida Prime, Superego',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/114_Panichosis.png" id="114_Panichosis" data-flag="@X" onclick="openSidebar('114_Panichosis',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/156_Realize the Gateway.png" id="156_Realize the Gateway" data-flag="@X" onclick="openSidebar('156_Realize the Gateway',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/196_To Dissect All Past.png" id="196_To Dissect All Past" data-flag="@X" onclick="openSidebar('196_To Dissect All Past',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/44_Seeping Mask_back.png" alt="/sets/GSR-files/img/44_Seeping Mask_front.png" id="44_Seeping Mask" data-flag="@XD" onclick="openSidebar('44_Seeping Mask',false)"><button class="flip-btn" onclick="imgFlip('44_Seeping Mask')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/74_In Dim Kthyevai.png" id="74_In Dim Kthyevai" data-flag="@X" onclick="openSidebar('74_In Dim Kthyevai',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/118_Remnant of Thrones.png" id="118_Remnant of Thrones" data-flag="@X" onclick="openSidebar('118_Remnant of Thrones',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/157_Remnant of Capitals.png" id="157_Remnant of Capitals" data-flag="@X" onclick="openSidebar('157_Remnant of Capitals',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/198_Touch of the Ancient_back.png" alt="/sets/GSR-files/img/198_Touch of the Ancient_front.png" id="198_Touch of the Ancient" data-flag="@XD" onclick="openSidebar('198_Touch of the Ancient',false)"><button class="flip-btn" onclick="imgFlip('198_Touch of the Ancient')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/45_Sentinel of Lost Empires.png" id="45_Sentinel of Lost Empires" data-flag="@X" onclick="openSidebar('45_Sentinel of Lost Empires',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/77_Magister Niccolo Marzeli_back.png" alt="/sets/GSR-files/img/77_Magister Niccolo Marzeli_front.png" id="77_Magister Niccolo Marzeli" data-flag="@XD" onclick="openSidebar('77_Magister Niccolo Marzeli',false)"><button class="flip-btn" onclick="imgFlip('77_Magister Niccolo Marzeli')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/123_So Below.png" id="123_So Below" data-flag="@X" onclick="openSidebar('123_So Below',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/162_To Carve One's Vengeance.png" id="162_To Carve Ones Vengeance" data-flag="@X" onclick="openSidebar('162_To Carve Ones Vengeance',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/204_Wheel of Other and Self.png" id="204_Wheel of Other and Self" data-flag="@X" onclick="openSidebar('204_Wheel of Other and Self',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/51_To Temper Divinity.png" id="51_To Temper Divinity" data-flag="@X" onclick="openSidebar('51_To Temper Divinity',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/90_To Impart Equilibrium.png" id="90_To Impart Equilibrium" data-flag="@X" onclick="openSidebar('90_To Impart Equilibrium',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/126_To Dissolve Transgressions.png" id="126_To Dissolve Transgressions" data-flag="@X" onclick="openSidebar('126_To Dissolve Transgressions',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/165_Tormented Tram.png" id="165_Tormented Tram" data-flag="@X" onclick="openSidebar('165_Tormented Tram',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/205_Wild Aspiration.png" id="205_Wild Aspiration" data-flag="@X" onclick="openSidebar('205_Wild Aspiration',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/20_Equinox Justiciar_back.png" alt="/sets/GSR-files/img/20_Equinox Justiciar_front.png" id="20_Equinox Justiciar" data-flag="@XD" onclick="openSidebar('20_Equinox Justiciar',false)"><button class="flip-btn" onclick="imgFlip('20_Equinox Justiciar')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/54_Archivist of True Faith.png" id="54_Archivist of True Faith" data-flag="@X" onclick="openSidebar('54_Archivist of True Faith',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/92_Alkhin Pass Commando.png" id="92_Alkhin Pass Commando" data-flag="@X" onclick="openSidebar('92_Alkhin Pass Commando',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/135_Disquieting Thrum_back.png" alt="/sets/GSR-files/img/135_Disquieting Thrum_front.png" id="135_Disquieting Thrum" data-flag="@XD" onclick="openSidebar('135_Disquieting Thrum',false)"><button class="flip-btn" onclick="imgFlip('135_Disquieting Thrum')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/169_Acolyte of Evolution.png" id="169_Acolyte of Evolution" data-flag="@X" onclick="openSidebar('169_Acolyte of Evolution',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/25_Final Transfusion.png" id="25_Final Transfusion" data-flag="@X" onclick="openSidebar('25_Final Transfusion',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/56_Basement Covenant_back.png" alt="/sets/GSR-files/img/56_Basement Covenant_front.png" id="56_Basement Covenant" data-flag="@XD" onclick="openSidebar('56_Basement Covenant',false)"><button class="flip-btn" onclick="imgFlip('56_Basement Covenant')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/98_Dregs of Enlightenment.png" id="98_Dregs of Enlightenment" data-flag="@X" onclick="openSidebar('98_Dregs of Enlightenment',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/138_Flair Bartender.png" id="138_Flair Bartender" data-flag="@X" onclick="openSidebar('138_Flair Bartender',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/173_Churning Ichoi-Still.png" id="173_Churning Ichoi-Still" data-flag="@X" onclick="openSidebar('173_Churning Ichoi-Still',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/28_Import Inspectors.png" id="28_Import Inspectors" data-flag="@X" onclick="openSidebar('28_Import Inspectors',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/59_Carmine's Intervention.png" id="59_Carmines Intervention" data-flag="@X" onclick="openSidebar('59_Carmines Intervention',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/102_Girder Rat_back.png" alt="/sets/GSR-files/img/102_Girder Rat_front.png" id="102_Girder Rat" data-flag="@XD" onclick="openSidebar('102_Girder Rat',false)"><button class="flip-btn" onclick="imgFlip('102_Girder Rat')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/140_Glyphic Unearthing.png" id="140_Glyphic Unearthing" data-flag="@X" onclick="openSidebar('140_Glyphic Unearthing',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/177_Holy-Vein Conservator_back.png" alt="/sets/GSR-files/img/177_Holy-Vein Conservator_front.png" id="177_Holy-Vein Conservator" data-flag="@XD" onclick="openSidebar('177_Holy-Vein Conservator',false)"><button class="flip-btn" onclick="imgFlip('177_Holy-Vein Conservator')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/29_Into the Breach.png" id="29_Into the Breach" data-flag="@X" onclick="openSidebar('29_Into the Breach',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/60_Chemander Messenger.png" id="60_Chemander Messenger" data-flag="@X" onclick="openSidebar('60_Chemander Messenger',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/105_In Awe and in Horror.png" id="105_In Awe and in Horror" data-flag="@X" onclick="openSidebar('105_In Awe and in Horror',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/141_Herald of the First Form.png" id="141_Herald of the First Form" data-flag="@X" onclick="openSidebar('141_Herald of the First Form',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/180_Limbic Helm_back.png" alt="/sets/GSR-files/img/180_Limbic Helm_front.png" id="180_Limbic Helm" data-flag="@XD" onclick="openSidebar('180_Limbic Helm',false)"><button class="flip-btn" onclick="imgFlip('180_Limbic Helm')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/30_Journey's End.png" id="30_Journeys End" data-flag="@X" onclick="openSidebar('30_Journeys End',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/65_Disheveled Professor_back.png" alt="/sets/GSR-files/img/65_Disheveled Professor_front.png" id="65_Disheveled Professor" data-flag="@XD" onclick="openSidebar('65_Disheveled Professor',false)"><button class="flip-btn" onclick="imgFlip('65_Disheveled Professor')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/106_Kolyost Traditionalist_back.png" alt="/sets/GSR-files/img/106_Kolyost Traditionalist_front.png" id="106_Kolyost Traditionalist" data-flag="@XD" onclick="openSidebar('106_Kolyost Traditionalist',false)"><button class="flip-btn" onclick="imgFlip('106_Kolyost Traditionalist')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/142_Hunt-Hewn Retrievers.png" id="142_Hunt-Hewn Retrievers" data-flag="@X" onclick="openSidebar('142_Hunt-Hewn Retrievers',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/181_Marathrine Consummator.png" id="181_Marathrine Consummator" data-flag="@X" onclick="openSidebar('181_Marathrine Consummator',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/35_Merchant's Due.png" id="35_Merchants Due" data-flag="@X" onclick="openSidebar('35_Merchants Due',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/66_Eccentric Patriarch_back.png" alt="/sets/GSR-files/img/66_Eccentric Patriarch_front.png" id="66_Eccentric Patriarch" data-flag="@XD" onclick="openSidebar('66_Eccentric Patriarch',false)"><button class="flip-btn" onclick="imgFlip('66_Eccentric Patriarch')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/113_Obsessive Chemander.png" id="113_Obsessive Chemander" data-flag="@X" onclick="openSidebar('113_Obsessive Chemander',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/143_Ichorflesh Pack.png" id="143_Ichorflesh Pack" data-flag="@X" onclick="openSidebar('143_Ichorflesh Pack',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/188_Presence of the Unrealized.png" id="188_Presence of the Unrealized" data-flag="@X" onclick="openSidebar('188_Presence of the Unrealized',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/36_Newborn Albichon.png" id="36_Newborn Albichon" data-flag="@X" onclick="openSidebar('36_Newborn Albichon',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/68_Enlightened Operative.png" id="68_Enlightened Operative" data-flag="@X" onclick="openSidebar('68_Enlightened Operative',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/117_Remnant of Sepulchers.png" id="117_Remnant of Sepulchers" data-flag="@X" onclick="openSidebar('117_Remnant of Sepulchers',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/144_Inconceivable Vision.png" id="144_Inconceivable Vision" data-flag="@X" onclick="openSidebar('144_Inconceivable Vision',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/192_Remnant of Summits.png" id="192_Remnant of Summits" data-flag="@X" onclick="openSidebar('192_Remnant of Summits',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/42_Promised Syzygy.png" id="42_Promised Syzygy" data-flag="@X" onclick="openSidebar('42_Promised Syzygy',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/82_Notorious Hack.png" id="82_Notorious Hack" data-flag="@X" onclick="openSidebar('82_Notorious Hack',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/119_Revelation in Ash.png" id="119_Revelation in Ash" data-flag="@X" onclick="openSidebar('119_Revelation in Ash',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/148_New Cyrane Contact_back.png" alt="/sets/GSR-files/img/148_New Cyrane Contact_front.png" id="148_New Cyrane Contact" data-flag="@XD" onclick="openSidebar('148_New Cyrane Contact',false)"><button class="flip-btn" onclick="imgFlip('148_New Cyrane Contact')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/194_Steppe Shepherd_back.png" alt="/sets/GSR-files/img/194_Steppe Shepherd_front.png" id="194_Steppe Shepherd" data-flag="@XD" onclick="openSidebar('194_Steppe Shepherd',false)"><button class="flip-btn" onclick="imgFlip('194_Steppe Shepherd')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/46_Solomonarya Pastor_back.png" alt="/sets/GSR-files/img/46_Solomonarya Pastor_front.png" id="46_Solomonarya Pastor" data-flag="@XD" onclick="openSidebar('46_Solomonarya Pastor',false)"><button class="flip-btn" onclick="imgFlip('46_Solomonarya Pastor')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/83_Nucleotithe.png" id="83_Nucleotithe" data-flag="@X" onclick="openSidebar('83_Nucleotithe',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/121_Scorn-Brand Thrall.png" id="121_Scorn-Brand Thrall" data-flag="@X" onclick="openSidebar('121_Scorn-Brand Thrall',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/152_Panichon's Promise.png" id="152_Panichons Promise" data-flag="@X" onclick="openSidebar('152_Panichons Promise',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/197_To Grow to One's Ideal.png" id="197_To Grow to Ones Ideal" data-flag="@X" onclick="openSidebar('197_To Grow to Ones Ideal',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/48_Solomonarya Ritebreeder.png" id="48_Solomonarya Ritebreeder" data-flag="@X" onclick="openSidebar('48_Solomonarya Ritebreeder',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/85_Remnant of Icesheets.png" id="85_Remnant of Icesheets" data-flag="@X" onclick="openSidebar('85_Remnant of Icesheets',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/122_Searing Sacrament.png" id="122_Searing Sacrament" data-flag="@X" onclick="openSidebar('122_Searing Sacrament',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/154_Prised Embryo_back.png" alt="/sets/GSR-files/img/154_Prised Embryo_front.png" id="154_Prised Embryo" data-flag="@XD" onclick="openSidebar('154_Prised Embryo',false)"><button class="flip-btn" onclick="imgFlip('154_Prised Embryo')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/200_Unearthly Radiance.png" id="200_Unearthly Radiance" data-flag="@X" onclick="openSidebar('200_Unearthly Radiance',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/50_To Lift One's Station.png" id="50_To Lift Ones Station" data-flag="@X" onclick="openSidebar('50_To Lift Ones Station',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/86_Rewelded Bathycapsule.png" id="86_Rewelded Bathycapsule" data-flag="@X" onclick="openSidebar('86_Rewelded Bathycapsule',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/124_Sublimation of Self.png" id="124_Sublimation of Self" data-flag="@X" onclick="openSidebar('124_Sublimation of Self',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/160_Remnant of Tremors.png" id="160_Remnant of Tremors" data-flag="@X" onclick="openSidebar('160_Remnant of Tremors',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/201_Vaunted Descent_back.png" alt="/sets/GSR-files/img/201_Vaunted Descent_front.png" id="201_Vaunted Descent" data-flag="@XD" onclick="openSidebar('201_Vaunted Descent',false)"><button class="flip-btn" onclick="imgFlip('201_Vaunted Descent')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/52_Unorthodox Convert_back.png" alt="/sets/GSR-files/img/52_Unorthodox Convert_front.png" id="52_Unorthodox Convert" data-flag="@XD" onclick="openSidebar('52_Unorthodox Convert',false)"><button class="flip-btn" onclick="imgFlip('52_Unorthodox Convert')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/91_To Nurture the Inner Eye.png" id="91_To Nurture the Inner Eye" data-flag="@X" onclick="openSidebar('91_To Nurture the Inner Eye',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/127_To Scour One's Morals.png" id="127_To Scour Ones Morals" data-flag="@X" onclick="openSidebar('127_To Scour Ones Morals',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/163_To Commune the Broken.png" id="163_To Commune the Broken" data-flag="@X" onclick="openSidebar('163_To Commune the Broken',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/202_Vitriolic Subversive.png" id="202_Vitriolic Subversive" data-flag="@X" onclick="openSidebar('202_Vitriolic Subversive',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/16_Alkaline Reliquary.png" id="16_Alkaline Reliquary" data-flag="@X" onclick="openSidebar('16_Alkaline Reliquary',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/57_Best Left Buried.png" id="57_Best Left Buried" data-flag="@X" onclick="openSidebar('57_Best Left Buried',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/94_Chemander Officiant.png" id="94_Chemander Officiant" data-flag="@X" onclick="openSidebar('94_Chemander Officiant',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/130_Apothecary's Nest.png" id="130_Apothecarys Nest" data-flag="@X" onclick="openSidebar('130_Apothecarys Nest',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/168_Acidic Reliquary.png" id="168_Acidic Reliquary" data-flag="@X" onclick="openSidebar('168_Acidic Reliquary',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/18_Dose of Albichoi.png" id="18_Dose of Albichoi" data-flag="@X" onclick="openSidebar('18_Dose of Albichoi',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/58_Bishop of Elder Blood.png" id="58_Bishop of Elder Blood" data-flag="@X" onclick="openSidebar('58_Bishop of Elder Blood',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/96_Defected Agent.png" id="96_Defected Agent" data-flag="@X" onclick="openSidebar('96_Defected Agent',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/132_Blood-Bound Howl.png" id="132_Blood-Bound Howl" data-flag="@X" onclick="openSidebar('132_Blood-Bound Howl',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/170_Alchemist's Familiar.png" id="170_Alchemists Familiar" data-flag="@X" onclick="openSidebar('170_Alchemists Familiar',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/23_Exodite Zealot.png" id="23_Exodite Zealot" data-flag="@X" onclick="openSidebar('23_Exodite Zealot',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/61_Chemander Pilgrim.png" id="61_Chemander Pilgrim" data-flag="@X" onclick="openSidebar('61_Chemander Pilgrim',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/97_Dose of Phegorichoi.png" id="97_Dose of Phegorichoi" data-flag="@X" onclick="openSidebar('97_Dose of Phegorichoi',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/133_Curio Reappraiser_back.png" alt="/sets/GSR-files/img/133_Curio Reappraiser_front.png" id="133_Curio Reappraiser" data-flag="@XD" onclick="openSidebar('133_Curio Reappraiser',false)"><button class="flip-btn" onclick="imgFlip('133_Curio Reappraiser')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/171_Battle at the Institute.png" id="171_Battle at the Institute" data-flag="@X" onclick="openSidebar('171_Battle at the Institute',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/24_Face Hell.png" id="24_Face Hell" data-flag="@X" onclick="openSidebar('24_Face Hell',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/63_Covetous Scion.png" id="63_Covetous Scion" data-flag="@X" onclick="openSidebar('63_Covetous Scion',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/100_Exodite Doomsayer.png" id="100_Exodite Doomsayer" data-flag="@X" onclick="openSidebar('100_Exodite Doomsayer',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/134_Demand Answers REART.png" id="134_Demand Answers REART" data-flag="@X" onclick="openSidebar('134_Demand Answers REART',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/172_Chemander Proselyte.png" id="172_Chemander Proselyte" data-flag="@X" onclick="openSidebar('172_Chemander Proselyte',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/26_First-Form Visionary.png" id="26_First-Form Visionary" data-flag="@X" onclick="openSidebar('26_First-Form Visionary',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/67_End of Innocence_back.png" alt="/sets/GSR-files/img/67_End of Innocence_front.png" id="67_End of Innocence" data-flag="@XD" onclick="openSidebar('67_End of Innocence',false)"><button class="flip-btn" onclick="imgFlip('67_End of Innocence')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/103_Hexhauler's Carriage.png" id="103_Hexhaulers Carriage" data-flag="@X" onclick="openSidebar('103_Hexhaulers Carriage',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/136_Empath's Entreaty.png" id="136_Empaths Entreaty" data-flag="@X" onclick="openSidebar('136_Empaths Entreaty',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/174_Claim Audience.png" id="174_Claim Audience" data-flag="@X" onclick="openSidebar('174_Claim Audience',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/27_Highborn Occultist.png" id="27_Highborn Occultist" data-flag="@X" onclick="openSidebar('27_Highborn Occultist',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/69_Enraptured Ecologist.png" id="69_Enraptured Ecologist" data-flag="@X" onclick="openSidebar('69_Enraptured Ecologist',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/107_Masochistic Addiction.png" id="107_Masochistic Addiction" data-flag="@X" onclick="openSidebar('107_Masochistic Addiction',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/137_Expunge Evidence.png" id="137_Expunge Evidence" data-flag="@X" onclick="openSidebar('137_Expunge Evidence',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/175_Deep-Vein Latchjaw.png" id="175_Deep-Vein Latchjaw" data-flag="@X" onclick="openSidebar('175_Deep-Vein Latchjaw',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/31_Kolyost Pathlighter.png" id="31_Kolyost Pathlighter" data-flag="@X" onclick="openSidebar('31_Kolyost Pathlighter',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/70_Essence Capture.png" id="70_Essence Capture" data-flag="@X" onclick="openSidebar('70_Essence Capture',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/108_Mine-Site Surveyor_back.png" alt="/sets/GSR-files/img/108_Mine-Site Surveyor_front.png" id="108_Mine-Site Surveyor" data-flag="@XD" onclick="openSidebar('108_Mine-Site Surveyor',false)"><button class="flip-btn" onclick="imgFlip('108_Mine-Site Surveyor')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/139_Freeway Oilmaw.png" id="139_Freeway Oilmaw" data-flag="@X" onclick="openSidebar('139_Freeway Oilmaw',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/176_Estate Entangler_back.png" alt="/sets/GSR-files/img/176_Estate Entangler_front.png" id="176_Estate Entangler" data-flag="@XD" onclick="openSidebar('176_Estate Entangler',false)"><button class="flip-btn" onclick="imgFlip('176_Estate Entangler')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/33_Luminary Euthanist.png" id="33_Luminary Euthanist" data-flag="@X" onclick="openSidebar('33_Luminary Euthanist',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/72_Glacial Obelisk.png" id="72_Glacial Obelisk" data-flag="@X" onclick="openSidebar('72_Glacial Obelisk',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/109_Misfortune Broker.png" id="109_Misfortune Broker" data-flag="@X" onclick="openSidebar('109_Misfortune Broker',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/145_Insatiate Locus.png" id="145_Insatiate Locus" data-flag="@X" onclick="openSidebar('145_Insatiate Locus',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/178_Immaculate Quarry.png" id="178_Immaculate Quarry" data-flag="@X" onclick="openSidebar('178_Immaculate Quarry',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/37_North-Front Brigadier.png" id="37_North-Front Brigadier" data-flag="@X" onclick="openSidebar('37_North-Front Brigadier',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/75_Lidechian Ground Patrol.png" id="75_Lidechian Ground Patrol" data-flag="@X" onclick="openSidebar('75_Lidechian Ground Patrol',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/110_Morphing Dove.png" id="110_Morphing Dove" data-flag="@X" onclick="openSidebar('110_Morphing Dove',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/149_No Mortal's Land.png" id="149_No Mortals Land" data-flag="@X" onclick="openSidebar('149_No Mortals Land',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/179_Keen Secretary_back.png" alt="/sets/GSR-files/img/179_Keen Secretary_front.png" id="179_Keen Secretary" data-flag="@XD" onclick="openSidebar('179_Keen Secretary',false)"><button class="flip-btn" onclick="imgFlip('179_Keen Secretary')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/39_Overeager Chirurgeon.png" id="39_Overeager Chirurgeon" data-flag="@X" onclick="openSidebar('39_Overeager Chirurgeon',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/76_Luminary Defense Corps.png" id="76_Luminary Defense Corps" data-flag="@X" onclick="openSidebar('76_Luminary Defense Corps',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/111_Mortal Insignificance.png" id="111_Mortal Insignificance" data-flag="@X" onclick="openSidebar('111_Mortal Insignificance',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/150_Numb Indulgence_back.png" alt="/sets/GSR-files/img/150_Numb Indulgence_front.png" id="150_Numb Indulgence" data-flag="@XD" onclick="openSidebar('150_Numb Indulgence',false)"><button class="flip-btn" onclick="imgFlip('150_Numb Indulgence')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/182_Monitor Molder.png" id="182_Monitor Molder" data-flag="@X" onclick="openSidebar('182_Monitor Molder',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/40_Overseas Contact_back.png" alt="/sets/GSR-files/img/40_Overseas Contact_front.png" id="40_Overseas Contact" data-flag="@XD" onclick="openSidebar('40_Overseas Contact',false)"><button class="flip-btn" onclick="imgFlip('40_Overseas Contact')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/78_Marathrine Skywatch.png" id="78_Marathrine Skywatch" data-flag="@X" onclick="openSidebar('78_Marathrine Skywatch',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/112_New Cyrane Initiate.png" id="112_New Cyrane Initiate" data-flag="@X" onclick="openSidebar('112_New Cyrane Initiate',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/151_Pancarnate Burst.png" id="151_Pancarnate Burst" data-flag="@X" onclick="openSidebar('151_Pancarnate Burst',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/185_Passionate Prentice_back.png" alt="/sets/GSR-files/img/185_Passionate Prentice_front.png" id="185_Passionate Prentice" data-flag="@XD" onclick="openSidebar('185_Passionate Prentice',false)"><button class="flip-btn" onclick="imgFlip('185_Passionate Prentice')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/41_Plainclothes Agent_back.png" alt="/sets/GSR-files/img/41_Plainclothes Agent_front.png" id="41_Plainclothes Agent" data-flag="@XD" onclick="openSidebar('41_Plainclothes Agent',false)"><button class="flip-btn" onclick="imgFlip('41_Plainclothes Agent')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/80_Narcoleptic Visions.png" id="80_Narcoleptic Visions" data-flag="@X" onclick="openSidebar('80_Narcoleptic Visions',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/115_Pollute.png" id="115_Pollute" data-flag="@X" onclick="openSidebar('115_Pollute',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/155_Public Perception_back.png" alt="/sets/GSR-files/img/155_Public Perception_front.png" id="155_Public Perception" data-flag="@XD" onclick="openSidebar('155_Public Perception',false)"><button class="flip-btn" onclick="imgFlip('155_Public Perception')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/189_Pristine Angiomorph.png" id="189_Pristine Angiomorph" data-flag="@X" onclick="openSidebar('189_Pristine Angiomorph',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/43_Remnant of Blizzards.png" id="43_Remnant of Blizzards" data-flag="@X" onclick="openSidebar('43_Remnant of Blizzards',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/81_Neuter Reliquary.png" id="81_Neuter Reliquary" data-flag="@X" onclick="openSidebar('81_Neuter Reliquary',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/116_Remnant of Middens.png" id="116_Remnant of Middens" data-flag="@X" onclick="openSidebar('116_Remnant of Middens',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/158_Remnant of Foundations.png" id="158_Remnant of Foundations" data-flag="@X" onclick="openSidebar('158_Remnant of Foundations',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/190_Probiotic Consecration.png" id="190_Probiotic Consecration" data-flag="@X" onclick="openSidebar('190_Probiotic Consecration',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/47_Solomonarya Revelator.png" id="47_Solomonarya Revelator" data-flag="@X" onclick="openSidebar('47_Solomonarya Revelator',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/87_Secure.png" id="87_Secure" data-flag="@X" onclick="openSidebar('87_Secure',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/120_Scan the Aftermath.png" id="120_Scan the Aftermath" data-flag="@X" onclick="openSidebar('120_Scan the Aftermath',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/161_Sessile Subject_back.png" alt="/sets/GSR-files/img/161_Sessile Subject_front.png" id="161_Sessile Subject" data-flag="@XD" onclick="openSidebar('161_Sessile Subject',false)"><button class="flip-btn" onclick="imgFlip('161_Sessile Subject')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/193_Shades of Disharmony_back.png" alt="/sets/GSR-files/img/193_Shades of Disharmony_front.png" id="193_Shades of Disharmony" data-flag="@XD" onclick="openSidebar('193_Shades of Disharmony',false)"><button class="flip-btn" onclick="imgFlip('193_Shades of Disharmony')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/49_Swift Exultation.png" id="49_Swift Exultation" data-flag="@X" onclick="openSidebar('49_Swift Exultation',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/88_Self-Taught Evokist_back.png" alt="/sets/GSR-files/img/88_Self-Taught Evokist_front.png" id="88_Self-Taught Evokist" data-flag="@XD" onclick="openSidebar('88_Self-Taught Evokist',false)"><button class="flip-btn" onclick="imgFlip('88_Self-Taught Evokist')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/125_Theatric Ritualist_back.png" alt="/sets/GSR-files/img/125_Theatric Ritualist_front.png" id="125_Theatric Ritualist" data-flag="@XD" onclick="openSidebar('125_Theatric Ritualist',false)"><button class="flip-btn" onclick="imgFlip('125_Theatric Ritualist')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/166_Unlicensed Transfusionist.png" id="166_Unlicensed Transfusionist" data-flag="@X" onclick="openSidebar('166_Unlicensed Transfusionist',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/195_Synthesis Station.png" id="195_Synthesis Station" data-flag="@X" onclick="openSidebar('195_Synthesis Station',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/53_Wander in Dream.png" id="53_Wander in Dream" data-flag="@X" onclick="openSidebar('53_Wander in Dream',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/89_Solemn Phegorichon.png" id="89_Solemn Phegorichon" data-flag="@X" onclick="openSidebar('89_Solemn Phegorichon',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/129_Underground Idol_back.png" alt="/sets/GSR-files/img/129_Underground Idol_front.png" id="129_Underground Idol" data-flag="@XD" onclick="openSidebar('129_Underground Idol',false)"><button class="flip-btn" onclick="imgFlip('129_Underground Idol')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/167_Unsettling Cantor.png" id="167_Unsettling Cantor" data-flag="@X" onclick="openSidebar('167_Unsettling Cantor',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/203_Waif of Irdam Wood.png" id="203_Waif of Irdam Wood" data-flag="@X" onclick="openSidebar('203_Waif of Irdam Wood',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/218_High Doctor Augusta Amerel_back.png" alt="/sets/GSR-files/img/218_High Doctor Augusta Amerel_front.png" id="218_High Doctor Augusta Amerel" data-flag="@XD" onclick="openSidebar('218_High Doctor Augusta Amerel',false)"><button class="flip-btn" onclick="imgFlip('218_High Doctor Augusta Amerel')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/230_Postmodern Methods_back.png" alt="/sets/GSR-files/img/230_Postmodern Methods_front.png" id="230_Postmodern Methods" data-flag="@XD" onclick="openSidebar('230_Postmodern Methods',false)"><button class="flip-btn" onclick="imgFlip('230_Postmodern Methods')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/240_Wrench Open_back.png" alt="/sets/GSR-files/img/240_Wrench Open_front.png" id="240_Wrench Open" data-flag="@XD" onclick="openSidebar('240_Wrench Open',false)"><button class="flip-btn" onclick="imgFlip('240_Wrench Open')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/234_Sanity's Edge_back.png" alt="/sets/GSR-files/img/234_Sanity's Edge_front.png" id="234_Sanitys Edge" data-flag="@XD" onclick="openSidebar('234_Sanitys Edge',false)"><button class="flip-btn" onclick="imgFlip('234_Sanitys Edge')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/228_Philosopher's Sanctum_back.png" alt="/sets/GSR-files/img/228_Philosopher's Sanctum_front.png" id="228_Philosophers Sanctum" data-flag="@XD" onclick="openSidebar('228_Philosophers Sanctum',false)"><button class="flip-btn" onclick="imgFlip('228_Philosophers Sanctum')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/207_Blind Photorealist_back.png" alt="/sets/GSR-files/img/207_Blind Photorealist_front.png" id="207_Blind Photorealist" data-flag="@XD" onclick="openSidebar('207_Blind Photorealist',false)"><button class="flip-btn" onclick="imgFlip('207_Blind Photorealist')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/210_Curse-Chained Neonate.png" id="210_Curse-Chained Neonate" data-flag="@X" onclick="openSidebar('210_Curse-Chained Neonate',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/219_Induced Premonition.png" id="219_Induced Premonition" data-flag="@X" onclick="openSidebar('219_Induced Premonition',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/224_Maiden of the Old Hunt.png" id="224_Maiden of the Old Hunt" data-flag="@X" onclick="openSidebar('224_Maiden of the Old Hunt',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/226_Mundane Sanctuary.png" id="226_Mundane Sanctuary" data-flag="@X" onclick="openSidebar('226_Mundane Sanctuary',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/223_Luminary Laboratory.png" id="223_Luminary Laboratory" data-flag="@X" onclick="openSidebar('223_Luminary Laboratory',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/212_Disassociate.png" id="212_Disassociate" data-flag="@X" onclick="openSidebar('212_Disassociate',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/222_Lucrezion Heiress.png" id="222_Lucrezion Heiress" data-flag="@X" onclick="openSidebar('222_Lucrezion Heiress',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/238_Tracing the Gate.png" id="238_Tracing the Gate" data-flag="@X" onclick="openSidebar('238_Tracing the Gate',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/229_Pop-Sci Spokesmodel.png" id="229_Pop-Sci Spokesmodel" data-flag="@X" onclick="openSidebar('229_Pop-Sci Spokesmodel',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/239_Visiting Emeritus.png" id="239_Visiting Emeritus" data-flag="@X" onclick="openSidebar('239_Visiting Emeritus',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/236_Shattered Poise_back.png" alt="/sets/GSR-files/img/236_Shattered Poise_front.png" id="236_Shattered Poise" data-flag="@XD" onclick="openSidebar('236_Shattered Poise',false)"><button class="flip-btn" onclick="imgFlip('236_Shattered Poise')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/216_Enlightened Brigadier_back.png" alt="/sets/GSR-files/img/216_Enlightened Brigadier_front.png" id="216_Enlightened Brigadier" data-flag="@XD" onclick="openSidebar('216_Enlightened Brigadier',false)"><button class="flip-btn" onclick="imgFlip('216_Enlightened Brigadier')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/211_Dashiell Wicks, Hellraiser.png" id="211_Dashiell Wicks, Hellraiser" data-flag="@X" onclick="openSidebar('211_Dashiell Wicks, Hellraiser',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/225_Meritocratic Tenets_back.png" alt="/sets/GSR-files/img/225_Meritocratic Tenets_front.png" id="225_Meritocratic Tenets" data-flag="@XD" onclick="openSidebar('225_Meritocratic Tenets',false)"><button class="flip-btn" onclick="imgFlip('225_Meritocratic Tenets')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/233_Rite of Between_back.png" alt="/sets/GSR-files/img/233_Rite of Between_front.png" id="233_Rite of Between" data-flag="@XD" onclick="openSidebar('233_Rite of Between',false)"><button class="flip-btn" onclick="imgFlip('233_Rite of Between')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/213_Doorkeeper of Tenerka.png" id="213_Doorkeeper of Tenerka" data-flag="@X" onclick="openSidebar('213_Doorkeeper of Tenerka',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/206_Archaeopticon.png" id="206_Archaeopticon" data-flag="@X" onclick="openSidebar('206_Archaeopticon',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/217_Guidestone Blade_back.png" alt="/sets/GSR-files/img/217_Guidestone Blade_front.png" id="217_Guidestone Blade" data-flag="@XD" onclick="openSidebar('217_Guidestone Blade',false)"><button class="flip-btn" onclick="imgFlip('217_Guidestone Blade')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/209_Cleanup Officer.png" id="209_Cleanup Officer" data-flag="@X" onclick="openSidebar('209_Cleanup Officer',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/220_Interminable Ways.png" id="220_Interminable Ways" data-flag="@X" onclick="openSidebar('220_Interminable Ways',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/232_Reliquary Repossession.png" id="232_Reliquary Repossession" data-flag="@X" onclick="openSidebar('232_Reliquary Repossession',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/235_Seed of the Ideal.png" id="235_Seed of the Ideal" data-flag="@X" onclick="openSidebar('235_Seed of the Ideal',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/231_Reclamation Chemander.png" id="231_Reclamation Chemander" data-flag="@X" onclick="openSidebar('231_Reclamation Chemander',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/227_Parncarnate Embrace.png" id="227_Parncarnate Embrace" data-flag="@X" onclick="openSidebar('227_Parncarnate Embrace',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/221_Koymyin Interlocutor.png" id="221_Koymyin Interlocutor" data-flag="@X" onclick="openSidebar('221_Koymyin Interlocutor',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/237_Signals in the Murk.png" id="237_Signals in the Murk" data-flag="@X" onclick="openSidebar('237_Signals in the Murk',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/208_Chankata, Chrysopoeian.png" id="208_Chankata, Chrysopoeian" data-flag="@X" onclick="openSidebar('208_Chankata, Chrysopoeian',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/214_Dr. Carmine Yevinan.png" id="214_Dr. Carmine Yevinan" data-flag="@X" onclick="openSidebar('214_Dr. Carmine Yevinan',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/215_Dr. Isimir Barlowe_back.png" alt="/sets/GSR-files/img/215_Dr. Isimir Barlowe_front.png" id="215_Dr. Isimir Barlowe" data-flag="@XD" onclick="openSidebar('215_Dr. Isimir Barlowe',false)"><button class="flip-btn" onclick="imgFlip('215_Dr. Isimir Barlowe')"></button></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/1_As It Is, Forever.png" id="1_As It Is, Forever" data-flag="@X" onclick="openSidebar('1_As It Is, Forever',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/3_A Chorus Before Our Thrones.png" id="3_A Chorus Before Our Thrones" data-flag="@X" onclick="openSidebar('3_A Chorus Before Our Thrones',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/2_Blessed Eternity Yet Echoes.png" id="2_Blessed Eternity Yet Echoes" data-flag="@X" onclick="openSidebar('2_Blessed Eternity Yet Echoes',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/14_Wrath of the Shrouded King.png" id="14_Wrath of the Shrouded King" data-flag="@X" onclick="openSidebar('14_Wrath of the Shrouded King',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/243_Equilibrine Font.png" id="243_Equilibrine Font" data-flag="@X" onclick="openSidebar('243_Equilibrine Font',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/249_Shackles of Kthyevai.png" id="249_Shackles of Kthyevai" data-flag="@X" onclick="openSidebar('249_Shackles of Kthyevai',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/6_A Light Vast and Terrible.png" id="6_A Light Vast and Terrible" data-flag="@X" onclick="openSidebar('6_A Light Vast and Terrible',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/7_Lose Yourself in Our Arms.png" id="7_Lose Yourself in Our Arms" data-flag="@X" onclick="openSidebar('7_Lose Yourself in Our Arms',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/10_Normalcy Is Infinity's Policy.png" id="10_Normalcy Is Infinitys Policy" data-flag="@X" onclick="openSidebar('10_Normalcy Is Infinitys Policy',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/11_Ours Is the Way Between.png" id="11_Ours Is the Way Between" data-flag="@X" onclick="openSidebar('11_Ours Is the Way Between',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/12_Pulse of the Tower's Heart.png" id="12_Pulse of the Towers Heart" data-flag="@X" onclick="openSidebar('12_Pulse of the Towers Heart',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/241_Baywatch Patrol.png" id="241_Baywatch Patrol" data-flag="@X" onclick="openSidebar('241_Baywatch Patrol',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/244_Hemignosis Prototype.png" id="244_Hemignosis Prototype" data-flag="@X" onclick="openSidebar('244_Hemignosis Prototype',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/245_Monolithic Decrees.png" id="245_Monolithic Decrees" data-flag="@X" onclick="openSidebar('245_Monolithic Decrees',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/247_Perivitae Apparatus.png" id="247_Perivitae Apparatus" data-flag="@X" onclick="openSidebar('247_Perivitae Apparatus',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/4_Gaze of a False Sun.png" id="4_Gaze of a False Sun" data-flag="@X" onclick="openSidebar('4_Gaze of a False Sun',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/5_Guided by Higher Hands.png" id="5_Guided by Higher Hands" data-flag="@X" onclick="openSidebar('5_Guided by Higher Hands',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/8_A Near-Unseen Splendor.png" id="8_A Near-Unseen Splendor" data-flag="@X" onclick="openSidebar('8_A Near-Unseen Splendor',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/9_Never Forget Your Loyalties.png" id="9_Never Forget Your Loyalties" data-flag="@X" onclick="openSidebar('9_Never Forget Your Loyalties',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/13_Step Forth Into Forever.png" id="13_Step Forth Into Forever" data-flag="@X" onclick="openSidebar('13_Step Forth Into Forever',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/15_You Are Always Welcome.png" id="15_You Are Always Welcome" data-flag="@X" onclick="openSidebar('15_You Are Always Welcome',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/242_Crucible of Wit_back.png" alt="/sets/GSR-files/img/242_Crucible of Wit_front.png" id="242_Crucible of Wit" data-flag="@XD" onclick="openSidebar('242_Crucible of Wit',false)"><button class="flip-btn" onclick="imgFlip('242_Crucible of Wit')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/246_New Cyrane Courier.png" id="246_New Cyrane Courier" data-flag="@X" onclick="openSidebar('246_New Cyrane Courier',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/248_Private Collection.png" id="248_Private Collection" data-flag="@X" onclick="openSidebar('248_Private Collection',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/250_Sigiled Gloves.png" id="250_Sigiled Gloves" data-flag="@X" onclick="openSidebar('250_Sigiled Gloves',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/256_Finger-Torn Chapel_back.png" alt="/sets/GSR-files/img/256_Finger-Torn Chapel_front.png" id="256_Finger-Torn Chapel" data-flag="@XD" onclick="openSidebar('256_Finger-Torn Chapel',false)"><button class="flip-btn" onclick="imgFlip('256_Finger-Torn Chapel')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/255_Eye-Torn Orrery_back.png" alt="/sets/GSR-files/img/255_Eye-Torn Orrery_front.png" id="255_Eye-Torn Orrery" data-flag="@XD" onclick="openSidebar('255_Eye-Torn Orrery',false)"><button class="flip-btn" onclick="imgFlip('255_Eye-Torn Orrery')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/258_Mouth-Torn Sepulcher_back.png" alt="/sets/GSR-files/img/258_Mouth-Torn Sepulcher_front.png" id="258_Mouth-Torn Sepulcher" data-flag="@XD" onclick="openSidebar('258_Mouth-Torn Sepulcher',false)"><button class="flip-btn" onclick="imgFlip('258_Mouth-Torn Sepulcher')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/252_Chest-Torn Spire_back.png" alt="/sets/GSR-files/img/252_Chest-Torn Spire_front.png" id="252_Chest-Torn Spire" data-flag="@XD" onclick="openSidebar('252_Chest-Torn Spire',false)"><button class="flip-btn" onclick="imgFlip('252_Chest-Torn Spire')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/260_Stomach-Torn Monuments_back.png" alt="/sets/GSR-files/img/260_Stomach-Torn Monuments_front.png" id="260_Stomach-Torn Monuments" data-flag="@XD" onclick="openSidebar('260_Stomach-Torn Monuments',false)"><button class="flip-btn" onclick="imgFlip('260_Stomach-Torn Monuments')"></button></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/259_Sepulcher-City of Imago_back.png" alt="/sets/GSR-files/img/259_Sepulcher-City of Imago_front.png" id="259_Sepulcher-City of Imago" data-flag="@XD" onclick="openSidebar('259_Sepulcher-City of Imago',false)"><button class="flip-btn" onclick="imgFlip('259_Sepulcher-City of Imago')"></button></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/254_Enlightenment Institute of NC_back.png" alt="/sets/GSR-files/img/254_Enlightenment Institute of NC_front.png" id="254_Enlightenment Institute of NC" data-flag="@XD" onclick="openSidebar('254_Enlightenment Institute of NC',false)"><button class="flip-btn" onclick="imgFlip('254_Enlightenment Institute of NC')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/261_Tenerka, the Severed Heart.png" id="261_Tenerka, the Severed Heart" data-flag="@X" onclick="openSidebar('261_Tenerka, the Severed Heart',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/257_Glimmering Manse_back.png" alt="/sets/GSR-files/img/257_Glimmering Manse_front.png" id="257_Glimmering Manse" data-flag="@XD" onclick="openSidebar('257_Glimmering Manse',false)"><button class="flip-btn" onclick="imgFlip('257_Glimmering Manse')"></button></div>
+			<div class="container"><img alt="/sets/GSR-files/img/262_Unstable Threshold.png" id="262_Unstable Threshold" data-flag="@X" onclick="openSidebar('262_Unstable Threshold',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/251_Backwoods Hideout.png" id="251_Backwoods Hideout" data-flag="@X" onclick="openSidebar('251_Backwoods Hideout',false)"></div>
+			<div class="container"><img data-alt_src="/sets/GSR-files/img/253_Dregs of Empire_back.png" alt="/sets/GSR-files/img/253_Dregs of Empire_front.png" id="253_Dregs of Empire" data-flag="@XD" onclick="openSidebar('253_Dregs of Empire',false)"><button class="flip-btn" onclick="imgFlip('253_Dregs of Empire')"></button></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/1t_Avatar.png" id="1t_Avatar" data-flag="@X" onclick="openSidebar('1t_Avatar',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/2t_Copy.png" id="2t_Copy" data-flag="@X" onclick="openSidebar('2t_Copy',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/3t_Homunculus.png" id="3t_Homunculus" data-flag="@X" onclick="openSidebar('3t_Homunculus',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/14t_Reagent.png" id="14t_Reagent" data-flag="@X" onclick="openSidebar('14t_Reagent',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/4t_Homunculus.png" id="4t_Homunculus" data-flag="@X" onclick="openSidebar('4t_Homunculus',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/5t_Insect.png" id="5t_Insect" data-flag="@X" onclick="openSidebar('5t_Insect',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/6t_Merchant.png" id="6t_Merchant" data-flag="@X" onclick="openSidebar('6t_Merchant',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/7t_Vampire.png" id="7t_Vampire" data-flag="@X" onclick="openSidebar('7t_Vampire',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/8t_Noble.png" id="8t_Noble" data-flag="@X" onclick="openSidebar('8t_Noble',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/9t_Zombie.png" id="9t_Zombie" data-flag="@X" onclick="openSidebar('9t_Zombie',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/10t_Zombie.png" id="10t_Zombie" data-flag="@X" onclick="openSidebar('10t_Zombie',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/11t_Angel Demon.png" id="11t_Angel Demon" data-flag="@X" onclick="openSidebar('11t_Angel Demon',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/12t_Soldier.png" id="12t_Soldier" data-flag="@X" onclick="openSidebar('12t_Soldier',false)"></div>
+			<div class="container"><img alt="/sets/GSR-files/img/13t_Elk.png" id="13t_Elk" data-flag="@X" onclick="openSidebar('13t_Elk',false)"></div>
+			<div class="container"><img alt="/img/e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img/er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
