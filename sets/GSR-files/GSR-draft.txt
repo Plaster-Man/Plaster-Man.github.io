@@ -1,4 +1,4 @@
-﻿[CustomCards]
+[CustomCards]
 	[
 		{
 			"name": "Blessed Eternity Yet Echoes",
@@ -3232,10 +3232,6 @@
 	]
 
 [rare(1)]
-	2 Blessed Eternity Yet Echoes
-	1 A Chorus Before Our Thrones
-	1 As It Is, Forever
-	2 Wrath of the Shrouded King
 	2 Exodite Provost
 	2 Dyrshei, Dawning Seminarian
 	2 Eumorphosiac
@@ -3249,7 +3245,6 @@
 	1 The Place Where It Was Torn
 	2 Remnant of Thrones
 	2 Ichoiclast
-	2 Congregation Elocutor
 	2 So Below
 	2 Fundament as One
 	1 EG Armon, Industry Confidant
@@ -3273,45 +3268,12 @@
 	2 To Carve One's Vengeance
 	1 To Invest in Infinity
 	2 To Dissect All Past
-	2 Lightbringer Agent
-	2 Designer-Opus Mogul
-	2 Seeping Mask
-	1 Luminary's Raveling
-	2 Magister Niccolo Marzeli
-	2 At Reality's Borders
-	1 Mortal Engine
-	2 Amoral Empath
-	2 Mute Witness
-	2 Auspex of Forms
-	2 Pharmaceutical Heir
-	2 Touch of the Ancient
-	2 Omnitor
-	1 Netsyn, Scion of the First
-	1 Dr. Isimir Barlowe
-	1 High Doctor Augusta Amerel
-	2 Blind Photorealist
-	2 Postmodern Methods
-	2 Wrench Open
-	2 Sanity's Edge
-	2 Philosopher's Sanctum
-	2 Shattered Poise
-	2 Enlightened Brigadier
-	2 Guidestone Blade
-	2 Meritocratic Tenets
-	2 Rite of Between
 	2 Tenerka, the Severed Heart
-	2 Enlightenment Institute of NC
-	1 Sepulcher-City of Imago
 	1 Dr. Carmine Yevinan
 	1 Dashiell Wicks, Hellraiser
 	2 Panichosis
 	1 Chankata, Chrysopoeian
 [uncommon(3)]
-	4 Lose Yourself in Our Arms
-	4 Ours Is the Way Between
-	4 A Light Vast and Terrible
-	4 Normalcy Is Infinity's Policy
-	4 Pulse of the Tower's Heart
 	4 Kolyost Pathlighter
 	4 Alkaline Reliquary
 	4 Solomonarya Ritebreeder
@@ -3381,35 +3343,7 @@
 	4 To Scour One's Morals
 	4 To Commune the Broken
 	4 To Grow to One's Ideal
-	4 Equinox Justiciar
-	4 Solomonarya Pastor
-	4 Unorthodox Convert
-	4 Eccentric Patriarch
-	4 Disheveled Professor
-	4 Basement Covenant
-	4 Girder Rat
-	4 Kolyost Traditionalist
-	4 Prised Embryo
-	4 Public Perception
-	4 Disquieting Thrum
-	4 Limbic Helm
-	4 Holy-Vein Conservator
-	4 Steppe Shepherd
-	4 Vaunted Descent
-	4 Mouth-Torn Sepulcher
-	4 Stomach-Torn Monuments
-	4 Eye-Torn Orrery
-	4 Chest-Torn Spire
-	4 Finger-Torn Chapel
-	4 Glimmering Manse
-	4 Dregs of Enlightenment
 [common(6)]
-	8 You Are Always Welcome
-	8 Never Forget Your Loyalties
-	8 Guided by Higher Hands
-	8 Gaze of a False Sun
-	8 A Near-Unseen Splendor
-	8 Step Forth Into Forever
 	8 Luminary Euthanist
 	8 First-Form Visionary
 	8 North-Front Brigadier
@@ -3478,307 +3412,8 @@
 	8 Sigiled Gloves
 	8 Private Collection
 	8 Backwoods Hideout
-	8 Plainclothes Agent
-	8 Overseas Contact
-	8 Self-Taught Evokist
-	8 End of Innocence
-	8 Mine-Site Surveyor
-	8 Underground Idol
-	8 Theatric Ritualist
 	8 Defected Agent
-	8 Numb Indulgence
-	8 Sessile Subject
-	8 Curio Reappraiser
-	8 New Cyrane Contact
-	8 Passionate Prentice
-	8 Estate Entangler
-	8 Keen Secretary
-	8 Timid Escapee
-	8 Crucible of Wit
-	8 Dregs of Empire
-[common | masterpiece(1)]
-	8 You Are Always Welcome
-	8 Never Forget Your Loyalties
-	8 Guided by Higher Hands
-	8 Gaze of a False Sun
-	8 A Near-Unseen Splendor
-	8 Step Forth Into Forever
-	8 Luminary Euthanist
-	8 First-Form Visionary
-	8 North-Front Brigadier
-	8 Overeager Chirurgeon
-	8 Solomonarya Revelator
-	8 Remnant of Blizzards
-	8 Highborn Occultist
-	8 Swift Exultation
-	8 Dreams of Commandment
-	8 Dose of Albichoi
-	8 Face Hell
-	8 Exodite Zealot
-	8 Into the Breach
-	8 Promised Syzygy
-	8 Chemander Pilgrim
-	8 Enraptured Ecologist
-	8 Solemn Phegorichon
-	8 Luminary Defense Corps
-	8 Bishop of Elder Blood
-	8 Marathrine Skywatch
-	8 Covetous Scion
-	8 Essence Capture
-	8 Glacial Obelisk
-	8 Lidechian Ground Patrol
-	8 Secure
-	8 Narcoleptic Visions
-	8 Best Left Buried
-	8 Rewelded Bathycapsule
-	8 Exodite Doomsayer
-	8 Chemander Officiant
-	8 Morphing Dove
-	8 Remnant of Middens
-	8 Dose of Phegorichoi
-	8 Hexhauler's Carriage
-	8 Pollute
-	8 Mortal Insignificance
-	8 Scan the Aftermath
-	8 Masochistic Addiction
-	8 Alkhin Pass Commando
-	8 Misfortune Broker
-	8 Apothecary's Nest
-	8 Insatiate Locus
-	8 Remnant of Foundations
-	8 Blood-Bound Howl
-	8 Expunge Evidence
-	8 Pancarnate Burst
-	8 Demand Answers
-	8 No Mortal's Land
-	8 Empath's Entreaty
-	8 Unlicensed Transfusionist
-	8 Freeway Oilmaw
-	8 Hunt-Hewn Retrievers
-	8 Alchemist's Familiar
-	8 Chemander Proselyte
-	8 Pristine Angiomorph
-	8 Immaculate Quarry
-	8 Waif of Irdam Wood
-	8 Deep-Vein Latchjaw
-	8 Synthesis Station
-	8 Monitor Molder
-	8 Probiotic Consecration
-	8 Claim Audience
-	8 Battle at the Institute
-	8 Unearthly Radiance
-	8 New Cyrane Courier
-	8 Sigiled Gloves
-	8 Private Collection
-	8 Backwoods Hideout
-	8 Plainclothes Agent
-	8 Overseas Contact
-	8 Self-Taught Evokist
-	8 End of Innocence
-	8 Mine-Site Surveyor
-	8 Underground Idol
-	8 Theatric Ritualist
-	8 Defected Agent
-	8 Numb Indulgence
-	8 Sessile Subject
-	8 Curio Reappraiser
-	8 New Cyrane Contact
-	8 Passionate Prentice
-	8 Estate Entangler
-	8 Keen Secretary
-	8 Timid Escapee
-	8 Crucible of Wit
-	8 Dregs of Empire
-[foil(1)]
-	2 Blessed Eternity Yet Echoes
-	12 You Are Always Welcome
-	12 Never Forget Your Loyalties
-	1 A Chorus Before Our Thrones
-	12 Guided by Higher Hands
-	12 Gaze of a False Sun
-	6 Lose Yourself in Our Arms
-	6 Ours Is the Way Between
-	12 A Near-Unseen Splendor
-	6 A Light Vast and Terrible
-	6 Normalcy Is Infinity's Policy
-	6 Pulse of the Tower's Heart
-	1 As It Is, Forever
-	2 Wrath of the Shrouded King
-	12 Step Forth Into Forever
-	12 Luminary Euthanist
-	12 First-Form Visionary
-	6 Kolyost Pathlighter
-	12 North-Front Brigadier
-	12 Overeager Chirurgeon
-	2 Exodite Provost
-	12 Solomonarya Revelator
-	12 Remnant of Blizzards
-	12 Highborn Occultist
-	12 Swift Exultation
-	12 Dreams of Commandment
-	12 Dose of Albichoi
-	6 Alkaline Reliquary
-	12 Face Hell
-	12 Exodite Zealot
-	6 Solomonarya Ritebreeder
-	6 Import Inspectors
-	6 Newborn Albichon
-	6 Merchant's Due
-	6 Journey's End
-	12 Into the Breach
-	12 Promised Syzygy
-	6 Final Transfusion
-	2 Dyrshei, Dawning Seminarian
-	2 Eumorphosiac
-	2 Sentinel of Lost Empires
-	2 Overdose
-	1 Eraion, Chair of Defense
-	12 Chemander Pilgrim
-	12 Enraptured Ecologist
-	12 Solemn Phegorichon
-	12 Luminary Defense Corps
-	12 Bishop of Elder Blood
-	12 Marathrine Skywatch
-	12 Covetous Scion
-	12 Essence Capture
-	12 Glacial Obelisk
-	12 Lidechian Ground Patrol
-	12 Secure
-	6 Neuter Reliquary
-	12 Narcoleptic Visions
-	12 Best Left Buried
-	6 Enlightened Operative
-	6 Archivist of True Faith
-	6 Chemander Messenger
-	6 Notorious Hack
-	6 Remnant of Icesheets
-	6 Nucleotithe
-	12 Rewelded Bathycapsule
-	6 Carmine's Intervention
-	2 Ida Prime, Superego
-	2 Chief Financial Officer
-	2 In Dim Kthyevai
-	2 Denature
-	1 The Place Where It Was Torn
-	12 Exodite Doomsayer
-	12 Chemander Officiant
-	12 Morphing Dove
-	6 New Cyrane Initiate
-	12 Remnant of Middens
-	2 Remnant of Thrones
-	12 Dose of Phegorichoi
-	6 Sublimation of Self
-	12 Hexhauler's Carriage
-	12 Pollute
-	12 Mortal Insignificance
-	12 Scan the Aftermath
-	12 Masochistic Addiction
-	6 Scorn-Brand Thrall
-	6 Obsessive Chemander
-	6 Revelation in Ash
-	12 Alkhin Pass Commando
-	6 Remnant of Sepulchers
-	6 In Awe and in Horror
-	2 Ichoiclast
-	12 Misfortune Broker
-	2 Congregation Elocutor
-	2 So Below
-	2 Fundament as One
-	6 Searing Sacrament
-	1 EG Armon, Industry Confidant
-	12 Apothecary's Nest
-	6 Unsettling Cantor
-	6 Flair Bartender
-	6 Remnant of Tremors
-	12 Insatiate Locus
-	12 Remnant of Foundations
-	12 Blood-Bound Howl
-	12 Expunge Evidence
-	12 Pancarnate Burst
-	12 Demand Answers
-	12 No Mortal's Land
-	12 Empath's Entreaty
-	12 Unlicensed Transfusionist
-	6 Ichorflesh Pack
-	12 Freeway Oilmaw
-	6 Panichon's Promise
-	12 Hunt-Hewn Retrievers
-	6 Herald of the First Form
-	6 Inconceivable Vision
-	6 Glyphic Unearthing
-	2 Tormented Tram
-	2 Patent Orchestrator
-	2 Realize the Gateway
-	2 Remnant of Capitals
-	2 Kyrion, Kolyost's Deliverance
-	1 Remnant of the Rift
-	12 Alchemist's Familiar
-	12 Chemander Proselyte
-	12 Pristine Angiomorph
-	12 Immaculate Quarry
-	12 Waif of Irdam Wood
-	12 Deep-Vein Latchjaw
-	12 Synthesis Station
-	12 Monitor Molder
-	12 Probiotic Consecration
-	12 Claim Audience
-	6 Acidic Reliquary
-	12 Battle at the Institute
-	6 Acolyte of Evolution
-	6 Marathrine Consummator
-	6 Presence of the Unrealized
-	12 Unearthly Radiance
-	6 Remnant of Summits
-	6 Vitriolic Subversive
-	6 Churning Ichoi-Still
-	2 Wild Aspiration
-	2 Remnant of Annexes
-	2 Paths Undreamt
-	2 Wheel of Other and Self
-	1 Unbidden Voyage
-	6 Visiting Emeritus
-	6 Curse-Chained Neonate
-	6 Lucrezion Heiress
-	6 Maiden of the Old Hunt
-	6 Pop-Sci Spokesmodel
-	6 Doorkeeper of Tenerka
-	6 Archaeopticon
-	6 Reclamation Chemander
-	6 Cleanup Officer
-	6 Koymyin Interlocutor
-	6 Luminary Laboratory
-	6 Disassociate
-	6 Induced Premonition
-	6 Tracing the Gate
-	6 Mundane Sanctuary
-	6 Reliquary Repossession
-	6 Seed of the Ideal
-	6 Signals in the Murk
-	6 Parncarnate Embrace
-	6 Interminable Ways
-	12 New Cyrane Courier
-	12 Sigiled Gloves
-	12 Private Collection
-	6 Hemignosis Prototype
-	6 Monolithic Decrees
-	6 Baywatch Patrol
-	6 Perivitae Apparatus
-	2 Shackles of Kthyevai
-	2 Equilibrine Font
-	12 Backwoods Hideout
-	6 Unstable Threshold
-	6 To Lift One's Station
-	2 To Temper Divinity
-	6 To Nurture the Inner Eye
-	2 To Impart Equilibrium
-	6 To Scour One's Morals
-	2 To Dissolve Transgressions
-	1 To Speak Between
-	6 To Commune the Broken
-	2 To Carve One's Vengeance
-	1 To Invest in Infinity
-	6 To Grow to One's Ideal
-	2 To Dissect All Past
+[imago-dfc(1)]
 	12 Plainclothes Agent
 	12 Overseas Contact
 	6 Equinox Justiciar
@@ -3801,7 +3436,7 @@
 	12 Theatric Ritualist
 	6 Girder Rat
 	6 Kolyost Traditionalist
-	12 Defected Agent
+	2 Congregation Elocutor
 	2 Amoral Empath
 	12 Numb Indulgence
 	12 Sessile Subject
@@ -3844,30 +3479,25 @@
 	6 Chest-Torn Spire
 	6 Finger-Torn Chapel
 	6 Glimmering Manse
-	2 Tenerka, the Severed Heart
-	2 Enlightenment Institute of NC
-	1 Sepulcher-City of Imago
-	1 Dr. Carmine Yevinan
-	1 Dashiell Wicks, Hellraiser
-	2 Panichosis
-	6 Dregs of Enlightenment
-	1 Chankata, Chrysopoeian
-[wildcard(1)]
-	7 Blessed Eternity Yet Echoes
-	6 You Are Always Welcome
-	6 Never Forget Your Loyalties
-	4 A Chorus Before Our Thrones
-	6 Guided by Higher Hands
-	6 Gaze of a False Sun
-	15 Lose Yourself in Our Arms
-	15 Ours Is the Way Between
-	6 A Near-Unseen Splendor
-	15 A Light Vast and Terrible
-	15 Normalcy Is Infinity's Policy
-	15 Pulse of the Tower's Heart
-	4 As It Is, Forever
-	7 Wrath of the Shrouded King
-	6 Step Forth Into Forever
+        2 Enlightenment Institute of NC
+[imago-non-dfc(1)]
+	2 Blessed Eternity Yet Echoes
+	12 You Are Always Welcome
+	12 Never Forget Your Loyalties
+	1 A Chorus Before Our Thrones
+	12 Guided by Higher Hands
+	12 Gaze of a False Sun
+	6 Lose Yourself in Our Arms
+	6 Ours Is the Way Between
+	12 A Near-Unseen Splendor
+	6 A Light Vast and Terrible
+	6 Normalcy Is Infinity's Policy
+	6 Pulse of the Tower's Heart
+	1 As It Is, Forever
+	2 Wrath of the Shrouded King
+	12 Step Forth Into Forever
+        1 Sepulcher-City of Imago
+[foil(1)]
 	6 Luminary Euthanist
 	6 First-Form Visionary
 	15 Kolyost Pathlighter
@@ -3944,7 +3574,7 @@
 	15 In Awe and in Horror
 	7 Ichoiclast
 	6 Misfortune Broker
-	7 Congregation Elocutor
+	6 Defected Agent
 	7 So Below
 	7 Fundament as One
 	15 Searing Sacrament
@@ -4042,74 +3672,7 @@
 	4 To Invest in Infinity
 	15 To Grow to One's Ideal
 	7 To Dissect All Past
-	6 Plainclothes Agent
-	6 Overseas Contact
-	15 Equinox Justiciar
-	15 Solomonarya Pastor
-	15 Unorthodox Convert
-	7 Lightbringer Agent
-	7 Designer-Opus Mogul
-	7 Seeping Mask
-	4 Luminary's Raveling
-	6 Self-Taught Evokist
-	6 End of Innocence
-	15 Eccentric Patriarch
-	15 Disheveled Professor
-	15 Basement Covenant
-	7 Magister Niccolo Marzeli
-	7 At Reality's Borders
-	4 Mortal Engine
-	6 Mine-Site Surveyor
-	6 Underground Idol
-	6 Theatric Ritualist
-	15 Girder Rat
-	15 Kolyost Traditionalist
-	6 Defected Agent
-	7 Amoral Empath
-	6 Numb Indulgence
-	6 Sessile Subject
-	15 Prised Embryo
-	6 Curio Reappraiser
-	15 Public Perception
-	6 New Cyrane Contact
-	15 Disquieting Thrum
-	7 Mute Witness
-	7 Auspex of Forms
-	6 Passionate Prentice
-	6 Estate Entangler
-	6 Keen Secretary
-	6 Timid Escapee
-	15 Limbic Helm
-	15 Holy-Vein Conservator
-	7 Pharmaceutical Heir
-	7 Touch of the Ancient
-	7 Omnitor
-	15 Steppe Shepherd
-	15 Vaunted Descent
-	4 Netsyn, Scion of the First
-	4 Dr. Isimir Barlowe
-	4 High Doctor Augusta Amerel
-	7 Blind Photorealist
-	7 Postmodern Methods
-	7 Wrench Open
-	7 Sanity's Edge
-	7 Philosopher's Sanctum
-	7 Shattered Poise
-	7 Enlightened Brigadier
-	7 Guidestone Blade
-	7 Meritocratic Tenets
-	7 Rite of Between
-	6 Crucible of Wit
-	6 Dregs of Empire
-	15 Mouth-Torn Sepulcher
-	15 Stomach-Torn Monuments
-	15 Eye-Torn Orrery
-	15 Chest-Torn Spire
-	15 Finger-Torn Chapel
-	15 Glimmering Manse
 	7 Tenerka, the Severed Heart
-	7 Enlightenment Institute of NC
-	4 Sepulcher-City of Imago
 	4 Dr. Carmine Yevinan
 	4 Dashiell Wicks, Hellraiser
 	7 Panichosis
