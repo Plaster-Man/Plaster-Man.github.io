@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Eraion, Chair of Defense",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Luminary's Raveling",
-        "number": 34,
+        "number": 35,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Dyrshei, Dawning Seminarian",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Eumorphosiac",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "Lightbringer Agent",
-        "number": 32,
+        "number": 33,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Overdose",
-        "number": 38,
+        "number": 39,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -281,7 +281,7 @@
     },
     {
         "card_name": "Seeping Mask",
-        "number": 44,
+        "number": 45,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Sentinel of Lost Empires",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "To Temper Divinity",
-        "number": 51,
+        "number": 52,
         "shape": "class",
         "set": "GSR",
         "rotated": false,
@@ -400,9 +400,9 @@
         "position": ""
     },
     {
-        "card_name": "Equinox Justiciar",
-        "number": 20,
-        "shape": "modal double faced",
+        "card_name": "Alkaline Reliquary",
+        "number": 16,
+        "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -416,8 +416,8 @@
         "position": ""
     },
     {
-        "card_name": "Alkhin Pass Commando",
-        "number": 92,
+        "card_name": "Dregs of Enlightenment",
+        "number": 98,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -432,17 +432,17 @@
         "position": ""
     },
     {
-        "card_name": "Acolyte of Evolution",
-        "number": 169,
+        "card_name": "Acidic Reliquary",
+        "number": 168,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Final Transfusion",
-        "number": 25,
-        "shape": "normal",
+        "card_name": "Equinox Justiciar",
+        "number": 21,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -456,9 +456,9 @@
         "position": ""
     },
     {
-        "card_name": "Dregs of Enlightenment",
-        "number": 98,
-        "shape": "normal",
+        "card_name": "Girder Rat",
+        "number": 102,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -466,6 +466,46 @@
     {
         "card_name": "Flair Bartender",
         "number": 138,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Acolyte of Evolution",
+        "number": 169,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Final Transfusion",
+        "number": 26,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Carmine's Intervention",
+        "number": 59,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "In Awe and in Horror",
+        "number": 105,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glyphic Unearthing",
+        "number": 140,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -481,46 +521,6 @@
     },
     {
         "card_name": "Import Inspectors",
-        "number": 28,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Carmine's Intervention",
-        "number": 59,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Girder Rat",
-        "number": 102,
-        "shape": "modal double faced",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Glyphic Unearthing",
-        "number": 140,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Holy-Vein Conservator",
-        "number": 177,
-        "shape": "modal double faced",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Into the Breach",
         "number": 29,
         "shape": "normal",
         "set": "GSR",
@@ -536,9 +536,9 @@
         "position": ""
     },
     {
-        "card_name": "In Awe and in Horror",
-        "number": 105,
-        "shape": "normal",
+        "card_name": "Kolyost Traditionalist",
+        "number": 106,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -552,8 +552,8 @@
         "position": ""
     },
     {
-        "card_name": "Limbic Helm",
-        "number": 180,
+        "card_name": "Holy-Vein Conservator",
+        "number": 177,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -561,7 +561,7 @@
     },
     {
         "card_name": "Journey's End",
-        "number": 30,
+        "number": 31,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -576,32 +576,32 @@
         "position": ""
     },
     {
-        "card_name": "Kolyost Traditionalist",
-        "number": 106,
+        "card_name": "New Cyrane Initiate",
+        "number": 112,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ichorflesh Pack",
+        "number": 143,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Limbic Helm",
+        "number": 180,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Hunt-Hewn Retrievers",
-        "number": 142,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Marathrine Consummator",
-        "number": 181,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Merchant's Due",
-        "number": 35,
+        "card_name": "Kolyost Pathlighter",
+        "number": 32,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -624,23 +624,23 @@
         "position": ""
     },
     {
-        "card_name": "Ichorflesh Pack",
-        "number": 143,
+        "card_name": "Inconceivable Vision",
+        "number": 144,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Presence of the Unrealized",
-        "number": 188,
+        "card_name": "Marathrine Consummator",
+        "number": 181,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Newborn Albichon",
+        "card_name": "Merchant's Due",
         "number": 36,
         "shape": "normal",
         "set": "GSR",
@@ -664,32 +664,32 @@
         "position": ""
     },
     {
-        "card_name": "Inconceivable Vision",
-        "number": 144,
+        "card_name": "Panichon's Promise",
+        "number": 152,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Remnant of Summits",
-        "number": 192,
+        "card_name": "Presence of the Unrealized",
+        "number": 188,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Promised Syzygy",
-        "number": 42,
+        "card_name": "Newborn Albichon",
+        "number": 37,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Notorious Hack",
-        "number": 82,
+        "card_name": "Neuter Reliquary",
+        "number": 81,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -704,32 +704,32 @@
         "position": ""
     },
     {
-        "card_name": "New Cyrane Contact",
-        "number": 148,
+        "card_name": "Prised Embryo",
+        "number": 154,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Steppe Shepherd",
-        "number": 194,
-        "shape": "modal double faced",
+        "card_name": "Remnant of Summits",
+        "number": 192,
+        "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Solomonarya Pastor",
-        "number": 46,
+        "number": 47,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Nucleotithe",
-        "number": 83,
+        "card_name": "Notorious Hack",
+        "number": 82,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -744,32 +744,32 @@
         "position": ""
     },
     {
-        "card_name": "Panichon's Promise",
-        "number": 152,
-        "shape": "normal",
+        "card_name": "Public Perception",
+        "number": 155,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "To Grow to One's Ideal",
-        "number": 197,
-        "shape": "class",
+        "card_name": "Steppe Shepherd",
+        "number": 193,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Solomonarya Ritebreeder",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Remnant of Icesheets",
-        "number": 85,
+        "card_name": "Nucleotithe",
+        "number": 83,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -784,32 +784,32 @@
         "position": ""
     },
     {
-        "card_name": "Prised Embryo",
-        "number": 154,
-        "shape": "modal double faced",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Unearthly Radiance",
-        "number": 200,
+        "card_name": "Remnant of Tremors",
+        "number": 160,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "To Lift One's Station",
-        "number": 50,
+        "card_name": "To Grow to One's Ideal",
+        "number": 197,
         "shape": "class",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rewelded Bathycapsule",
-        "number": 86,
+        "card_name": "To Lift One's Station",
+        "number": 51,
+        "shape": "class",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Remnant of Icesheets",
+        "number": 85,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -824,9 +824,9 @@
         "position": ""
     },
     {
-        "card_name": "Remnant of Tremors",
-        "number": 160,
-        "shape": "normal",
+        "card_name": "To Commune the Broken",
+        "number": 163,
+        "shape": "class",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Unorthodox Convert",
-        "number": 52,
+        "number": 53,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -864,9 +864,9 @@
         "position": ""
     },
     {
-        "card_name": "To Commune the Broken",
-        "number": 163,
-        "shape": "class",
+        "card_name": "Unsettling Cantor",
+        "number": 167,
+        "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
@@ -874,46 +874,6 @@
     {
         "card_name": "Vitriolic Subversive",
         "number": 202,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Alkaline Reliquary",
-        "number": 16,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Best Left Buried",
-        "number": 57,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Chemander Officiant",
-        "number": 94,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Apothecary's Nest",
-        "number": 130,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Acidic Reliquary",
-        "number": 168,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -928,24 +888,24 @@
         "position": ""
     },
     {
-        "card_name": "Bishop of Elder Blood",
-        "number": 58,
+        "card_name": "Best Left Buried",
+        "number": 57,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Defected Agent",
-        "number": 96,
+        "card_name": "Alkhin Pass Commando",
+        "number": 92,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Blood-Bound Howl",
-        "number": 132,
+        "card_name": "Apothecary's Nest",
+        "number": 130,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -960,8 +920,48 @@
         "position": ""
     },
     {
+        "card_name": "Dreams of Commandment",
+        "number": 19,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bishop of Elder Blood",
+        "number": 58,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Chemander Officiant",
+        "number": 94,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blood-Bound Howl",
+        "number": 132,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Battle at the Institute",
+        "number": 171,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Exodite Zealot",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -976,8 +976,8 @@
         "position": ""
     },
     {
-        "card_name": "Dose of Phegorichoi",
-        "number": 97,
+        "card_name": "Defected Agent",
+        "number": 96,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -992,8 +992,8 @@
         "position": ""
     },
     {
-        "card_name": "Battle at the Institute",
-        "number": 171,
+        "card_name": "Chemander Proselyte",
+        "number": 172,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1001,7 +1001,7 @@
     },
     {
         "card_name": "Face Hell",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1016,56 +1016,16 @@
         "position": ""
     },
     {
-        "card_name": "Exodite Doomsayer",
-        "number": 100,
+        "card_name": "Dose of Phegorichoi",
+        "number": 97,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Demand Answers REART",
+        "card_name": "Demand Answers",
         "number": 134,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Chemander Proselyte",
-        "number": 172,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "First-Form Visionary",
-        "number": 26,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "End of Innocence",
-        "number": 67,
-        "shape": "modal double faced",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Hexhauler's Carriage",
-        "number": 103,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Empath's Entreaty",
-        "number": 136,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1080,7 +1040,7 @@
         "position": ""
     },
     {
-        "card_name": "Highborn Occultist",
+        "card_name": "First-Form Visionary",
         "number": 27,
         "shape": "normal",
         "set": "GSR",
@@ -1088,24 +1048,24 @@
         "position": ""
     },
     {
-        "card_name": "Enraptured Ecologist",
-        "number": 69,
+        "card_name": "End of Innocence",
+        "number": 67,
+        "shape": "modal double faced",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Exodite Doomsayer",
+        "number": 100,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Masochistic Addiction",
-        "number": 107,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Expunge Evidence",
-        "number": 137,
+        "card_name": "Empath's Entreaty",
+        "number": 136,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1120,32 +1080,32 @@
         "position": ""
     },
     {
-        "card_name": "Kolyost Pathlighter",
-        "number": 31,
+        "card_name": "Highborn Occultist",
+        "number": 28,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Essence Capture",
-        "number": 70,
+        "card_name": "Enraptured Ecologist",
+        "number": 69,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mine-Site Surveyor",
-        "number": 108,
-        "shape": "modal double faced",
+        "card_name": "Hexhauler's Carriage",
+        "number": 103,
+        "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Freeway Oilmaw",
-        "number": 139,
+        "card_name": "Expunge Evidence",
+        "number": 137,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1160,8 +1120,48 @@
         "position": ""
     },
     {
+        "card_name": "Into the Breach",
+        "number": 30,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Essence Capture",
+        "number": 70,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Masochistic Addiction",
+        "number": 107,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Freeway Oilmaw",
+        "number": 139,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Immaculate Quarry",
+        "number": 178,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Luminary Euthanist",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1170,6 +1170,46 @@
     {
         "card_name": "Glacial Obelisk",
         "number": 72,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mine-Site Surveyor",
+        "number": 108,
+        "shape": "modal double faced",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hunt-Hewn Retrievers",
+        "number": 142,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Keen Secretary",
+        "number": 179,
+        "shape": "modal double faced",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "North-Front Brigadier",
+        "number": 38,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lidechian Ground Patrol",
+        "number": 75,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1192,56 +1232,16 @@
         "position": ""
     },
     {
-        "card_name": "Immaculate Quarry",
-        "number": 178,
+        "card_name": "Monitor Molder",
+        "number": 182,
         "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "North-Front Brigadier",
-        "number": 37,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lidechian Ground Patrol",
-        "number": 75,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Morphing Dove",
-        "number": 110,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "No Mortal's Land",
-        "number": 149,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Keen Secretary",
-        "number": 179,
-        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Overeager Chirurgeon",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1256,32 +1256,32 @@
         "position": ""
     },
     {
-        "card_name": "Mortal Insignificance",
-        "number": 111,
+        "card_name": "Morphing Dove",
+        "number": 110,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Numb Indulgence",
-        "number": 150,
+        "card_name": "New Cyrane Contact",
+        "number": 148,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Monitor Molder",
-        "number": 182,
-        "shape": "normal",
+        "card_name": "Passionate Prentice",
+        "number": 185,
+        "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Overseas Contact",
-        "number": 40,
+        "number": 41,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -1296,32 +1296,32 @@
         "position": ""
     },
     {
-        "card_name": "New Cyrane Initiate",
-        "number": 112,
+        "card_name": "Mortal Insignificance",
+        "number": 111,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Pancarnate Burst",
-        "number": 151,
+        "card_name": "No Mortal's Land",
+        "number": 149,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Passionate Prentice",
-        "number": 185,
-        "shape": "modal double faced",
+        "card_name": "Pristine Angiomorph",
+        "number": 189,
+        "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Plainclothes Agent",
-        "number": 41,
+        "number": 42,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
@@ -1344,23 +1344,23 @@
         "position": ""
     },
     {
-        "card_name": "Public Perception",
-        "number": 155,
+        "card_name": "Numb Indulgence",
+        "number": 150,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Pristine Angiomorph",
-        "number": 189,
+        "card_name": "Probiotic Consecration",
+        "number": 190,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Remnant of Blizzards",
+        "card_name": "Promised Syzygy",
         "number": 43,
         "shape": "normal",
         "set": "GSR",
@@ -1368,8 +1368,8 @@
         "position": ""
     },
     {
-        "card_name": "Neuter Reliquary",
-        "number": 81,
+        "card_name": "Rewelded Bathycapsule",
+        "number": 86,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1384,24 +1384,24 @@
         "position": ""
     },
     {
-        "card_name": "Remnant of Foundations",
-        "number": 158,
+        "card_name": "Pancarnate Burst",
+        "number": 151,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Probiotic Consecration",
-        "number": 190,
+        "card_name": "Synthesis Station",
+        "number": 194,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Solomonarya Revelator",
-        "number": 47,
+        "card_name": "Remnant of Blizzards",
+        "number": 44,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1424,24 +1424,24 @@
         "position": ""
     },
     {
-        "card_name": "Sessile Subject",
-        "number": 161,
+        "card_name": "Remnant of Foundations",
+        "number": 158,
+        "shape": "normal",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Timid Escapee",
+        "number": 195,
         "shape": "modal double faced",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Shades of Disharmony",
-        "number": 193,
-        "shape": "modal double faced",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Swift Exultation",
-        "number": 49,
+        "card_name": "Solomonarya Revelator",
+        "number": 48,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1464,24 +1464,24 @@
         "position": ""
     },
     {
-        "card_name": "Unlicensed Transfusionist",
-        "number": 166,
+        "card_name": "Sessile Subject",
+        "number": 161,
+        "shape": "modal double faced",
+        "set": "GSR",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unearthly Radiance",
+        "number": 200,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Synthesis Station",
-        "number": 195,
-        "shape": "normal",
-        "set": "GSR",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wander in Dream",
-        "number": 53,
+        "card_name": "Swift Exultation",
+        "number": 50,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,
@@ -1504,8 +1504,8 @@
         "position": ""
     },
     {
-        "card_name": "Unsettling Cantor",
-        "number": 167,
+        "card_name": "Unlicensed Transfusionist",
+        "number": 166,
         "shape": "normal",
         "set": "GSR",
         "rotated": false,

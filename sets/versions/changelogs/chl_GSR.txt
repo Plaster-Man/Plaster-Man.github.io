@@ -1,4 +1,302 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Dreams of Commandment added.
+Demand Answers added.
+Timid Escapee added.
+
+Wander in Dream removed.
+Demand Answers REART removed.
+Shades of Disharmony removed.
+
+Blessed Eternity Yet Echoes
+
+You Are Always Welcome
+
+Never Forget Your Loyalties
+
+A Chorus Before Our Thrones
+
+Guided by Higher Hands
+cost: {5} => {3}
+rules_text: [i](At the start of the game, shuffle this card into Imago, a face-down pile.)[/i]
+Put a +1/+1 counter on each creature you control. They can't be blocked this turn.
+Draw a card, or draw a card from Imago. => [i](At the start of the game, shuffle this card into Imago, a face-down pile.)[/i]
+Put a +1/+1 counter on each creature you control.
+Draw a card, or draw a card from Imago.
+
+Gaze of a False Sun
+
+Lose Yourself in Our Arms
+
+Ours Is the Way Between
+
+A Near-Unseen Splendor
+
+A Light Vast and Terrible
+
+Normalcy Is Infinity's Policy
+
+Pulse of the Tower's Heart
+
+As It Is, Forever
+
+Wrath of the Shrouded King
+
+Step Forth Into Forever
+
+First-Form Visionary
+rules_text: {5}, {T}, Sacrifice First-Form Visionary: Create a 4/3 red Angel Demon creature token with flying. Activate only as a sorcery and only if you control two or more creatures with equal power. => {5}, {T}, Sacrifice First-Form Visionary: Create a tapped 4/3 red Angel Demon creature token with flying. Activate only as a sorcery.
+
+Kolyost Pathlighter
+cost: {2}{W} => {3}{W}
+rules_text: Flying
+Whenever Kolyost Pathlighter attacks, teach another target attacking creature vigilance. [i](Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)[/i] => Lifelink
+Whenever Kolyost Pathlighter attacks, teach another target attacking creature lifelink. [i](Put a lifelink counter on it. If it already has lifelink, put a +1/+1 counter on it instead.)[/i]
+
+Swift Exultation
+rules_text: Swift Exultation deals 2 damage to up to one target tapped creature.
+If you control two or more creatures with equal power, draw a card. => Put a +1/+1 counter on target creature you control. Then that creature deals 2 damage to up to one target tapped creature.
+
+Alkaline Reliquary
+cost: {3}{W} => {2}{W}
+rules_text: When Alkaline Reliquary enters, exile up to one other target nonland permanent until Alkaline Reliquary leaves the battlefield.
+During your turn, equipped creature gets +2/+1 and has first strike.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Alkaline Reliquary enters, exile up to one other target creature or artifact until Alkaline Reliquary leaves the battlefield.
+During your turn, equipped creature gets +1/+2 and has first strike.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Newborn Albichon
+rules_text: Whenever Newborn Albichon attacks, it gains flying [i](indefinitely)[/i] if its power is 3 or greater. The same is true for lifelink and 5 or greater and indestructible and 7 or greater. => Whenever Newborn Albichon attacks, put a flying counter on it if it doesn't have flying and its power is 3 or greater. The same is true for lifelink and 5 and indestructible and 7.
+
+Into the Breach
+type: Instant => Sorcery
+cost: {3}{W} => {2}{W}
+rules_text: Untap each attacking creature you control. They get +2/+0 until end of turn.
+Unveil {3}{W} [i](You may cast this from your graveyard for its unveil cost by removing two non-stun counters from your creatures in addition to paying its other costs. Then exile it.)[/i] => Put a +1/+1 counter on each creature you control. They gain vigilance until end of turn.
+Unveil {4}{W} [i](You may cast this from your graveyard for its unveil cost by removing two non-stun counters from your creatures in addition to paying its other costs. Then exile it.)[/i]
+
+Promised Syzygy
+type: Enchantment => Instant
+cost: {3}{W} => {2}{W}
+rules_text: When Promised Syzygy enters, create two 1/1 black Noble creature tokens with prowess. [i](Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)[/i]
+At the beginning of your upkeep, if you control two or more creatures with equal power, put a +1/+1 counter on each of those creatures. [i](This only triggers once per creature.)[/i] => Create two tapped 0/0 colorless Homunculus creature tokens with +1/+1 counters on them.
+Draw a card.
+
+Enraptured Ecologist
+rules_text: {4}, Exile Enraptured Ecologist from your graveyard: Create two 0/0 colorless Homunculus creature tokens with +1/+1 counters on them. Then teach target creature you control flying. Activate only as a sorcery. [i](Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)[/i] => {4}, Exile Enraptured Ecologist from your graveyard: Create two 0/0 colorless Homunculus creature tokens with +1/+1 counters on them. Activate only as a sorcery.
+
+Marathrine Skywatch
+rules_text: Flying
+Whenever Marathrine Skywatch attacks, teach another target attacking creature menace. [i](Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)[/i] => Flying, menace
+Whenever Marathrine Skywatch attacks, teach another target attacking creature menace. [i](Put a menace counter on it. If it already has menace, put a +1/+1 counter on it instead.)[/i]
+
+Neuter Reliquary
+cost: {2}{U} => {1}{U}
+
+Enlightened Operative
+cost: {1}{U} => {U}
+rules_text: Enlightened Operative can't be blocked.
+Whenever you cast a noncreature spell, teach target creature you control vigilance. [i](Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)[/i] => Whenever you cast a noncreature spell, teach Enlightened Operative vigilance. [i](Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)[/i]
+pt: 1/2 => 1/1
+
+Archivist of True Faith
+rules_text: Flying
+When Archivist of True Faith enters, distill. [i](Create a tapped Reagent artifact token with “{T}: Add {C}. You can't spend this mana to cast spells with one or more colors.”)[/i]
+Whenever Archivist of True Faith attacks, you may pay {3}. If you do, draw a card. => Flying
+Whenever Archivist of True Faith deals combat damage to a player, untap target creature or artifact you control.
+
+Notorious Hack
+rules_text: Protection from immanent [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything immanent.)[/i]
+If you would teach another creature an ability, you may instead put that ability counter and a +1/+1 counter on Notorious Hack. => Menace
+If you would teach another creature an ability, you may instead put a +1/+1 counter and an ability counter of that kind on Notorious Hack.
+
+Rewelded Bathycapsule
+cost: {1}{U} => {2}{U}
+rules_text: Vigilance
+Whenever a card leaves your graveyard during your turn, Rewelded Bathycapsule becomes an artifact creature until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When Rewelded Bathycapsule enters, tap target creature or artifact an opponent controls and put a stun counter on it.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 3/3 => 4/4
+
+Exodite Doomsayer
+rules_text: When Exodite Doomsayer dies, if it wasn't blocking, each opponent loses 2 life, then distill. [i](Create a tapped Reagent artifact token with “{T}: Add {C}. You can't spend this mana to cast spells with one or more colors.”)[/i] => When Exodite Doomsayer dies, each opponent loses 2 life, then distill. [i](Create a tapped Reagent artifact token with “{T}: Add {C}. You can't spend this mana to cast spells with one or more colors.”)[/i]
+
+Morphing Dove
+rules_text: Lifelink
+Morphing Dove gets +1/+0 and has flying as long as it's attacking and you control a creature with mana value 6 or greater. => Flying
+Morphing Dove gets +1/+1 and has lifelink as long as you control a creature with mana value 6 or greater.
+pt: 2/2 => 2/1
+
+New Cyrane Initiate
+cost: {1}{B} => {2}{B}
+rules_text: As long as it's your turn, New Cyrane Initiate has first strike.
+Whenever New Cyrane Initiate attacks, teach another target attacking creature you control flying. [i](Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)[/i] => Flying, haste
+Whenever New Cyrane Initiate attacks, teach another target attacking creature flying. [i](Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)[/i]
+pt: 2/1 => 2/2
+
+Sublimation of Self
+rules_text: Destroy target nonimmanent creature. Its controller creates a 0/0 colorless Homunculus creature token with a +1/+1 counter on it. => Destroy target creature or planeswalker. Its controller creates a 0/0 colorless Homunculus creature token with a +1/+1 counter on it.
+
+Obsessive Chemander
+cost: {1}{B} => {2}{B}
+pt: 2/1 => 3/2
+
+Alkhin Pass Commando
+rules_text: Vampires you control have first strike as long as they're attacking.
+Whenever you draw your second card each turn, create a tapped 2/2 white Vampire creature token. => Whenever you draw your second card each turn, create a tapped 2/2 white Vampire creature token.
+
+Remnant of Sepulchers
+rules_text: Slumber {1}{B} [i](If you cast this for its slumber cost, it enters tapped with six stun counters. Remove one whenever you attack or all as a sorcery for {7}.)[/i]
+When Remnant of Sepulchers enters or you attack with two or more creatures, create a 1/1 black Noble creature token with prowess. If you're attacking, it enters tapped and attacking. => Slumber {1}{B} [i](If you cast this for its slumber cost, it enters tapped with six stun counters. Remove one whenever you attack or all as a sorcery for {7}.)[/i]
+Whenever Remnant of Sepulchers enters or attacks, create a 1/1 black Noble creature token with prowess. If you're attacking, it enters tapped and attacking.
+
+Apothecary's Nest
+rules_text: {5}, {T}, Sacrifice Apothecary's Nest: Create three 0/0 colorless Homunculus creature tokens with +1/+1 counters on them. Activate only as a sorcery. => {4}, {T}, Sacrifice Apothecary's Nest: Create three 0/0 colorless Homunculus creature tokens with +1/+1 counters on them. Activate only as a sorcery.
+
+Unsettling Cantor
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Unsettling Cantor attacks, teach another target attacking creature trample. [i](Put a trample counter on it. If it already has trample, put a +1/+1 counter on it instead.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever Unsettling Cantor attacks, teach another target attacking creature prowess. [i](Put a prowess counter on it. If it already has prowess, put a +1/+1 counter on it instead.)[/i]
+
+Blood-Bound Howl
+rules_text: Target creature you control gains menace, trample, and haste until end of turn. 
+If you control two or more creatures with equal power, draw a card. => Put a menace counter on target creature you control. If that creature already has a counter on it, draw a card.
+
+Hunt-Hewn Retrievers
+cost: {2}{R} => {4}{R}
+rules_text: Hunt-Hewn Retrievers has first strike as long as it's attacking.
+Whenever an opponent casts an immanent spell, create a tapped 2/2 white Vampire creature token. => Hunt-Hewn Retrievers has first strike as long as it's attacking.
+{5}: Put a +1/+1 counter on Hunt-Hewn Retrievers. Activate only as a sorcery.
+pt: 3/2 => 4/3
+
+Herald of the First Form
+rules_text: Flying, haste
+Whenever Herald of the First Form attacks, create a 1/1 black Noble creature token with prowess that's tapped and attacking. Then if you control two or more creatures with equal power, Herald of the First Form deals 2 damage to each opponent. => Flying, haste
+Whenever another creature you control with a counter on it attacks, you may have it become a copy of Herald of the First Form until end of turn.
+
+Alchemist's Familiar
+rules_text: {3}{G}, {T}, Sacrifice Alchemist's Familiar: Distill twice. Activate only as a sorcery. [i](Create two tapped Reagent artifact tokens with “{T}: Add {C}. You can't spend this mana to cast spells with one or more colors.”)[/i] => When Alchemist's Familiar enters, put a +1/+1 counter on it if you control another creature with greater power.
+
+Chemander Proselyte
+cost: {1}{G} => {3}{G}
+rules_text: Deathtouch
+Whenever Chemander Proselyte attacks, teach another target attacking creature vigilance. [i](Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)[/i] => Vigilance
+Whenever Chemander Proselyte attacks, teach another target attacking creature vigilance. [i](Put a vigilance counter on it. If it already has vigilance, put a +1/+1 counter on it instead.)[/i]
+pt: 2/1 => 3/3
+
+Immaculate Quarry
+cost: {2}{G} => {3}{G}
+pt: 2/4 => 3/4
+
+Synthesis Station
+cost: {1}{G} => {2}{G}
+
+Acidic Reliquary
+cost: {1}{G} => {2}{G}
+rules_text: When Acidic Reliquary enters, prevent all damage that would be dealt this turn by creatures your opponents control.
+During your turn, equipped creature gets +1/+2 and has deathtouch.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => When Acidic Reliquary enters, prevent all damage that would be dealt this turn by sources you don't control.
+During your turn, equipped creature gets +2/+1 and has deathtouch.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Marathrine Consummator
+cost: {G} => {2}{G}
+rules_text: Deathtouch
+Whenever Marathrine Consummator attacks, you may have its base power become equal to the power of another target attacking creature until end of turn. => Vigilance, reach
+Whenever Marathrine Consummator attacks, you may have its base power become equal to the power of another target attacking creature until end of turn.
+pt: 1/1 => 2/5
+
+Unearthly Radiance
+type: Sorcery => Instant
+rules_text: Target creature gains vigilance, trample, haste, and indestructible until end of turn. You may move any number of non-stun counters from creatures you control onto it.
+Unveil {1}{G} [i](You may cast this from your graveyard for its unveil cost by removing two non-stun counters from your creatures in addition to paying its other costs. Then exile it.)[/i] => Target creature gains vigilance and trample until end of turn. You may move any number of non-stun counters from creatures you control onto it.
+
+Cleanup Officer
+cost: {4}{R}{W} => {3}{R}{W}
+rules_text: When Cleanup Officer enters, create two 2/1 red Soldier creature tokens with haste.
+Whenever Cleanup Officer attacks, it deals X damage to any target and you gain X life, where X is the greatest number of attacking creatures with the same power. => When Cleanup Officer enters, create two 2/1 red Soldier creature tokens with haste.
+Whenever Cleanup Officer attacks, put a +1/+1 counter on any number of target attacking creatures you control.
+pt: 2/3 => 2/2
+
+Parncarnate Embrace
+type: Sorcery => Instant
+rules_text: Parncarnate Embrace deals 3 damage to any target and you gain 3 life.
+If you control two or more creatures with equal power, add {R}{W}. You don't lose this mana as steps and phases end. => Put a +1/+1 counter on target creature you control. Then that creature deals 3 damage to any target and you gain 3 life. [i](You can cast this spell only if you control a creature to choose as its first target.)[/i]
+
+To Grow to One's Ideal
+special_text: [i](Gain the next level when you cast a spell with the listed mana value or greater.)[/i]
+When To Grow to One's Ideal enters, untap all nonland permanents you control. Draw a card.
+[b]4:[/b] [i]Yearning Bloom[/i]
+Whenever you put an ability counter on a creature, double that creature's power until end of turn.
+[b]7:[/b] [i]Consonant's Chisel[/i]
+Whenever you attack, put a trample counter on target creature. => [i](Gain the next level when you cast a spell with the listed mana value or greater.)[/i]
+When To Grow to One's Ideal enters, create a 0/0 colorless Homunculus creature token with two +1/+1 counters on it.
+[b]4:[/b] [i]Yearning Bloom[/i]
+Whenever you put an ability counter on a creature, double that creature's power until end of turn.
+[b]7:[/b] [i]Consonant's Chisel[/i]
+Whenever you attack, put a trample counter on target creature.
+
+Public Perception
+cost: {5}{R} => {3}{R}
+rules_text: Public Perception deals 6 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.
+Draw a card from Imago. => Target creature deals damage to itself equal to its power. If that creature would die this turn, choose one —
+• Exile it instead.
+• Draw a card from Imago.
+
+New Cyrane Contact
+rules_text: New Cyrane Contact has first strike as long as it's attacking.
+When New Cyrane Contact enters and whenever it attacks along with a creature with equal power, draw a card from Imago. => When New Cyrane Contact enters, choose one —
+• Create a 0/0 colorless Homunculus creature token with a +1/+1 counter on it.
+• Draw a card from Imago.
+pt: 3/1 => 2/2
+
+Estate Entangler
+rules_text: When Estate Entangler enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.
+{4}{G}, {T}, Sacrifice Estate Entangler: Draw a card from Imago. => Reach
+When Estate Entangler enters, draw a card.
+{4}{G}, {T}, Sacrifice Estate Entangler: Draw a card from Imago.
+
+Touch of the Ancient
+rules_text: Enchant creature you control
+Whenever enchanted creature deals combat damage to a player, put a +1/+1 counter on it and draw a card from Imago.
+When enchanted creature dies, return Touch of the Ancient to its owner's hand. => Enchant nonimmanent creature
+Enchanted creature has “Whenever this creature deals combat damage to a player, draw a card from Imago.”
+When enchanted creature dies, return Touch of the Ancient to its owner's hand.
+
+Vaunted Descent
+rules_text: Lands you control have “{T}: Add one mana of any color.”
+At the beginning of your end step, if you spent {W}{U}{B}{R}{G} this turn, you may sacrifice Vaunted Descent. If you do, draw two cards from Imago. => Lands you control have “{T}: Add one mana of any color.”
+At the beginning of your end step, if you spent seven mana to cast spells this turn, you may sacrifice Vaunted Descent. If you do, draw two cards from Imago.
+
+Sepulcher-City of Imago
+
+Copy
+
+Merchant
+
+Reagent
+
+Angel Demon
+
+Soldier
+
+Noble
+
+Vampire
+
+Homunculus
+
+Elk
+
+Zombie
+
+Zombie
+
+Insect
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
