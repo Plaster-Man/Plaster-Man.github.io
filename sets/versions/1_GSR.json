@@ -1,9 +1,9 @@
-﻿{
+{
     "name": "Beneath a Golden Shroud",
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "set booster",
     "cards": [
         {
             "card_name": "Blessed Eternity Yet Echoes",
