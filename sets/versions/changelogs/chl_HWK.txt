@@ -1,4 +1,480 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Shennao, Empress of Sun
+
+Dixia Jun
+
+Halls of Past
+
+Audience at Mount Ruan
+
+Jiangshi Archlich
+
+Unbound Flow
+
+Suppressing Strike Baron
+
+Liuliang Transmuter
+
+Timehonored Passage
+
+Elder of Broken Tablets
+rules_text: Flash
+Whenever an opponent casts a noncreature spell, create a 1/1 colorless Spirit creature token.
+Whenever you cast a creature spell, you may pay {2} and sacrifice a Spirit. When you do, copy it. [i](A copy of a permanent spell becomes a token.)[/i] => Ward {2}
+Whenever an opponent casts a noncreature spell, create a 1/1 colorless Spirit creature token.
+Whenever you cast a creature spell, you may pay {2} and sacrifice a Spirit. When you do, copy it. [i](A copy of a permanent spell becomes a token.)[/i]
+pt: 1/4 => 2/5
+
+Strike of the Tablet
+
+Surveying Sergeant
+
+Halls of Toil
+
+Display of Dominance
+
+Unfazed Maozi
+
+Rule by Ineffability
+
+Dragoncoil Falls
+
+Fiery Virtue Courtesan
+
+Autumnal Nian
+
+Character of Terrain
+
+Xian Decrier
+
+Tense Negotiations
+
+Storming Caolun Plains
+
+Fire at Will
+
+Jade-Plated Patrol
+
+Bloodless Broodmother
+
+Xian Fateweaver
+
+Art of Slaughter
+
+Daoshi Survivalist
+
+Memorial Dolls
+
+Dashing Debtor
+
+Rotcolumn Rectory
+
+Righteous Hailstorm
+
+Halls of Grace
+
+Framed Scion
+rules_text: Defender
+When Framed Scion enters, surveil 1.
+When Framed Scion dies, draw a card. => Defender
+When Framed Scion enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+When Framed Scion dies, draw a card.
+
+Eng Keepguard
+
+Qi Transfer
+
+Elder Etching
+
+Yin Commandant
+
+Tablet-Borne Broker
+
+Lurking Reaper
+
+Abbot of Forgotten Paths
+
+Dragoncoil Bashe
+
+Rule by Birthright
+
+Alabaster Tigress
+
+Sunflare Marquess
+
+Clash of Conscience
+
+Halls of Grit
+
+Blazing Festivities
+
+Morality or Mortality
+
+Dustwhisper Archer
+
+Aizu Bulwark
+
+Tormenting Questions
+rules_text: Choose creature or noncreature, then reveal the top three cards of your library. Put a card of the chosen characteristic from among them into your hand and the other into your graveyard. Repeat this process X times. => Choose creature or noncreature, then reveal the top three cards of your library. Put a card of the chosen characteristic from among them into your hand and the rest into your graveyard. Repeat this process X times.
+
+Serenesky Pagoda
+
+Preening Paradisiac
+
+Daoshi of Natural Paths
+
+Forward-March Officer
+
+Last-Wish Accountant
+
+Beseech Hell
+
+Wretched Shacklemage
+rules_text: Instant and sorcery spells you cast cost {U} or {B} [i](or {1})[/i] less to cast.
+Whenever you sacrifice Wretched Shacklemage while casting an instant or sorcery spell, each opponent loses 3 life and you gain 3 life. => Instant, sorcery, Devil, and Zombie spells you cast cost {1} less to cast.
+Whenever you sacrifice Wretched Shacklemage while casting an instant or sorcery spell, each opponent loses 3 life and you gain 3 life.
+
+Watery Virtue Courtesan
+
+Agate-Tablet Champion
+
+Banner of Tenfold Glories
+rules_text: Flash
+Each attacking creature you control gets +X/+X, where X is the number of other attacking creatures you control with power equal to that creature's power. [i](For example, three attacking 1/1s would each get +2/+2.)[/i] => Flash
+Whenever you attack, each attacking creature gets +X/+0 until end of turn, where X is the number of attacking creatures with the same base power. [i](For example, three attacking 1/1s would each get +2/+0.)[/i]
+
+Dimlantern Market
+
+Dissolve into Memory
+
+Dustchoked Ramparts
+
+Virtuous Deeds
+
+Invoker of Forebears
+
+Prisoner of War
+
+Regulate the Spheres
+rules_text: When Regulate the Spheres enters, if you cast it, exile all non-Noble creatures until Regulate the Spheres leaves the battlefield.
+{2}{W}, Put a card you own exiled with Regulate the Spheres into your graveyard: Create a token that's a copy of that card, except it's a 2/1 white Noble with lifelink. Any player may activate this ability, and only as a sorcery. => When Regulate the Spheres enters, if you cast it, exile all non-Noble creatures until Regulate the Spheres leaves the battlefield.
+{4}, Put a card you own exiled with Regulate the Spheres into your graveyard: Create a token that's a copy of that card, except it's a 2/1 white Noble with lifelink. Any player may activate this ability, and only as a sorcery.
+
+By the Court's Graces
+
+Thunder-Tempo Official
+
+Forked-Bolt Leigong
+
+Secure
+
+Rise from the Stockade
+
+Death-Ledger Rearguard
+
+Xian Counselor
+
+Silk to Scale
+
+Miasmic Pilgrimage
+rules_text: Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Return target nonland permanent you don't control to its owner's hand. Surveil 1. => Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Return target nonland permanent you don't control to its owner's hand. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Hui Revenant
+
+Spiritlight Courier
+
+Bronzepaw
+
+Beckoner of Dark Incense
+
+Officer of Morale
+
+Moldmansion Hulk
+
+Stray Hulk
+
+Grievous Deeds
+
+Petulant Eimo
+
+Dethrone
+
+On Diyu's Threshold
+
+Supernatural Stamina
+
+Bowl Over
+
+Nepotistic Marshal
+
+Swathcutter Commandant
+
+Derelict Tutor
+
+Cinderscourge
+
+Gleeful Instigator
+
+Outflanking Firebrand
+
+Mortal Furor
+
+Stoke Animosity
+rules_text: Up to two target creatures can't block this turn.
+Surveil 2. => Up to two target creatures can't block this turn.
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Grandiose Destiny
+
+Poleaxe
+
+Vengeant Huolong
+
+Judge of Dying Pleas
+
+Yin Bowmaster
+
+Duke of Ashen Haloes
+
+Ash-Mortar Alchemist
+
+Weave with Conviction
+
+Flowing Riposte
+
+Ignite Inner Fires
+
+Qi Manifest
+
+Corpsemire Ferryman
+
+Ruin Poet
+rules_text: When Ruin Poet dies, mill three cards, then return a land card milled this way from your graveyard to your hand. => When Ruin Poet dies, mill three cards, then return up to one land card milled this way from your graveyard to your hand.
+
+Eng Vizier
+
+Shun Luxuries
+
+Engulfing Taotie
+
+Tromp the Battlements
+
+Daunt
+
+Passage of a Wild Lord
+
+Nurturing Shenglong
+
+Sun Forcesage
+
+Reverent Tombsweeper
+
+Auspicious Qilin
+rules_text: Whenever an opponent casts a spell that targets one or more permanents you control, create a token that's a copy of Auspicious Qilin.
+{3}{G}, {T}, Sacrifice Auspicious Qilin: Search your library for a non-Kirin permanent card, reveal it, put it into your hand, then shuffle. => Whenever an opponent casts a spell that targets another permanent you control, create a token that's a copy of Auspicious Qilin.
+{3}{G}, {T}, Sacrifice Auspicious Qilin: Search your library for a non-Kirin permanent card, reveal it, put it into your hand, then shuffle.
+
+Onward to Purpose
+
+Tenuous Truce
+
+At Lake Tai's Mercies
+
+Veil-Lifting Lordship
+
+Underhanded Slice
+
+Imbalanced Qi
+
+Hellish Exaltation
+
+Nightblossom Feitian
+pt: 1/3 => 2/2
+
+Inkwater Earl
+
+Looming Fate
+
+Aspect of Authority
+
+Swift-Arm Lu Yao
+
+Imperious Genealogist
+
+Severing-Blade Sheng Lei
+
+Everscale
+
+Hui Ascendancy
+
+Hui Chen, Dust in the Wind
+rules_text: Each creature you control with a counter on it has all abilities of each other creature you control with a counter on it.
+Memorialize X — {X}. Spend only white, black, and green mana on X. [i]({X}, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put two +1/+1 counters on it.)[/i] => Each creature you control with a counter on it has all abilities of each other creature you control with a counter on it.
+Memorialize X — {X}. Spend only white, black, and green mana on X. [i]({X}, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put X +1/+1 counters on it.)[/i]
+
+Xian Ascendancy
+rules_text: Whenever a creature you control deals combat damage to a player or battle, you may activate an ability of that creature without paying its costs. [i](This includes {T}.)[/i]
+Creatures you control have “{1}{U}{R}{W}, {T}: Draw a card.” => Whenever a creature you control deals combat damage to a player or battle, you may activate an ability of that creature by paying {3} rather than paying its other costs. [i](This includes {T}.)[/i]
+Creatures you control have “{2}{U}{R}{W}, {T}: Draw a card.”
+
+Eng Ascendancy
+rules_text: Once each turn, when you sacrifice a permanent, create a token that's a copy of it.
+At the beginning of your upkeep, create a 3/1 black Zombie Serf creature token with decayed. It gains haste until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Once each turn, when you sacrifice another permanent, create a token that's a copy of it.
+At the beginning of your upkeep, create a 3/1 black Zombie Serf creature token with decayed. It gains haste until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Yin Ascendancy
+
+Sun Ascendancy
+
+Ancestral Holdings
+rules_text: Exile the top three cards of your library. You may cast a nonland permanent card from among them this turn by sacrificing a creature in addition to paying its other costs.
+Create a 1/1 red Soldier creature token. => Exile the top three cards of your library. You may cast permanent spells from among them this turn by sacrificing a creature in addition to paying their other costs.
+Create a 1/1 red Soldier creature token.
+
+Sky-Slicing Houtai
+
+Eng Scrivener
+
+Bloodied Yet Victorious
+
+Wondrous Genesis
+
+Yin Tuan, Improdigal Son
+
+Queen Mother Qingyun
+rules_text: This spell can't be countered.
+Flying, protection from spells
+When Queen Mother Qingyun enters, you may contest your library. Then if you do, shuffle your graveyard into your library. [i](Exile all cards in your library, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested cards into your hand.”)[/i] => Flying
+When Queen Mother Qingyun enters, you may contest your library. Then if you do, shuffle your graveyard into your library. [i](Exile all cards in your library, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested cards into your hand.”)[/i]
+pt: 3/3 => 3/1
+
+Rooftop Espionage
+
+Grim Purpose
+
+Imperious Trophy-Taker
+
+Rule by Authority
+
+Procession into Dusk
+cost: {1}{B}{B} => {3}{B}
+
+Ironflail Tyrant
+
+The Golden Crow
+cost: {2}{R} => {4}{R}
+pt: 2/3 => 4/3
+
+Bear the Standard
+
+Thousand-Ink Muralist
+
+Infidelipede
+
+Jingzhi Commandant
+
+Midnight Market
+cost: {2}{G} => {3}{G}
+
+Baojian
+
+Grandstanding Puppetry
+rules_text: You may have Grandstanding Puppetry enter as a copy of target creature you control, except it has base power and toughness 3/3. When you do, create a token that's a copy of that creature, except it has base power and toughness 3/3. => Trample
+{6}, Exile Grandstanding Puppetry from your graveyard: Create two tokens that are copies of target creature you control, except they're 3/3 Scarecrow creatures in addition to their other types.
+pt: 3/3 => 6/6
+
+Ever-Radiant Qipao
+
+Seambreaking Jingwa
+
+Unrobed Monolith
+
+Zhuquan, Queenly Messenger
+
+Placid Inn
+rules_text: {T}: Add {C}.
+{1}, Discard Placid Inn: Draw a card. Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this: Add one mana of any color.”)[/i] => {T}: Add {C}.
+{3}, Discard Placid Inn: Draw a card. Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this: Add one mana of any color.”)[/i]
+
+Hymnecho Alley
+
+Riverperch Retreat
+
+Cliffclinging Shrines
+
+Starkscar Battlefield
+
+Halls of Change
+
+Gliding Courthouse
+
+Listless Harbor
+
+Trainee's Plaza
+
+Sunset Courtyard
+
+Ruined Sanctuary
+
+Unyielding Edifice
+
+Churning Waterfront
+
+Incense Haunt
+
+Heavenward Turret
+
+Miasmic Mansion
+
+Tailei Qiwang, Southwarden
+rules_text: Whenever Tailei Qiwang enters or attacks, creatures you control gain first strike and deathtouch until end of turn.
+{5}: Exile Tailei Qiwang from your graveyard and a battle you control. Put all cards exiled with either one into your hand. => Whenever Tailei Qiwang enters or attacks, creatures you control gain first strike and deathtouch until end of turn.
+{5}, Remove all counters from a battle you control: Return Tailei Qiwang from your graveyard to your hand.
+
+Taisha Qiwang, Westwarden
+rules_text: Whenever Taisha Qiwang enters or attacks, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast it without paying its mana cost. Then shuffle.
+{5}: Exile Taisha Qiwang from your graveyard and a battle you control. Put all cards exiled with either one into your hand. => Whenever Taisha Qiwang enters or attacks, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast it without paying its mana cost. Then shuffle.
+{5}, Remove all counters from a battle you control: Return Taisha Qiwang from your graveyard to your hand.
+
+Taiyu Qiwang, Eastwarden
+rules_text: Whenever Taiyu Qiwang enters or attacks, untap all lands you control. They gain “{T}: Add one mana of any color” until end of turn.
+{5}: Exile Taiyu Qiwang from your graveyard and a battle you control. Put all cards exiled with either one into your hand. => Whenever Taiyu Qiwang enters or attacks, untap all lands you control. They gain “{T}: Add one mana of any color” until end of turn.
+{5}, Remove all counters from a battle you control: Return Taiyu Qiwang from your graveyard to your hand.
+
+Taixue Qiwang, Northwarden
+rules_text: Whenever Taixue Qiwang enters or attacks, each opponent sacrifices a permanent with the greatest mana value among permanents they control, then draws a card.
+{5}: Exile Taixue Qiwang from your graveyard and a battle you control. Put all cards exiled with either one into your hand. => Whenever Taixue Qiwang enters or attacks, each opponent sacrifices a permanent with the greatest mana value among permanents they control, then draws a card.
+{5}, Remove all counters from a battle you control: Return Taixue Qiwang from your graveyard to your hand.
+
+Erhu Symphonist
+
+Aizu Battalion
+
+Hundun
+rules_text: Whenever a player casts a spell or activates a nonmana ability, counter it. That player creates X 2/2 red Avatar Beast creature tokens with haste that can't block, where X is the amount of mana they spent to cast that spell or activate that ability.
+Sacrifice five Beasts: Until end of turn, Hundun becomes a 14/14 Elder Avatar creature with trample and haste. Activate only as a sorcery. => Whenever you cast a spell, counter it, then creates X 2/2 red Avatar Beast creature tokens with haste that can't block, where X is the amount of mana spent to cast it.
+Sacrifice five Beasts: Until end of turn, Hundun becomes a 14/14 Elder Avatar creature with trample and haste. Activate only as a sorcery.
+
+Rule by Resolve
+
+Nuolan's Coronation
+cost: {6}{U}{U} => {1}{U}{U}{U}
+rules_text: Take an extra turn after this one. During that turn, permanents you control have hexproof, and if damage would be dealt to you, draw that many cards instead.
+Exile Nuolan's Coronation. => Take an extra turn after this one. During that turn, only legendary creatures can attack and block.
+Exile Nuolan's Coronation.
+
+Worldharvest
+
+Favor of the Tombs
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
