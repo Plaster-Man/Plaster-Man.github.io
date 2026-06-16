@@ -1,4 +1,226 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Endurant Earthwarden added.
+
+Everscale removed.
+
+Dixia Jun
+cost: {4} => {3}
+pt: 0/4 => 2/4
+
+Audience at Mount Ruan
+
+Jiangshi Archlich
+
+Elder of Broken Tablets
+rules_text: Ward {2}
+Whenever an opponent casts a noncreature spell, create a 1/1 colorless Spirit creature token.
+Whenever you cast a creature spell, you may pay {2} and sacrifice a Spirit. When you do, copy it. [i](A copy of a permanent spell becomes a token.)[/i] => Whenever an opponent casts a noncreature spell, create a 1/1 colorless Spirit creature token.
+Whenever you cast a creature spell, you may pay {2} and sacrifice a Spirit. When you do, copy it. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Rule by Ineffability
+rules_text: You may pay {U} and tap a legendary creature you control with power X or less rather than pay Rule by Ineffability's mana cost.
+Return each nonland permanent with mana value X or less to their owner's hands. => You may pay {U} and tap a legendary creature you control with power X rather than pay Rule by Ineffability's mana cost.
+Draw X cards, then discard a card.
+
+Tense Negotiations
+
+Xian Fateweaver
+
+Righteous Hailstorm
+
+Framed Scion
+rules_text: Defender
+When Framed Scion enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+When Framed Scion dies, draw a card. => Defender
+When Framed Scion enters, surveil 1.
+When Framed Scion dies, draw a card.
+
+Qi Transfer
+
+Dragoncoil Bashe
+
+Rule by Birthright
+rules_text: You may pay {W} and tap a legendary creature you control with power X or less rather than pay Rule by Birthright's mana cost.
+Destroy all artifacts and enchantments your opponents control with mana value X or less. => You may pay {W} and tap a legendary creature you control with power X rather than pay Rule by Birthright's mana cost.
+Return target nonland permanent card with mana value X or less from your graveyard to the battlefield.
+
+Alabaster Tigress
+
+Sunflare Marquess
+
+Clash of Conscience
+type: Instant => Sorcery
+cost: {U}{R} => {1}{U}{R}
+
+Grave Exorcist
+rules_text: When Grave Exorcist enters, you may have target opponent reveal their hand. If you do, choose a creature card from it. That player discards that card, then creates a 3/1 black Zombie Serf creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{1}{B}: Grave Exorcist gains protection from Zombies until end of turn. => When Grave Exorcist enters, you may have target opponent discard a card. If they do, they create a 3/1 black Zombie Serf creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{1}{B}: Grave Exorcist gains protection from Zombies until end of turn.
+
+Preening Paradisiac
+
+Nuolan, Philosopher-Queen
+cost: {1}{G} => {2}{G}{U}
+pt: 1/2 => 2/4
+
+Daoshi of Natural Paths
+
+Beseech Hell
+
+Virtuous Deeds
+
+Prisoner of War
+
+Inherited Aid
+rules_text: Look at the top three cards of your library. Put a nonland permanent card from among them into your hand. Put the rest into your graveyard.
+{1}{W}, Exile Inherited Aid and two other cards from your graveyard: Draw a card. => Look at the top three cards of your library. Reveal a nonland permanent card from among them and put it into your hand. Put the rest into your graveyard.
+{1}{W}, Exile Inherited Aid and two other cards from your graveyard: Draw a card.
+
+By the Court's Graces
+rules_text: Exile target creature you control, then return it to the battlefield under your control with a +1/+1 and a flying counter on it. It's a Noble in addition to its other types. => Exile target creature you control, then return it to the battlefield under its owner's control. Put a +1/+1 and a flying counter on it. It becomes a Noble in addition to its other types.
+
+Forked-Bolt Leigong
+
+Secure
+
+Rise from the Stockade
+
+Death-Ledger Rearguard
+
+Miasmic Pilgrimage
+rules_text: Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Return target nonland permanent you don't control to its owner's hand. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Return target nonland permanent you don't control to its owner's hand. Surveil 1.
+
+Hui Revenant
+
+Stray Hulk
+
+Grievous Deeds
+
+Dethrone
+
+Servile Summons
+type: Instant => Sorcery
+cost: {1}{B} => {3}{B}
+rules_text: Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Create a tapped token that's a copy of target creature card in your graveyard, except it's a 1/1 Zombie Serf. [i](You can't pick a creature untethered by Servile Summons this way.)[/i] => Untether [i](As you cast this spell, you may sacrifice a creature. When you do, copy it. You may choose new targets for the copy.)[/i]
+Return target creature card from your graveyard to the battlefield. [i](You can't pick a creature untethered by Servile Summons this way.)[/i]
+
+Outflanking Firebrand
+
+Stoke Animosity
+rules_text: Up to two target creatures can't block this turn.
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Up to two target creatures can't block this turn.
+Surveil 2.
+
+Flowing Riposte
+type: Sorcery => Instant
+rules_text: [i]Rebalance[/i] — If different nonland permanents you control entered and left the battlefield this turn, if an instant or sorcery spell you control would deal damage this turn, it deals that much damage plus 1 instead.
+Flowing Riposte deals 2 damage to any target. => [i]Rebalance[/i] — Flowing Riposte deals 2 damage to target creature or planeswalker. If different nonland permanents you control entered and left the battlefield this turn, it deals 4 damage instead.
+
+Immortal's Palanquin
+rules_text: Trample
+Whenever Immortal's Palanquin deals combat damage to a player or battle, you may activate an ability of a creature that crewed it this turn without paying its costs. [i](This includes {T}.)[/i]
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+Whenever Immortal's Palanquin deals combat damage to a player or battle, you may activate an ability of a creature that crewed it this turn. It costs {T} less to activate this way.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Ruin Poet
+rules_text: When Ruin Poet dies, mill three cards, then return up to one land card milled this way from your graveyard to your hand. => When Ruin Poet dies, mill three cards, then return a land card milled this way from your graveyard to your hand.
+
+Nine-Petal Xiangliu
+cost: {X}{G}{G} => {1}{G}{G}
+rules_text: Ward {2}
+Nine-Petal Xiangliu enters with X +1/+1 counters on it.
+[i]Rebalance[/i] — At the beginning of your end step, if different nonland permanents you control entered and left the battlefield this turn, tap Nine-Petal Xiangliu and double the number of counters on it. => Ward {2}
+Nine-Petal Xiangliu enters with two +1/+1 counters on it.
+[i]Rebalance[/i] — At the beginning of your end step, if different nonland permanents you control entered and left the battlefield this turn, tap Nine-Petal Xiangliu and double the number of counters on it.
+
+Tenuous Truce
+
+Hellish Exaltation
+
+Looming Fate
+
+Aspect of Authority
+rules_text: Triggered abilities don't trigger. [i](Junling won't reset stats.)[/i]
+Junling {R}{W} [i](If you cast this for its junling cost, it enters as a 1/1. Reset its power and toughness whenever it damages a player or battle.)[/i] => Whenever an ability of a nonland permanent triggers for the first time each turn, counter that ability. [i](Junling won't reset stats if it's countered.)[/i]
+Junling {R}{W} [i](If you cast this for its junling cost, it enters as a 1/1. Reset its power and toughness whenever it damages a player or battle.)[/i]
+
+Xian Ascendancy
+rules_text: Whenever a creature you control deals combat damage to a player or battle, you may activate an ability of that creature by paying {3} rather than paying its other costs. [i](This includes {T}.)[/i]
+Creatures you control have “{2}{U}{R}{W}, {T}: Draw a card.” => Whenever you attack, add {U}{U}{R}{R}{W}{W}. This mana can't be spent to cast spells.
+Whenever a creature you control attacks, you may activate one of its abilities. It costs {T} less to activate this way.
+
+Yin Tuan, Improdigal Son
+cost: {W} => {1}{W}
+rules_text: Whenever Yin Tuan deals combat damage to a player or battle, that player or that battle's protector creates a Treasure token. [i](It's an artifact with “{T}, Sacrifice this: Add one mana of any color.”)[/i] => Legendary spells and battle spells you cast cost {1} less to cast.
+{2}{W}, Exile Yin Tuan: Look at the top seven cards of your library. You may reveal a legendary and/or a battle card from among them. Put each card revealed this way into your hand and the rest on the bottom on your library in a random order.
+pt: 3/1 => 2/1
+
+Queen Mother Qingyun
+rules_text: Flying
+When Queen Mother Qingyun enters, you may contest your library. Then if you do, shuffle your graveyard into your library. [i](Exile all cards in your library, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested cards into your hand.”)[/i] => Flying
+You can't attack battles.
+When Queen Mother Qingyun enters, you may contest all but the bottom card of your library. [i](Exile those cards from your library, then create a Conflict battle an opponent protects with defense 2 and “When this is defeated, put the contested cards into your hand.”)[/i]
+pt: 3/1 => 3/3
+
+Grim Purpose
+
+Agate Grandmaster
+rules_text: Ward— Pay 2 life.
+Whenever an opponent casts or copies a noncreature spell, they lose 2 life.
+Memorialize 1 — {B}, Pay 2 life. [i]({B}, Pay 2 life, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put a +1/+1 counter on it.)[/i] => Lifelink
+Whenever an opponent casts or copies a noncreature spell, they lose 2 life.
+Memorialize 1 — {1}{B}, Pay 2 life. [i]({1}{B}, Pay 2 life, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put a +1/+1 counter on it.)[/i]
+
+Rule by Authority
+rules_text: You may pay {B} and tap a legendary creature you control with power X or less rather than pay Rule by Authority's mana cost.
+Search your library for a nonland card with mana value X or less, reveal it, put it into your hand, then shuffle. => You may pay {B} and tap a legendary creature you control with power X rather than pay Rule by Authority's mana cost.
+Search your library for a nonland card with mana value X or less, reveal it, put it into your hand, then shuffle.
+
+Ironflail Tyrant
+rules_text: Trample
+Whenever Ironflail Tyrant is dealt damage, it deals that much damage to you unless you control a creature with lesser power. => Trample
+Whenever Ironflail Tyrant attacks, if it's not attacking a battle, put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+All Under Heaven
+cost: {3}{G} => {2}{G}
+rules_text: Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. You gain 2 life.
+{W}{U}{B}{R}{G}, Exile All Under Heaven from your graveyard: You win the game if there are twelve or more unique names among lands you control. => Search your library for up to three land cards with different names, put them into your hand, then shuffle. You gain 3 life.
+{W}{U}{B}{R}{G}, Exile All Under Heaven from your graveyard: You win the game if there are twelve or more unique names among lands you control.
+
+Zhuquan, Queenly Messenger
+cost: {5} => {4}
+
+Erhu Symphonist
+
+Aizu Battalion
+rules_text: Sacrifice Aizu Battalion: Target creature you control gains indestructible until end of turn. Tap that creature.
+Memorialize 2 — {3}{W} [i]({3}{W}, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put two +1/+1 counters on it.)[/i] => Sacrifice Aizu Battalion: Target creature you control gains indestructible until end of turn.
+Memorialize 2 — {3}{W} [i]({3}{W}, Exile this from your graveyard as a sorcery: Target creature gains its other abilities. Put two +1/+1 counters on it.)[/i]
+pt: 3/2 => 2/2
+
+Rule by Resolve
+rules_text: You may pay {R} and tap a legendary creature you control with power X or less rather than pay Rule by Resolve's mana cost.
+Rule by Resolve deals X damage to each of up to X target creatures and/or planeswalkers. => You may pay {R} and tap a legendary creature you control with power X rather than pay Rule by Resolve's mana cost.
+Create X 1/1 red Soldier creature tokens.
+
+Rule by Pragmatism
+rules_text: You may pay {G} and tap a legendary creature you control with power X or less rather than pay Rule by Pragmatism's mana cost.
+Reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield tapped. Then shuffle. => You may pay {G} and tap a legendary creature you control with power X rather than pay Rule by Pragmatism's mana cost.
+Reveal the top X cards of your library. You may put a nonland permanent card with mana value X or less from among them onto the battlefield tapped. Then shuffle.
+
+Nuolan's Coronation
+rules_text: Take an extra turn after this one. During that turn, only legendary creatures can attack.
+Exile Nuolan's Coronation. => Take an extra turn after this one. During that turn, only legendary creatures you control can attack.
+Exile Nuolan's Coronation.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
